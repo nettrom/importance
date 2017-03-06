@@ -223,6 +223,8 @@ class Retriever:
                     art_page_id = -1
                 if not art_revision_id:
                     art_revision_id = -1
+                if art_is_redirect is None:
+                    art_is_redirect = 0
 
                 talk_pages[talk_page_id] = ImportanceRating(talk_page_id,
                                                             talk_revision_id,
