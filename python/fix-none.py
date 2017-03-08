@@ -30,13 +30,13 @@ import logging
 def fix_none(input_filename, output_filename, none_col,
              replacement):
     '''
-    Open the input bzip2-compressed TSV file and change all None-values in
+    Open the input TSV file and change all None-values in
     the given column to 0.
 
     :param input_filename: path to the input TSV file
     :type input_filename: str
 
-    :param output_filename: path to write the fixed bzip2-compressed TSV file
+    :param output_filename: path to write the fixed TSV file
     :type output_filename: str
 
     :param none_col: zero-based index of the column with None-values

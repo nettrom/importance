@@ -26,11 +26,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 '''
 
+import re
 import logging
 
 from collections import defaultdict
 
-def count_ratings(input_filename, output_filename, id_col, rating_col):
+def count_ratings(input_filename, output_filename,
+                  id_col, rating_col, project_col):
     '''
     Process the given rating column in our dataset and produce a new
     dataset with statistics on the number of ratings and such.
@@ -47,8 +49,16 @@ def count_ratings(input_filename, output_filename, id_col, rating_col):
 
     :param rating_col: zero-based index of the column with the ratings
     :type rating_col: int
+
+    :param project_col: zero-based index of the column that contains
+                        the associated WikiProject names
+    :type project_col: int
     '''
 
+    ## Regular expression to match extracted WikiProject names that
+    ## contain article quality assessments (e.g. 'c-class russia')
+    class_re = re.compile('(fa|ga|a|b|c|start|stub)-class')
+    
     with open(input_filename, 'r', encoding='utf-8') as infile:
         with open(output_filename, 'w', encoding='utf-8') as outfile:
             ## Grab the header line and write out the ID column
@@ -60,12 +70,17 @@ def count_ratings(input_filename, output_filename, id_col, rating_col):
             for line in infile:
                 cols = line.rstrip('\n').split('\t')
                 ratings = cols[rating_col].split(',')
-
+                projects = cols[project_col].split('::')
+                
                 counts = defaultdict(int)
-                for rating in ratings:
-                    counts[rating] += 1
-
-                counts['n_ratings'] = sum([counts[k] for k in ['top', 'high', 'mid', 'low', 'unknown', 'na']]
+                for j in range(len(ratings)):
+                    if class_re.search(projects[j]):
+                        logging.info('ignoring mislabelled project "{}"'.format(projects[j]))
+                        continue
+        
+                    counts[ratings[j]] += 1
+                    
+                counts['n_ratings'] = sum([counts[k] for k in ['top', 'high', 'mid', 'low', 'unknown', 'na']])
                 counts['id'] = cols[id_col]
                 
                 outfile.write('{id}\t{n_ratings}\t{top}\t{high}\t{mid}\t{low}\t{unknown}\t{na}\n'.format(**counts))
@@ -93,14 +108,18 @@ def main():
     cli_parser.add_argument('output_filename', type=str,
                             help="path to the output TSV file")
 
-    ## unique ID column
+    ## unique ID column index
     cli_parser.add_argument('id_column', type=int,
                             help="zero-based index of the column holding the unique ID (e.g. talk page ID) to be used in the output dataset")
     
-    ## unique ID column
+    ## rating column index
     cli_parser.add_argument('rating_column', type=int,
                             help="zero-based index of the column holding the ratings")
-    
+
+    ## project name column index
+    cli_parser.add_argument('project_column', type=int,
+                            help="zero-based index of the column holding the names of the WikiProjects")
+                                          
     cli_parser.add_argument("-v", "--verbose", action="store_true",
                             help="write informational output");
 
@@ -109,7 +128,7 @@ def main():
         logging.basicConfig(level=logging.INFO)
 
     count_ratings(args.input_filename, args.output_filename, args.id_column,
-                  args.rating_column)
+                  args.rating_column, args.project_column)
         
     return()
 
