@@ -17,3 +17,8 @@ length(unique(impdata$talk_page_id)) == length(impdata$talk_page_id);
 rating_counts = data.table(fread('datasets/rating-counts.tsv',
                                       header=TRUE, sep='\t'));
 
+## Load in the dataset of unanimous rated articles after it has been extended
+## with inlink counts and views
+unanimous_dataset = data.table(read.table(
+  'datasets/unanimous-rated-articles-extended.tsv', header=TRUE,
+  sep='\t', quote='', stringsAsFactors=FALSE));
