@@ -22,3 +22,45 @@ rating_counts = data.table(fread('datasets/rating-counts.tsv',
 unanimous_dataset = data.table(read.table(
   'datasets/unanimous-rated-articles-extended.tsv', header=TRUE,
   sep='\t', quote='', stringsAsFactors=FALSE));
+
+## Load in the dataset of unanimously rated articles after verification of
+## their ratings using the talk pages
+unanimous_verified = data.table(read.table(
+  'datasets/unanimous-rated-articles-verified.tsv', header=TRUE,
+  sep='\t', quote='', stringsAsFactors = FALSE
+));
+
+unanimous_viewdata = data.table(read.table(
+  'datasets/unanimous-rated-articles-user-views-processed.tsv', header=TRUE,
+  sep='\t', quote='', stringsAsFactors = FALSE
+));
+
+unanimous_userviews = data.table(read.table(
+  'datasets/unanimous-rated-articles-user-views-processed.tsv', header=TRUE,
+  sep='\t', quote='', stringsAsFactors = FALSE
+));
+
+unanimous_clickstream = data.table(read.table(
+  'datasets/unanimous-clickdata.tsv', header=TRUE, sep='\t', quote='',
+  stringsAsFactors=FALSE));
+
+## Load in the WikiProject Medicine dataset
+wpmed = data.table(read.table(
+  'datasets/wpmed-dataset.tsv', header=TRUE, sep='\t', quote='',
+  stringsAsFactors=FALSE
+));
+
+## Load in the WikiProject Medicine disambiguation pages
+wpmed_disambig = data.table(read.table('datasets/wpmed-disambiguation-pages.tsv',
+                                       header=TRUE, sep='\t', quote='',
+                                       stringsAsFactors=FALSE));
+
+## Load in the WikiProject Medicine clickstream dataset
+wpmed_clickstream = data.table(read.table('datasets/wpmed-clickstream.tsv',
+                                          header=TRUE, sep='\t', quote='',
+                                          stringsAsFactors=FALSE));
+
+## Load in the WikiProject Medicine dataset on individuals that we rated Low-importance
+wpmed_individuals = data.table(read.table('datasets/wpmed-non-low-importance-people.tsv',
+                                          header=TRUE, sep='\t', quote='',
+                                          stringsAsFactors=FALSE));

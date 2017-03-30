@@ -34,8 +34,6 @@ from datetime import datetime, date, timedelta
 import requests
 from urllib.parse import quote
 
-import MySQLdb
-
 class ArticleData:
     def __init__(self, page_id, page_title):
         self.page_id = page_id
@@ -52,7 +50,7 @@ class ViewGetter:
 
         self._headers = {
             'User-Agent': 'SuggestBot/1.0',
-            'From:': 'morten@cs.umn.edu',
+            'From': 'morten@cs.umn.edu',
             }
 
     def get_views(self, input_filename, output_filename, end_date,
@@ -162,8 +160,11 @@ class ViewGetter:
 
         # test url for Barack Obama
         # 'https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/all-agents/Barack%20Obama/daily/20160318/20160331'
+
+        ## Let's switch to using just the user-generated views
+        view_type = 'user' # use 'all-agents' to also count bots
         
-        url = '{api_url}{lang}.wikipedia/all-access/all-agents/{title}/daily/{startdate}/{enddate}'.format(api_url=self.pageview_url, lang=self.lang, title=quote(page_title, safe=''), startdate=start_date.strftime('%Y%m%d'), enddate=end_date.strftime('%Y%m%d'))
+        url = '{api_url}{lang}.wikipedia/all-access/{viewtype}/{title}/daily/{startdate}/{enddate}'.format(api_url=self.pageview_url, lang=self.lang, viewtype=view_type, title=quote(page_title, safe=''), startdate=start_date.strftime('%Y%m%d'), enddate=end_date.strftime('%Y%m%d'))
 
         view_list = []
         num_attempts = 0
