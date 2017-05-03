@@ -1,8 +1,8 @@
 #!/usr/env/python
 # -*- coding: utf-8 -*-
 '''
-Script that processes the clickstream dataset for extraction of information
-about pages in a given other dataset.
+Script that processes the clickstream dataset for information about pages
+in a given WikiProject snapshot.
 
 Copyright (c) 2017 Morten Wang
 
@@ -25,91 +25,43 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 '''
 
+import yaml
+
 import logging
 
-class Article:
-    def __init__(self, title):
-        '''
-        Create an ArticleClicks object for the article with the given title.
-        '''
-        self.title = title
-
-        ## We want to calculate the proportion of views that come from
-        ## other articles, and the proportion of inlinks that are actually
-        ## used, so these are the associated variables.
-        self.n_views = -1
-        self.n_from_articles = -1
-        self.n_active_inlinks = -1
-
-        # set of titles of articles that are the source of a view of this article
-        self.active_inlinks = set()
-
-        ## Number of views from articles within the project
-        ## and number of active inlinks from within the project.
-        ## These are project-specific variants of the measures above.
-        self.n_from_project_articles = -1
-        self.n_project_active_inlinks = -1
-
-        # set of titles of articles within the project that is the source
-        # of a view of this article
-        self.project_active_inlinks = set()
+import wikiproject as wp
 
 class ClickProcessor:
     def __init__(self):
         pass
 
-    def process_clickstream(self, article_filename, clickstream_filename,
-                            output_filename, title_col_idx, is_project=False):
+    def process_clickstream(self, config_filename, clickstream_filename):
         '''
-        Process the clickstream, counting clicks for the articles defined
-        in the given article dataset. Can also consider traffic from articles
-        within a given WikiProject if options are set.
+        Read in the configuration file and the snapshot dataset defined
+        in it. Then stream the given clickstream dataset, counting clicks
+        for the articles in the snapshot.
 
-        :param article_filename: path to a TSV file with information on the
-                                 articles that we are intersted in 
-        :type article_filename: str
+        :param config_filename: path to the YAML project configuration
+        :type config_filename: str
 
         :param clickstream_filename: path to the clickstream dataset
         :type clickstream_filename: str
-
-        :param output_filename: path to the output file
-        :type output_filename: str
-
-        :param title_col_idx: zero-based index of the title column in the TSV
-        :type title_col_idx: int
-
-        :param is_project: are we processing a WikiProject?
-        :type is_project: bool
         '''
 
+        with open(config_filename) as infile:
+            proj_conf = yaml.load(infile)
+
         # Mapping titles (in clickstream format) to article objects
-        title_map = dict()
-        
-        with open(article_filename, 'r', encoding='utf-8') as infile:
-            infile.readline() # skip header
-            for line in infile:
-                cols = line.rstrip('\n').split('\t')
+        title_map = {p.talk_page_title:p for p in
+                     wp.read_snapshot(proj_conf['snapshot file'])
+                     if p.page_id != "-1"}
 
-                # We store the dataset title in the object, then replace
-                # any " " with "_" to match the clickstream dataset.
-                art_obj = Article(cols[title_col_idx])
-                click_title = cols[title_col_idx].replace(" ", "_")
-                title_map[click_title] = art_obj
-
-        logging.info('read in data on {} articles'.format(len(title_map)))
-                
-        # open the output file
-        outfile = open(output_filename, 'w', encoding='utf-8')
-        
-        # Article title, total number of views, number of views from other
-        # articles, number of other articles being sources of clicks,
-        # number of views from articles within the WikiProject, and
-        # number of other articles in the WikiProject being sources of clicks
-        outfile.write('title\tn_views\tn_from_art\tn_act_links\tn_from_proj\tn_proj_act\n')
-
+        logging.info('read in snapshot with {} articles'.format(len(title_map)))
+            
         # process the clickstream dataset
         i = 0
         with open(clickstream_filename, 'r', encoding='utf-8') as clickstream:
+            clickstream.readline() # skip the header
             for line in clickstream:
                 i += 1
                 if i % 1000 == 0:
@@ -123,7 +75,7 @@ class ClickProcessor:
 
                 n = int(n)
                 art_obj = title_map[curr]
-                art_obj.n_views += n
+                art_obj.n_clicks += n
                 
                 if click_type == "link":
                     art_obj.n_from_articles += n
@@ -131,16 +83,25 @@ class ClickProcessor:
                     
                     # We're processing a WikiProject dataset and the source
                     # is an article in the project
-                    if is_project and prev in title_map:
+                    if prev in title_map:
                         art_obj.n_from_project_articles += n
                         art_obj.project_active_inlinks.add(prev)
 
-        ## ok, write out the results
-        for art_obj in title_map.values():
-            art_obj.n_active_inlinks = len(art_obj.active_inlinks)
-            art_obj.n_project_active_inlinks = len(
-                art_obj.project_active_inlinks)
-            outfile.write('{0.title}\t{0.n_views}\t{0.n_from_articles}\t{0.n_active_inlinks}\t{0.n_from_project_articles}\t{0.n_project_active_inlinks}\n'.format(art_obj))
+        # open the output file
+        with open(proj_conf['clickstream file'], 'w',
+                  encoding='utf-8') as outfile:
+            # Article page ID, total number of views, number of views from other
+            # articles, number of other articles being sources of clicks,
+            # number of views from articles within the WikiProject, and
+            # number of other articles in the WikiProject being sources of clicks
+            outfile.write('page_id\tn_clicks\tn_from_art\tn_act_links\tn_from_proj\tn_proj_act\n')
+
+            ## ok, write out the results
+            for art_obj in title_map.values():
+                art_obj.n_active_inlinks = len(art_obj.active_inlinks)
+                art_obj.n_project_active_inlinks = len(
+                    art_obj.project_active_inlinks)
+                outfile.write('{0.page_id}\t{0.n_clicks}\t{0.n_from_articles}\t{0.n_active_inlinks}\t{0.n_from_project_articles}\t{0.n_project_active_inlinks}\n'.format(art_obj))
             
         ## ok, close the output file
         outfile.close()
@@ -155,21 +116,12 @@ def main():
         description="script to process clickstream data"
     )
 
-    cli_parser.add_argument("input_filename", type=str,
-                            help="path to the input TSV dataset")
+    cli_parser.add_argument("config_filename", type=str,
+                            help="path to the project YAML configuration file")
 
     cli_parser.add_argument("clickstream_filename", type=str,
                             help="path to the clickstream dataset")
     
-    cli_parser.add_argument("output_filename", type=str,
-                            help="path to the output TSV extended dataset")
-
-    cli_parser.add_argument("title_col_idx", type=int,
-                            help="zero-based index of the article title column in the input TSV dataset")
-
-    cli_parser.add_argument('-p', '--project', action='store_true',
-                            help='set if process a WikiProject dataset, will then also add data on source articles within the project')
-
     # Verbosity option
     cli_parser.add_argument('-v', '--verbose', action='store_true',
                             help='write informational output')
@@ -180,9 +132,8 @@ def main():
         logging.basicConfig(level=logging.INFO)
 
     processor = ClickProcessor()
-    processor.process_clickstream(args.input_filename, args.clickstream_filename,
-                                  args.output_filename, args.title_col_idx,
-                                  is_project=args.project)
+    processor.process_clickstream(args.config_filename,
+                                  args.clickstream_filename)
     return()
 
 if __name__ == '__main__':
