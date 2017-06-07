@@ -26,6 +26,7 @@ SOFTWARE.
 
 import os
 import logging
+import subprocess
 
 import MySQLdb
 import MySQLdb.cursors
@@ -89,3 +90,44 @@ def disconnect(connection):
     except:
         pass
     return()
+
+def execute_sql(sql_file, host, database, config_file, output_file=None):
+    '''
+    Fork out a shell to execute the given file with SQL statements
+    after connecting to the given host and database, using the
+    configuration file for authentication, with optional output
+    to a given file.
+
+    :param sql_file: path to the SQL file to execute
+    :type sql_file: str
+
+    :param host: hostname of the database server
+    :type host: str
+
+    :param database: name of the database we connect to
+    :type database: str
+
+    :param config_file: configuration file to use for authentication and options
+    :type config_file: str
+
+    :param output_file: path to an output file
+    :type output_file: str
+    '''
+
+    command = 'mysql --defaults-file={} -h {} -D {} < {}'.format(
+        config_file, host, database, sql_file)
+    if output_file:
+        command = '{} > {}'.format(command, output_file)
+    
+    logging.info('`executing {}`'.format(command))
+    retcode = None
+    try:
+        retcode = subprocess.call(command, shell=True)
+        if retcode < 0:
+            logging.error("child was terminated by signal {}".format(-retcode))
+        else:
+            logging.info("child returned {}".format(retcode))
+    except OSError as e:
+        logging.error("Beeline HQL file execution failed: {}".format(e))
+    return(retcode)
+

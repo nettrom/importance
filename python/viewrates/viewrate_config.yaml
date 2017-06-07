@@ -1,0 +1,46 @@
+# Configuration file for view rate processing for English Wikipedia
+
+# Wikipedia language code in requests (e.g. 'en.wikipedia')
+# and database names (e.g. "enwiki")
+lang: "en"
+
+# MySQL database configuration
+db_username: "research"
+db_config_file: "~/.my.research.cnf"
+db_server: "analytics-store.eqiad.wmnet"
+db_name: "staging"
+
+# MySQL database table names for data
+status_table: "nettrom_vr_status"
+page_table: "nettrom_vr_page"
+newpage_table: "nettrom_vr_newpage"
+newpage_data_table: "nettrom_vr_newpage_data"
+
+# Temporary tables, e.g. for importing data from Hadoop
+snapshot_table: "nettrom_vr_page_snapshot"
+temp_oldpage_table: "nettrom_vr_temp_oldpage"
+temp_newpage_table: "nettrom_vr_temp_newpage"
+
+# Files, databases, and tables used for Hive queries and data import/export
+sqoop_password_file: "file:///home/nettrom/.sqoop-password"
+create_hive_file: "viewrate_db_table.hql"
+create_mysql_file: "create_import_targets.sql"
+hive_database: "nettrom_viewrate"
+hive_oldpage_table: "vr_oldpage"
+hive_newpage_table: "vr_newpage"
+hive_oldpage_data_table: "vr_newpage_data"
+hive_newpage_data_table: "vr_oldpage_data"
+hive_path: "/user/hive/warehouse"
+
+# Prefix used for the sqoop import temporary directory
+tempdir_prefix: "/tmp/nettrom-"
+
+# Number of pages we process per batch when batch-processing
+slice_size: 100
+
+# Number of days in the past we start looking for view data.
+# This is > 0 because there might be delay in data being available.
+delay_days: 1
+
+# Size of the moving average window for view rate calculation
+k: 28
