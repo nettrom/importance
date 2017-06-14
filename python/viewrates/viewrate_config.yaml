@@ -17,7 +17,8 @@ newpage_table: "nettrom_vr_newpage"
 newpage_data_table: "nettrom_vr_newpage_data"
 
 # Temporary tables, e.g. for importing data from Hadoop
-snapshot_table: "nettrom_vr_page_snapshot"
+page_snapshot_table: "nettrom_vr_page_snapshot"
+redirect_snapshot_table: "nettrom_vr_redirect_snapshot"
 temp_oldpage_table: "nettrom_vr_temp_oldpage"
 temp_newpage_table: "nettrom_vr_temp_newpage"
 
@@ -28,8 +29,8 @@ create_mysql_file: "create_import_targets.sql"
 hive_database: "nettrom_viewrate"
 hive_oldpage_table: "vr_oldpage"
 hive_newpage_table: "vr_newpage"
-hive_oldpage_data_table: "vr_newpage_data"
-hive_newpage_data_table: "vr_oldpage_data"
+hive_oldpage_data_table: "vr_oldpage_data"
+hive_newpage_data_table: "vr_newpage_data"
 hive_path: "/user/hive/warehouse"
 
 # Prefix used for the sqoop import temporary directory
