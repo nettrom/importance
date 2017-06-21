@@ -95,6 +95,15 @@ class RatedPage():
         ## Sets used to track unique article inlinks
         self.active_inlinks = set()
         self.project_active_inlinks = set()
+
+    def __hash__(self):
+        return(self.talk_page_id)
+
+    def __eq__(self, other):
+        if not isinstance(other, RatedPage):
+            return(False)
+
+        return(self.talk_page_id == other.talk_page_id)
         
 def read_snapshot(snapshot_filename):
     '''
@@ -121,3 +130,22 @@ def read_snapshot(snapshot_filename):
             pages.append(page)
     
     return(pages)
+
+def write_snapshot(pages, snapshot_filename):
+    '''
+    Write out a snapshot-formatted TSV of the given pages.
+
+    :param pages: list (or other iterable) of the pages to write out
+    :type pages: list
+
+    :param snapshot_filename: path to write the snapshot TSV file
+    :type snapshot_filename: str
+    '''
+
+    with open(snapshot_filename, 'w', encoding='utf-8') as outfile:
+        outfile.write('talk_page_id\ttalk_revision_id\ttalk_page_title\ttalk_is_archive\tart_page_id\tart_revision_id\tart_is_redirect\timportance_rating\n')
+        for page in pages:
+            outfile.write('{0.talk_page_id}\t{0.talk_revision_id}\t{0.talk_page_title}\t{0.talk_is_archive}\t{0.page_id}\t{0.revision_id}\t{0.is_redirect}\t{0.importance_rating}\n'.format(page))
+
+    # ok, done
+    return()
