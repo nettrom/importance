@@ -1,0 +1,41 @@
+{| class="wikitable"
+|-
+! scope="col" style="width: 40%;" | Title (and talk)
+! Ratings
+|-
+| [[Arab world]] <small>([[Talk:Arab world]])</small>
+| High, Mid
+|-
+| [[Toécé Department]] <small>([[Talk:Toécé Department]])</small>
+| Mid, Low
+|-
+| [[Copts]] <small>([[Talk:Copts]])</small>
+| Top, High
+|-
+| [[Kazimierz Nowak]] <small>([[Talk:Kazimierz Nowak]])</small>
+| High, Low
+|-
+| [[Alberto Joaquim Vinama]] <small>([[Talk:Alberto Joaquim Vinama]])</small>
+| Mid, Low
+|-
+| [[Doulougou Department]] <small>([[Talk:Doulougou Department]])</small>
+| Mid, Low
+|-
+| [[Gaongo Department]] <small>([[Talk:Gaongo Department]])</small>
+| Mid, Low
+|-
+| [[Ipelcé Department]] <small>([[Talk:Ipelcé Department]])</small>
+| Mid, Low
+|-
+| [[Kayao Department]] <small>([[Talk:Kayao Department]])</small>
+| Mid, Low
+|-
+| [[Kombissiri Department]] <small>([[Talk:Kombissiri Department]])</small>
+| Mid, Low
+|-
+| [[Saponé Department]] <small>([[Talk:Saponé Department]])</small>
+| Mid, Low
+|-
+| [[Sudanese conflict in South Kordofan and Blue Nile]] <small>([[Talk:Sudanese conflict in South Kordofan and Blue Nile]])</small>
+| Mid, Low
+|}

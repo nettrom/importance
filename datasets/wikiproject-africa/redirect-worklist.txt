@@ -1,0 +1,946 @@
+{| class="wikitable sortable"
+|-
+! scope="col" style="width: 40%;" | Title (and talk)
+! Rating
+! Notes
+|-
+| [[African tourism by country]] <small>([[Talk:African tourism by country]])</small>
+| Top
+| 
+|-
+| [[Africans]] <small>([[Talk:Africans]])</small>
+| Top
+| 
+|-
+| [[Ancient African history]] <small>([[Talk:Ancient African history]])</small>
+| Top
+| 
+|-
+| [[Arsi Oromo clan]] <small>([[Talk:Arsi Oromo clan]])</small>
+| Top
+| 
+|-
+| [[Cameroun]] <small>([[Talk:Cameroun]])</small>
+| Top
+| 
+|-
+| [[Culture of Sudan]] <small>([[Talk:Culture of Sudan]])</small>
+| Top
+| 
+|-
+| [[Districts of Kenya]] <small>([[Talk:Districts of Kenya]])</small>
+| Top
+| 
+|-
+| [[Folk medicine]] <small>([[Talk:Folk medicine]])</small>
+| Top
+| 
+|-
+| [[History of Achaemenid Egypt]] <small>([[Talk:History of Achaemenid Egypt]])</small>
+| Top
+| 
+|-
+| [[Isoko people]] <small>([[Talk:Isoko people]])</small>
+| Top
+| 
+|-
+| [[Kose people]] <small>([[Talk:Kose people]])</small>
+| Top
+| 
+|-
+| [[Massaua District]] <small>([[Talk:Massaua District]])</small>
+| Top
+| 
+|-
+| [[Namibia Defence Force]] <small>([[Talk:Namibia Defence Force]])</small>
+| Top
+| 
+|-
+| [[Northeastern Province (Kenya)]] <small>([[Talk:Northeastern Province (Kenya)]])</small>
+| Top
+| 
+|-
+| [[Outline of Western Sahara]] <small>([[Talk:Outline of Western Sahara]])</small>
+| Top
+| 
+|-
+| [[Prostitution in Mauritius]] <small>([[Talk:Prostitution in Mauritius]])</small>
+| Top
+| 
+|-
+| [[Provinces of Gabon]] <small>([[Talk:Provinces of Gabon]])</small>
+| Top
+| 
+|-
+| [[Regions of Djibouti]] <small>([[Talk:Regions of Djibouti]])</small>
+| Top
+| 
+|-
+| [[Religion in Réunion]] <small>([[Talk:Religion in Réunion]])</small>
+| Top
+| 
+|-
+| [[Sudan People's Liberation Army/Movement]] <small>([[Talk:Sudan People's Liberation Army/Movement]])</small>
+| Top
+| 
+|-
+| [[The Independent Somali State]] <small>([[Talk:The Independent Somali State]])</small>
+| Top
+| 
+|-
+| [[Yemaja]] <small>([[Talk:Yemaja]])</small>
+| Top
+| 
+|-
+| [[History of ancient Tunisia]] <small>([[Talk:History of ancient Tunisia]])</small>
+| High
+| 
+|-
+| [[Political violence in Madagascar, 2009]] <small>([[Talk:Political violence in Madagascar, 2009]])</small>
+| High
+| 
+|-
+| [[List of African mammals]] <small>([[Talk:List of African mammals]])</small>
+| High
+| 
+|-
+| [[Agriculture of Madagascar]] <small>([[Talk:Agriculture of Madagascar]])</small>
+| High
+| 
+|-
+| [[Notable Ghanaian births and deaths]] <small>([[Talk:Notable Ghanaian births and deaths]])</small>
+| High
+| 
+|-
+| [[History of Southern Sudan]] <small>([[Talk:History of Southern Sudan]])</small>
+| High
+| 
+|-
+| [[Ranavalona I of Madagascar]] <small>([[Talk:Ranavalona I of Madagascar]])</small>
+| High
+| 
+|-
+| [[List of biosphere reserves in Madagascar]] <small>([[Talk:List of biosphere reserves in Madagascar]])</small>
+| High
+| 
+|-
+| [[Barundi]] <small>([[Talk:Barundi]])</small>
+| High
+| 
+|-
+| [[Millennium Challenge Account]] <small>([[Talk:Millennium Challenge Account]])</small>
+| Mid
+| 
+|-
+| [[List of heads of government of Kenya]] <small>([[Talk:List of heads of government of Kenya]])</small>
+| Mid
+| 
+|-
+| [[List of national parks of Uganda]] <small>([[Talk:List of national parks of Uganda]])</small>
+| Mid
+| 
+|-
+| [[British East Africa]] <small>([[Talk:British East Africa]])</small>
+| Mid
+| 
+|-
+| [[Battle of Jowhar (2006)]] <small>([[Talk:Battle of Jowhar (2006)]])</small>
+| Mid
+| 
+|-
+| [[Malawi at the 2006 Commonwealth Games]] <small>([[Talk:Malawi at the 2006 Commonwealth Games]])</small>
+| Mid
+| 
+|-
+| [[Nakfa Subregion]] <small>([[Talk:Nakfa Subregion]])</small>
+| Mid
+| 
+|-
+| [[Nigerien presidential election, 2009]] <small>([[Talk:Nigerien presidential election, 2009]])</small>
+| Mid
+| 
+|-
+| [[Nigerien parliamentary election, 1999]] <small>([[Talk:Nigerien parliamentary election, 1999]])</small>
+| Mid
+| 
+|-
+| [[List of ethnic groups in Kenya]] <small>([[Talk:List of ethnic groups in Kenya]])</small>
+| Mid
+| 
+|-
+| [[Cairo–Cape Town Highway]] <small>([[Talk:Cairo–Cape Town Highway]])</small>
+| Mid
+| 
+|-
+| [[Timeline of the Libyan Civil War]] <small>([[Talk:Timeline of the Libyan Civil War]])</small>
+| Mid
+| 
+|-
+| [[List of kings of Swaziland]] <small>([[Talk:List of kings of Swaziland]])</small>
+| Mid
+| 
+|-
+| [[Casualties of the Libyan Civil War]] <small>([[Talk:Casualties of the Libyan Civil War]])</small>
+| Mid
+| 
+|-
+| [[Food crisis in Somalia]] <small>([[Talk:Food crisis in Somalia]])</small>
+| Mid
+| 
+|-
+| [[History of the Kenya African National Union]] <small>([[Talk:History of the Kenya African National Union]])</small>
+| Mid
+| 
+|-
+| [[Libyan Air Force (2011–present)]] <small>([[Talk:Libyan Air Force (2011–present)]])</small>
+| Mid
+| 
+|-
+| [[1947 Triangulaire]] <small>([[Talk:1947 Triangulaire]])</small>
+| Mid
+| 
+|-
+| [[1948 Triangulaire]] <small>([[Talk:1948 Triangulaire]])</small>
+| Mid
+| 
+|-
+| [[1949 Triangulaire]] <small>([[Talk:1949 Triangulaire]])</small>
+| Mid
+| 
+|-
+| [[1950 Triangulaire]] <small>([[Talk:1950 Triangulaire]])</small>
+| Mid
+| 
+|-
+| [[1951 Triangulaire]] <small>([[Talk:1951 Triangulaire]])</small>
+| Mid
+| 
+|-
+| [[1952 Triangulaire]] <small>([[Talk:1952 Triangulaire]])</small>
+| Mid
+| 
+|-
+| [[1953 Triangulaire]] <small>([[Talk:1953 Triangulaire]])</small>
+| Mid
+| 
+|-
+| [[1954 Triangulaire]] <small>([[Talk:1954 Triangulaire]])</small>
+| Mid
+| 
+|-
+| [[1956 Triangulaire]] <small>([[Talk:1956 Triangulaire]])</small>
+| Mid
+| 
+|-
+| [[1957 Triangulaire]] <small>([[Talk:1957 Triangulaire]])</small>
+| Mid
+| 
+|-
+| [[1958 Triangulaire]] <small>([[Talk:1958 Triangulaire]])</small>
+| Mid
+| 
+|-
+| [[1963 Triangulaire]] <small>([[Talk:1963 Triangulaire]])</small>
+| Mid
+| 
+|-
+| [[1955 Triangulaire]] <small>([[Talk:1955 Triangulaire]])</small>
+| Mid
+| 
+|-
+| [[Agroecology in Madagascar]] <small>([[Talk:Agroecology in Madagascar]])</small>
+| Mid
+| 
+|-
+| [[Religion in Madagascar]] <small>([[Talk:Religion in Madagascar]])</small>
+| Mid
+| 
+|-
+| [[List of heads of government of Madagascar]] <small>([[Talk:List of heads of government of Madagascar]])</small>
+| Mid
+| 
+|-
+| [[Kenya Commercial Bank (Rwanda)]] <small>([[Talk:Kenya Commercial Bank (Rwanda)]])</small>
+| Mid
+| 
+|-
+| [[Esan (Edo) Language]] <small>([[Talk:Esan (Edo) Language]])</small>
+| Mid
+| 
+|-
+| [[Kenya Football Federation]] <small>([[Talk:Kenya Football Federation]])</small>
+| Mid
+| 
+|-
+| [[Italian Benghazi]] <small>([[Talk:Italian Benghazi]])</small>
+| Mid
+| 
+|-
+| [[List of Zambian entrepreneurs]] <small>([[Talk:List of Zambian entrepreneurs]])</small>
+| Mid
+| 
+|-
+| [[O Galo Que Cantou na Baía]] <small>([[Talk:O Galo Que Cantou na Baía]])</small>
+| Mid
+| 
+|-
+| [[Bambous Etoile de L'ouest S.C]] <small>([[Talk:Bambous Etoile de L'ouest S.C]])</small>
+| Mid
+| 
+|-
+| [[Bamkin]] <small>([[Talk:Bamkin]])</small>
+| Low
+| 
+|-
+| [[Assinie]] <small>([[Talk:Assinie]])</small>
+| Low
+| 
+|-
+| [[Tiébissou, Ivory Coast]] <small>([[Talk:Tiébissou, Ivory Coast]])</small>
+| Low
+| 
+|-
+| [[Nielle]] <small>([[Talk:Nielle]])</small>
+| Low
+| 
+|-
+| [[Ndouci]] <small>([[Talk:Ndouci]])</small>
+| Low
+| 
+|-
+| [[Port Pepel]] <small>([[Talk:Port Pepel]])</small>
+| Low
+| 
+|-
+| [[Railway stations in Gabon]] <small>([[Talk:Railway stations in Gabon]])</small>
+| Low
+| 
+|-
+| [[Gambia Football Association]] <small>([[Talk:Gambia Football Association]])</small>
+| Low
+| 
+|-
+| [[Roads in Senegal]] <small>([[Talk:Roads in Senegal]])</small>
+| Low
+| 
+|-
+| [[Railway stations in Liberia]] <small>([[Talk:Railway stations in Liberia]])</small>
+| Low
+| 
+|-
+| [[Bagré Town]] <small>([[Talk:Bagré Town]])</small>
+| Low
+| 
+|-
+| [[Kokologho]] <small>([[Talk:Kokologho]])</small>
+| Low
+| 
+|-
+| [[Bwindi gorilla]] <small>([[Talk:Bwindi gorilla]])</small>
+| Low
+| 
+|-
+| [[Gahnpa]] <small>([[Talk:Gahnpa]])</small>
+| Low
+| 
+|-
+| [[Saint Helena dragonet]] <small>([[Talk:Saint Helena dragonet]])</small>
+| Low
+| 
+|-
+| [[EuroAfrica-ICT]] <small>([[Talk:EuroAfrica-ICT]])</small>
+| Low
+| 
+|-
+| [[Niamey Urban Community]] <small>([[Talk:Niamey Urban Community]])</small>
+| Low
+| 
+|-
+| [[History of Ottoman Egypt]] <small>([[Talk:History of Ottoman Egypt]])</small>
+| Low
+| 
+|-
+| [[List of colonial heads of Maryland-in-Africa]] <small>([[Talk:List of colonial heads of Maryland-in-Africa]])</small>
+| Low
+| 
+|-
+| [[List of colonial heads of Mississippi-in-Africa]] <small>([[Talk:List of colonial heads of Mississippi-in-Africa]])</small>
+| Low
+| 
+|-
+| [[Freedom of religion in the Democratic Republic of the Congo]] <small>([[Talk:Freedom of religion in the Democratic Republic of the Congo]])</small>
+| Low
+| 
+|-
+| [[United States – Zambia relations]] <small>([[Talk:United States – Zambia relations]])</small>
+| Low
+| 
+|-
+| [[List of African countries in order of geographical area]] <small>([[Talk:List of African countries in order of geographical area]])</small>
+| Low
+| 
+|-
+| [[List of South Africa–Swaziland border crossings]] <small>([[Talk:List of South Africa–Swaziland border crossings]])</small>
+| Low
+| 
+|-
+| [[List of Namibia–South Africa border crossings]] <small>([[Talk:List of Namibia–South Africa border crossings]])</small>
+| Low
+| 
+|-
+| [[List of Botswana–South Africa border crossings]] <small>([[Talk:List of Botswana–South Africa border crossings]])</small>
+| Low
+| 
+|-
+| [[List of Mozambique–South Africa border crossings]] <small>([[Talk:List of Mozambique–South Africa border crossings]])</small>
+| Low
+| 
+|-
+| [[Vincent Kayizi]] <small>([[Talk:Vincent Kayizi]])</small>
+| Low
+| 
+|-
+| [[United Liberation Movement of Liberia for Democracy – Johnson faction]] <small>([[Talk:United Liberation Movement of Liberia for Democracy – Johnson faction]])</small>
+| Low
+| 
+|-
+| [[United Liberation Movement of Liberia for Democracy – Kromah faction]] <small>([[Talk:United Liberation Movement of Liberia for Democracy – Kromah faction]])</small>
+| Low
+| 
+|-
+| [[Equity Bank Group]] <small>([[Talk:Equity Bank Group]])</small>
+| Low
+| 
+|-
+| [[Lumumba Hall]] <small>([[Talk:Lumumba Hall]])</small>
+| Low
+| 
+|-
+| [[Boule (community)]] <small>([[Talk:Boule (community)]])</small>
+| Low
+| 
+|-
+| [[Kenya-Pakistan relations]] <small>([[Talk:Kenya-Pakistan relations]])</small>
+| Low
+| 
+|-
+| [[Amharic–Argobba languages]] <small>([[Talk:Amharic–Argobba languages]])</small>
+| Low
+| 
+|-
+| [[Coupe de Côte d'Ivoire de football]] <small>([[Talk:Coupe de Côte d'Ivoire de football]])</small>
+| Low
+| 
+|-
+| [[List of ships held by Somali pirates]] <small>([[Talk:List of ships held by Somali pirates]])</small>
+| Low
+| 
+|-
+| [[Bori religion]] <small>([[Talk:Bori religion]])</small>
+| Low
+| 
+|-
+| [[Ngwa people]] <small>([[Talk:Ngwa people]])</small>
+| Low
+| 
+|-
+| [[2003 African Under-17 Championship]] <small>([[Talk:2003 African Under-17 Championship]])</small>
+| Low
+| 
+|-
+| [[Palea]] <small>([[Talk:Palea]])</small>
+| Low
+| 
+|-
+| [[The Independent (the Gambia)]] <small>([[Talk:The Independent (the Gambia)]])</small>
+| Low
+| 
+|-
+| [[List of heads of government of the Gambia]] <small>([[Talk:List of heads of government of the Gambia]])</small>
+| Low
+| 
+|-
+| [[List of Governors-General of the Gambia]] <small>([[Talk:List of Governors-General of the Gambia]])</small>
+| Low
+| 
+|-
+| [[1660s in Angola]] <small>([[Talk:1660s in Angola]])</small>
+| Low
+| 
+|-
+| [[1610s in Angola]] <small>([[Talk:1610s in Angola]])</small>
+| Low
+| 
+|-
+| [[1650s in Angola]] <small>([[Talk:1650s in Angola]])</small>
+| Low
+| 
+|-
+| [[Transport in Saint Helena]] <small>([[Talk:Transport in Saint Helena]])</small>
+| Low
+| 
+|-
+| [[Vehicle registration plates of Saint Helena, Ascension and Tristan da Cunha]] <small>([[Talk:Vehicle registration plates of Saint Helena, Ascension and Tristan da Cunha]])</small>
+| Low
+| 
+|-
+| [[Flag of the Sahrawi Arab Democratic Republic]] <small>([[Talk:Flag of the Sahrawi Arab Democratic Republic]])</small>
+| Low
+| 
+|-
+| [[Luso-American]] <small>([[Talk:Luso-American]])</small>
+| Low
+| 
+|-
+| [[Togo National Library]] <small>([[Talk:Togo National Library]])</small>
+| Low
+| 
+|-
+| [[Apostolic Vicariate of Sudan]] <small>([[Talk:Apostolic Vicariate of Sudan]])</small>
+| Low
+| 
+|-
+| [[Xesko]] <small>([[Talk:Xesko]])</small>
+| Low
+| 
+|-
+| [[International recognition of South Sudan]] <small>([[Talk:International recognition of South Sudan]])</small>
+| Low
+| 
+|-
+| [[Gaddafi's response to the 2011 Libyan protests]] <small>([[Talk:Gaddafi's response to the 2011 Libyan protests]])</small>
+| Low
+| 
+|-
+| [[Transitional Darfur Regional Authority]] <small>([[Talk:Transitional Darfur Regional Authority]])</small>
+| Low
+| 
+|-
+| [[Operation Dawn of Gulf of Aden (Malaysia)]] <small>([[Talk:Operation Dawn of Gulf of Aden (Malaysia)]])</small>
+| Low
+| 
+|-
+| [[Operation Dawn 9: Gulf of Aden]] <small>([[Talk:Operation Dawn 9: Gulf of Aden]])</small>
+| Low
+| 
+|-
+| [[Senegambia]] <small>([[Talk:Senegambia]])</small>
+| Low
+| 
+|-
+| [[Ahmed Diriye Ali]] <small>([[Talk:Ahmed Diriye Ali]])</small>
+| Low
+| 
+|-
+| [[Port of Tripoli]] <small>([[Talk:Port of Tripoli]])</small>
+| Low
+| 
+|-
+| [[Martuba Airport]] <small>([[Talk:Martuba Airport]])</small>
+| Low
+| 
+|-
+| [[Gor Sunguh]] <small>([[Talk:Gor Sunguh]])</small>
+| Low
+| 
+|-
+| [[St. Louis Secondary School, Kumasi]] <small>([[Talk:St. Louis Secondary School, Kumasi]])</small>
+| Low
+| 
+|-
+| [[Ducor Intercontinental Hotel]] <small>([[Talk:Ducor Intercontinental Hotel]])</small>
+| Low
+| 
+|-
+| [[Nightingale]] <small>([[Talk:Nightingale]])</small>
+| Low
+| 
+|-
+| [[List of people on stamps of Spanish Sahara]] <small>([[Talk:List of people on stamps of Spanish Sahara]])</small>
+| Low
+| 
+|-
+| [[Nyassa Company]] <small>([[Talk:Nyassa Company]])</small>
+| Low
+| 
+|-
+| [[Gardabya Airport]] <small>([[Talk:Gardabya Airport]])</small>
+| Low
+| 
+|-
+| [[Merindinlogun]] <small>([[Talk:Merindinlogun]])</small>
+| Low
+| 
+|-
+| [[Ifo Camp]] <small>([[Talk:Ifo Camp]])</small>
+| Low
+| 
+|-
+| [[Overview of the Arab Spring]] <small>([[Talk:Overview of the Arab Spring]])</small>
+| Low
+| 
+|-
+| [[List of Governors-General of Malawi]] <small>([[Talk:List of Governors-General of Malawi]])</small>
+| Low
+| 
+|-
+| [[Ethiopia-India relations]] <small>([[Talk:Ethiopia-India relations]])</small>
+| Low
+| 
+|-
+| [[Amboasary]] <small>([[Talk:Amboasary]])</small>
+| Low
+| 
+|-
+| [[Nova Airline]] <small>([[Talk:Nova Airline]])</small>
+| Low
+| 
+|-
+| [[Reunification of Cameroon]] <small>([[Talk:Reunification of Cameroon]])</small>
+| Low
+| 
+|-
+| [[Jean Victor Zakandrainy]] <small>([[Talk:Jean Victor Zakandrainy]])</small>
+| Low
+| 
+|-
+| [[Council of Ministers of Rwanda]] <small>([[Talk:Council of Ministers of Rwanda]])</small>
+| Low
+| 
+|-
+| [[Malao (ancient)]] <small>([[Talk:Malao (ancient)]])</small>
+| Low
+| 
+|-
+| [[Air Tanzania Corporation]] <small>([[Talk:Air Tanzania Corporation]])</small>
+| Low
+| 
+|-
+| [[List of governors of Upper Volta]] <small>([[Talk:List of governors of Upper Volta]])</small>
+| Low
+| 
+|-
+| [[List of publications in Burkina Faso]] <small>([[Talk:List of publications in Burkina Faso]])</small>
+| Low
+| 
+|-
+| [[Kapok tree, Boa Entrada]] <small>([[Talk:Kapok tree, Boa Entrada]])</small>
+| Low
+| 
+|-
+| [[Namibian War of Independence]] <small>([[Talk:Namibian War of Independence]])</small>
+| Low
+| 
+|-
+| [[Pagan Amum (version 2)]] <small>([[Talk:Pagan Amum (version 2)]])</small>
+| Low
+| 
+|-
+| [[Protected areas of Chad]] <small>([[Talk:Protected areas of Chad]])</small>
+| Low
+| 
+|-
+| [[Irreligion in Sudan]] <small>([[Talk:Irreligion in Sudan]])</small>
+| Low
+| 
+|-
+| [[Estadio Nacional de Ombaka]] <small>([[Talk:Estadio Nacional de Ombaka]])</small>
+| Low
+| 
+|-
+| [[Shia Islam in Angola]] <small>([[Talk:Shia Islam in Angola]])</small>
+| Low
+| 
+|-
+| [[Kigali Memorial Centre]] <small>([[Talk:Kigali Memorial Centre]])</small>
+| Low
+| 
+|-
+| [[Miss Gabon 2014]] <small>([[Talk:Miss Gabon 2014]])</small>
+| Low
+| 
+|-
+| [[Little Liberia, Staten Island]] <small>([[Talk:Little Liberia, Staten Island]])</small>
+| Low
+| 
+|-
+| [[LGBT history in Djibouti]] <small>([[Talk:LGBT history in Djibouti]])</small>
+| Low
+| 
+|-
+| [[LGBT history in Guinea-Bissau]] <small>([[Talk:LGBT history in Guinea-Bissau]])</small>
+| Low
+| 
+|-
+| [[LGBT history in the Gambia]] <small>([[Talk:LGBT history in the Gambia]])</small>
+| Low
+| 
+|-
+| [[LGBT history in Swaziland]] <small>([[Talk:LGBT history in Swaziland]])</small>
+| Low
+| 
+|-
+| [[LGBT history in Lesotho]] <small>([[Talk:LGBT history in Lesotho]])</small>
+| Low
+| 
+|-
+| [[Ethnic groups in Zambia]] <small>([[Talk:Ethnic groups in Zambia]])</small>
+| Low
+| 
+|-
+| [[Gusii Shabana F.C.]] <small>([[Talk:Gusii Shabana F.C.]])</small>
+| Low
+| 
+|-
+| [[Ebola in Town]] <small>([[Talk:Ebola in Town]])</small>
+| Low
+| 
+|-
+| [[Ansou Toure]] <small>([[Talk:Ansou Toure]])</small>
+| Low
+| 
+|-
+| [[Rose Paula Iribagiza]] <small>([[Talk:Rose Paula Iribagiza]])</small>
+| Low
+| 
+|-
+| [[MICOPAX]] <small>([[Talk:MICOPAX]])</small>
+| Low
+| 
+|-
+| [[Aemilia Clara]] <small>([[Talk:Aemilia Clara]])</small>
+| Low
+| 
+|-
+| [[French language in the Maghreb]] <small>([[Talk:French language in the Maghreb]])</small>
+| Low
+| 
+|-
+| [[List of massacres in Guinea]] <small>([[Talk:List of massacres in Guinea]])</small>
+| Low
+| 
+|-
+| [[Paul Verdzekov]] <small>([[Talk:Paul Verdzekov]])</small>
+| Low
+| 
+|-
+| [[Laingsnek Pass]] <small>([[Talk:Laingsnek Pass]])</small>
+| Low
+| 
+|-
+| [[Health in Mauritius]] <small>([[Talk:Health in Mauritius]])</small>
+| Low
+| 
+|-
+| [[Mande Studies]] <small>([[Talk:Mande Studies]])</small>
+| Low
+| 
+|-
+| [[Jehovah's Witnesses in Mozambique]] <small>([[Talk:Jehovah's Witnesses in Mozambique]])</small>
+| Low
+| 
+|-
+| [[Aristote Ndongala]] <small>([[Talk:Aristote Ndongala]])</small>
+| Low
+| 
+|-
+| [[Assembleias de Deus Africanas]] <small>([[Talk:Assembleias de Deus Africanas]])</small>
+| Low
+| 
+|-
+| [[Italian North Africa]] <small>([[Talk:Italian North Africa]])</small>
+| Low
+| 
+|-
+| [[N'Tsaoueni]] <small>([[Talk:N'Tsaoueni]])</small>
+| Low
+| 
+|-
+| [[Glen Doherty]] <small>([[Talk:Glen Doherty]])</small>
+| Low
+| 
+|-
+| [[Al-Bashir Al-Faqih]] <small>([[Talk:Al-Bashir Al-Faqih]])</small>
+| Low
+| 
+|-
+| [[Interim Government of Libya]] <small>([[Talk:Interim Government of Libya]])</small>
+| Low
+| 
+|-
+| [[LGBT history in Cameroon]] <small>([[Talk:LGBT history in Cameroon]])</small>
+| Low
+| 
+|-
+| [[LGBT history in Malawi]] <small>([[Talk:LGBT history in Malawi]])</small>
+| Low
+| 
+|-
+| [[LGBT history in Namibia]] <small>([[Talk:LGBT history in Namibia]])</small>
+| Low
+| 
+|-
+| [[LGBT history in Sierra Leone]] <small>([[Talk:LGBT history in Sierra Leone]])</small>
+| Low
+| 
+|-
+| [[LGBT history in Tanzania]] <small>([[Talk:LGBT history in Tanzania]])</small>
+| Low
+| 
+|-
+| [[Religion in Malawi]] <small>([[Talk:Religion in Malawi]])</small>
+| Low
+| 
+|-
+| [[Tyrone S. Woods]] <small>([[Talk:Tyrone S. Woods]])</small>
+| Low
+| 
+|-
+| [[Cuanavale]] <small>([[Talk:Cuanavale]])</small>
+| Low
+| 
+|-
+| [[Basese]] <small>([[Talk:Basese]])</small>
+| Low
+| 
+|-
+| [[Libyan Arab Republic]] <small>([[Talk:Libyan Arab Republic]])</small>
+| Low
+| 
+|-
+| [[LGBT history in Burundi]] <small>([[Talk:LGBT history in Burundi]])</small>
+| Low
+| 
+|-
+| [[LGBT history in Zambia]] <small>([[Talk:LGBT history in Zambia]])</small>
+| Low
+| 
+|-
+| [[LGBT history in Botswana]] <small>([[Talk:LGBT history in Botswana]])</small>
+| Low
+| 
+|-
+| [[LGBT history in Togo]] <small>([[Talk:LGBT history in Togo]])</small>
+| Low
+| 
+|-
+| [[Réunion red and green parakeet]] <small>([[Talk:Réunion red and green parakeet]])</small>
+| Low
+| 
+|-
+| [[Liceo Sperimentale "G. Marconi"]] <small>([[Talk:Liceo Sperimentale "G. Marconi"]])</small>
+| Low
+| 
+|-
+| [[Oba francis adeyeion]] <small>([[Talk:Oba francis adeyeion]])</small>
+| Low
+| 
+|-
+| [[Capture of General China]] <small>([[Talk:Capture of General China]])</small>
+| Low
+| 
+|-
+| [[Etoile Island (Seychelles)]] <small>([[Talk:Etoile Island (Seychelles)]])</small>
+| Low
+| 
+|-
+| [[LGBT history in Seychelles]] <small>([[Talk:LGBT history in Seychelles]])</small>
+| Low
+| 
+|-
+| [[Saint-Louis Academy]] <small>([[Talk:Saint-Louis Academy]])</small>
+| Low
+| 
+|-
+| [[List of universities offering business courses in Uganda]] <small>([[Talk:List of universities offering business courses in Uganda]])</small>
+| Low
+| 
+|-
+| [[Kago Kaju]] <small>([[Talk:Kago Kaju]])</small>
+| Low
+| 
+|-
+| [[South Sudan national football team record]] <small>([[Talk:South Sudan national football team record]])</small>
+| Low
+| 
+|-
+| [[South Sudan national football team results]] <small>([[Talk:South Sudan national football team results]])</small>
+| Low
+| 
+|-
+| [[Roman theatre of Guelma]] <small>([[Talk:Roman theatre of Guelma]])</small>
+| Low
+| 
+|-
+| [[Rek people]] <small>([[Talk:Rek people]])</small>
+| Low
+| 
+|-
+| [[Gata, Cape Verde]] <small>([[Talk:Gata, Cape Verde]])</small>
+| Low
+| 
+|-
+| [[Baixo Rocha]] <small>([[Talk:Baixo Rocha]])</small>
+| Low
+| 
+|-
+| [[LGBT history in Cape Verde]] <small>([[Talk:LGBT history in Cape Verde]])</small>
+| Low
+| 
+|-
+| [[Académico Sal Rei]] <small>([[Talk:Académico Sal Rei]])</small>
+| Low
+| 
+|-
+| [[Hortelão (Sal), Cape Verde]] <small>([[Talk:Hortelão (Sal), Cape Verde]])</small>
+| Low
+| 
+|-
+| [[Bangaeira]] <small>([[Talk:Bangaeira]])</small>
+| Low
+| 
+|-
+| [[Baía La Figueira]] <small>([[Talk:Baía La Figueira]])</small>
+| Low
+| 
+|-
+| [[Cruzinha]] <small>([[Talk:Cruzinha]])</small>
+| Low
+| 
+|-
+| [[Rizik Zackaria Hassan]] <small>([[Talk:Rizik Zackaria Hassan]])</small>
+| Low
+| 
+|-
+| [[Cameroon–Nigeria Land and Maritime Boundary case]] <small>([[Talk:Cameroon–Nigeria Land and Maritime Boundary case]])</small>
+| Low
+| 
+|-
+| [[Centre Region, Cameroon]] <small>([[Talk:Centre Region, Cameroon]])</small>
+| Low
+| 
+|-
+| [[Mbam–Nkam languages]] <small>([[Talk:Mbam–Nkam languages]])</small>
+| Low
+| 
+|-
+| [[Gana and Gwi people]] <small>([[Talk:Gana and Gwi people]])</small>
+| Low
+| 
+|-
+| [[Dorris Wefwafwa]] <small>([[Talk:Dorris Wefwafwa]])</small>
+| Low
+| 
+|-
+| [[Owu people]] <small>([[Talk:Owu people]])</small>
+| Low
+| 
+|-
+| [[Tripoli under Italian rule]] <small>([[Talk:Tripoli under Italian rule]])</small>
+| Low
+| 
+|-
+| [[Domurik language]] <small>([[Talk:Domurik language]])</small>
+| Low
+| 
+|}

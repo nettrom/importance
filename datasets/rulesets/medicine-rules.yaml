@@ -1,0 +1,448 @@
+## WikiProject Medicine rules defining certain classes
+## of articles having certain importance ratings.
+
+## For definition of the rule format, see
+## https://meta.wikimedia.org/wiki/Research:Automated_classification_of_article_importance/Importance_API_draft#Side_chain
+
+## Notes about predicates: P31 is "instance of"
+
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q5" # human
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q43229" # organization
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q5633421" # scientific journal
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q4830453" # business enterprise
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q494230" # medical school
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q571" # book
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q3918" # university
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q163740" # nonprofit organization
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q327333" # government agency
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q31855" # research institute
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q16917" # hospital
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q1002697" # periodical literature
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q17524420" # aspect of history
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q10729872" # health association
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q708676" # charitable organization
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q618779" # award
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q7397" # software
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q35127" # website
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q6954197" # NHS trust
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q23002054" # private not-for-profit educational institution
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q476068" # Act of Congress
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q2334719" # legal case
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q157031" # foundation
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q6498663" # fire department
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q19869268" # medical society
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q11424" # film
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q11000047" # health system
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q1110684" # professional association
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q6954187" # NHS foundation trust
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q189004" # college
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q4677783" # Act of Parliament of the United Kingdom
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q4260475" # medical facility
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q176799" # military unit
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q341" # free software
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q5398426" # television series
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q3914" # school
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q5691113" # health organization
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q33506" # museum
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q2385804" # educational institution
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q484652" # international organization
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q23002039" # public educational institution of the United States
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q2558684" # world day
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q41298" # magazine
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q7094076" # online database
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q502074" # heliport
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q1664720" # institute
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q483242" # laboratory
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q21538537" # medical database
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q1774587" # hospital network
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q7075" # library
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q17072837" # medical college in India
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q41176" # building
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q820655" # statute
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q618123" # geographical object
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q811979" # architectural structure
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q79913" # non-govermental organization
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q7725634" # literary work
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q46970" # airline
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q48204" # voluntary association
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q737498" # academic journal
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q8513" # database
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q1519799" # Ministry of Health
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q38723" # higher education institution
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q180958" # faculty
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q16334295" # group of humans
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q183816" # master's degree
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q87167" # manuscript
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q431603" # advocacy group
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q11448906" # science award
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q748019" # scientific society
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q47574" # unit of measurement
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q4287745" # medical organization
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q16026109" # technologist
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q15416" # television program
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q8016240" # trial
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q3305213" # painting
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q1194970" # dot-com company
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q2772772" # military museum
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q178790" # trade union
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q18574946" # annual event
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q694554" # emergency telephone number
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q7653906" # social insurance
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q811430" # construction
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q506240" # television film
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q1774898" # clinic
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q9078534" # honor society
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q18534571" # medical research centre
+ - "Low"
+-
+ - "Medicine"
+ - "wdt:P31"
+ - "wd:Q49371" # legislation
+ - "Low"

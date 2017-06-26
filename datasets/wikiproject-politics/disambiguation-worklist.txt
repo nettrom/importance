@@ -1,0 +1,166 @@
+{| class="wikitable sortable"
+|-
+! scope="col" style="width: 40%;" | Title (and talk)
+! Rating
+! Notes
+|-
+| [[Deadline]] <small>([[Talk:Deadline]])</small>
+| Top
+|
+|-
+| [[Corrective Revolution]] <small>([[Talk:Corrective Revolution]])</small>
+| Low
+|
+|-
+| [[Shadow government]] <small>([[Talk:Shadow government]])</small>
+| Low
+|
+|-
+| [[President of the Executive Council]] <small>([[Talk:President of the Executive Council]])</small>
+| Mid
+|
+|-
+| [[German Party]] <small>([[Talk:German Party]])</small>
+| Low
+|
+|-
+| [[Pranckh]] <small>([[Talk:Pranckh]])</small>
+| Low
+|
+|-
+| [[Estado Novo]] <small>([[Talk:Estado Novo]])</small>
+| High
+|
+|-
+| [[Proletariat (party)]] <small>([[Talk:Proletariat (party)]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[President of the Council of Ministers]] <small>([[Talk:President of the Council of Ministers]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[War of succession]] <small>([[Talk:War of succession]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Queen dowager]] <small>([[Talk:Queen dowager]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Coercion]] <small>([[Talk:Coercion]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Aikokusha]] <small>([[Talk:Aikokusha]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Indian civil servant]] <small>([[Talk:Indian civil servant]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Public information officer]] <small>([[Talk:Public information officer]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Homeland]] <small>([[Talk:Homeland]])</small>
+| High
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Swing State (film)]] <small>([[Talk:Swing State (film)]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Character assassination]] <small>([[Talk:Character assassination]])</small>
+| High
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Crown Commonwealth League of Rights]] <small>([[Talk:Crown Commonwealth League of Rights]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[People's Republic]] <small>([[Talk:People's Republic]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[President of the government]] <small>([[Talk:President of the government]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Gradualism]] <small>([[Talk:Gradualism]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[National Assembly]] <small>([[Talk:National Assembly]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Ministry of Trade and Industry]] <small>([[Talk:Ministry of Trade and Industry]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Agrarian reform]] <small>([[Talk:Agrarian reform]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Civil libertarianism]] <small>([[Talk:Civil libertarianism]])</small>
+| High
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[High commissioner]] <small>([[Talk:High commissioner]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Legislative council]] <small>([[Talk:Legislative council]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Due process]] <small>([[Talk:Due process]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[House of Assembly]] <small>([[Talk:House of Assembly]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Military security]] <small>([[Talk:Military security]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[First minister]] <small>([[Talk:First minister]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Constituent assembly]] <small>([[Talk:Constituent assembly]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Partition (politics)]] <small>([[Talk:Partition (politics)]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[United States debt-ceiling crisis of 2011]] <small>([[Talk:United States debt-ceiling crisis of 2011]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[National Vanguard (Italy)]] <small>([[Talk:National Vanguard (Italy)]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Autarchism]] <small>([[Talk:Autarchism]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Chief executive (gubernatorial)]] <small>([[Talk:Chief executive (gubernatorial)]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Lists of office-holders]] <small>([[Talk:Lists of office-holders]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Health department]] <small>([[Talk:Health department]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|}

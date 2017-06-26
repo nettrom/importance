@@ -1,0 +1,390 @@
+{| class="wikitable sortable"
+|-
+! scope="col" style="width: 45%;" | Title
+! scope="col" style="width: 15%;" | Pred. rating
+! Notes
+|-
+| [[Colonialism]] <small>([[Talk:Colonialism|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Mahdist Sudan]] <small>([[Talk:Mahdist Sudan|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Ahmad Tejan Kabbah]] <small>([[Talk:Ahmad Tejan Kabbah|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[University of Zambia]] <small>([[Talk:University of Zambia|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[African Free Trade Zone]] <small>([[Talk:African Free Trade Zone|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Central Equatoria]] <small>([[Talk:Central Equatoria|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[South Sudanese independence referendum, 2011]] <small>([[Talk:South Sudanese independence referendum, 2011|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Politics of Madagascar]] <small>([[Talk:Politics of Madagascar|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Foreign relations of Madagascar]] <small>([[Talk:Foreign relations of Madagascar|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Ibrahim Baré Maïnassara]] <small>([[Talk:Ibrahim Baré Maïnassara|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Benjamin Mkapa]] <small>([[Talk:Benjamin Mkapa|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[National Air Force of Angola]] <small>([[Talk:National Air Force of Angola|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Music of Mali]] <small>([[Talk:Music of Mali|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Namibia national rugby union team]] <small>([[Talk:Namibia national rugby union team|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Portuguese Colonial War]] <small>([[Talk:Portuguese Colonial War|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Housing Finance Company of Kenya]] <small>([[Talk:Housing Finance Company of Kenya|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Shakshouka]] <small>([[Talk:Shakshouka|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Kilamba]] <small>([[Talk:Kilamba|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Gough Island]] <small>([[Talk:Gough Island|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Flag of Togo]] <small>([[Talk:Flag of Togo|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Chinese people in Kenya]] <small>([[Talk:Chinese people in Kenya|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Luba-Katanga language]] <small>([[Talk:Luba-Katanga language|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Centenary Bank]] <small>([[Talk:Centenary Bank|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Chancel Mbemba]] <small>([[Talk:Chancel Mbemba|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Somba people]] <small>([[Talk:Somba people|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Moba language]] <small>([[Talk:Moba language|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Bassa people (Cameroon)]] <small>([[Talk:Bassa people (Cameroon)|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Battling Siki]] <small>([[Talk:Battling Siki|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Tunjur people]] <small>([[Talk:Tunjur people|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Communal Wildlife Conservancies in Namibia]] <small>([[Talk:Communal Wildlife Conservancies in Namibia|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Foreign relations of Mozambique]] <small>([[Talk:Foreign relations of Mozambique|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Prostitution in Angola]] <small>([[Talk:Prostitution in Angola|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Tourism in Mozambique]] <small>([[Talk:Tourism in Mozambique|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Black Beach]] <small>([[Talk:Black Beach|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Lac Region]] <small>([[Talk:Lac Region|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Bassari people]] <small>([[Talk:Bassari people|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Outamba-Kilimi National Park]] <small>([[Talk:Outamba-Kilimi National Park|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[First Bank of Nigeria]] <small>([[Talk:First Bank of Nigeria|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Banc d'Arguin National Park]] <small>([[Talk:Banc d'Arguin National Park|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Chad National Museum]] <small>([[Talk:Chad National Museum|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Tshikapa]] <small>([[Talk:Tshikapa|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Duncan Ochieng]] <small>([[Talk:Duncan Ochieng|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Kigali Convention Centre]] <small>([[Talk:Kigali Convention Centre|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Murle people]] <small>([[Talk:Murle people|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Titi Buengo]] <small>([[Talk:Titi Buengo|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Banco National Park]] <small>([[Talk:Banco National Park|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Bonaya Godana]] <small>([[Talk:Bonaya Godana|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Battle of Tyndaris]] <small>([[Talk:Battle of Tyndaris|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[List of Sudanese writers]] <small>([[Talk:List of Sudanese writers|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Environment of Ivory Coast]] <small>([[Talk:Environment of Ivory Coast|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Tanala]] <small>([[Talk:Tanala|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Bondei people]] <small>([[Talk:Bondei people|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Aapravasi Ghat]] <small>([[Talk:Aapravasi Ghat|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Iramba people]] <small>([[Talk:Iramba people|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Kinga people]] <small>([[Talk:Kinga people|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Military of the Comoros]] <small>([[Talk:Military of the Comoros|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Trou-aux-Biches]] <small>([[Talk:Trou-aux-Biches|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Central Region (Eritrea)]] <small>([[Talk:Central Region (Eritrea)|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Imamate of Futa Toro]] <small>([[Talk:Imamate of Futa Toro|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Diamond Trust Bank (Uganda)]] <small>([[Talk:Diamond Trust Bank (Uganda)|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[United Nations Security Council Resolution 1918]] <small>([[Talk:United Nations Security Council Resolution 1918|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Tahoua Region]] <small>([[Talk:Tahoua Region|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[E. N. P. Sowah]] <small>([[Talk:E. N. P. Sowah|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Osei Kwadwo]] <small>([[Talk:Osei Kwadwo|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Vajebah Sakor]] <small>([[Talk:Vajebah Sakor|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Buguruni]] <small>([[Talk:Buguruni|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Media of Senegal]] <small>([[Talk:Media of Senegal|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Second Battle of Sirte]] <small>([[Talk:Second Battle of Sirte|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Digba]] <small>([[Talk:Digba|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Fatick Department]] <small>([[Talk:Fatick Department|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Marguerite Abouet]] <small>([[Talk:Marguerite Abouet|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[National Football Association of Swaziland]] <small>([[Talk:National Football Association of Swaziland|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Women in the Sahrawi Arab Democratic Republic]] <small>([[Talk:Women in the Sahrawi Arab Democratic Republic|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Med Hondo]] <small>([[Talk:Med Hondo|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Bongo people (South Sudan)]] <small>([[Talk:Bongo people (South Sudan)|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[House of Representatives (Kenya)]] <small>([[Talk:House of Representatives (Kenya)|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Budu people]] <small>([[Talk:Budu people|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[List of territories of the Democratic Republic of the Congo]] <small>([[Talk:List of territories of the Democratic Republic of the Congo|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Asare Konadu]] <small>([[Talk:Asare Konadu|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Mauritia (microcontinent)]] <small>([[Talk:Mauritia (microcontinent)|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[António Jacinto]] <small>([[Talk:António Jacinto|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Geology of Djibouti]] <small>([[Talk:Geology of Djibouti|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Spouse of the Prime Minister of Mauritius]] <small>([[Talk:Spouse of the Prime Minister of Mauritius|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Ministry of Infrastructure Development]] <small>([[Talk:Ministry of Infrastructure Development|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Raymond Borremans]] <small>([[Talk:Raymond Borremans|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Eugene Koffi Adoboli]] <small>([[Talk:Eugene Koffi Adoboli|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Chuku Wachuku]] <small>([[Talk:Chuku Wachuku|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Djidingar Dono Ngardoum]] <small>([[Talk:Djidingar Dono Ngardoum|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Yaho Department]] <small>([[Talk:Yaho Department|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Ibiyinka Alao]] <small>([[Talk:Ibiyinka Alao|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Young Malagasies Determined]] <small>([[Talk:Young Malagasies Determined|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[2015 Africa Magic Viewers Choice Awards]] <small>([[Talk:2015 Africa Magic Viewers Choice Awards|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Born in Africa (compilation album)]] <small>([[Talk:Born in Africa (compilation album)|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Tunisian Volleyball Federation]] <small>([[Talk:Tunisian Volleyball Federation|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Ain Farah]] <small>([[Talk:Ain Farah|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Namibe Province]] <small>([[Talk:Namibe Province|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|}

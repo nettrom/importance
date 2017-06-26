@@ -1,0 +1,390 @@
+{| class="wikitable sortable"
+|-
+! scope="col" style="width: 45%;" | Title
+! scope="col" style="width: 15%;" | Pred. rating
+! Notes
+|-
+| [[Post-truth politics]] <small>([[Talk:Post-truth politics|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Civil service]] <small>([[Talk:Civil service|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Clash of Civilizations]] <small>([[Talk:Clash of Civilizations|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[William Ewart Gladstone]] <small>([[Talk:William Ewart Gladstone|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Protests of 1968]] <small>([[Talk:Protests of 1968|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Governance]] <small>([[Talk:Governance|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Public good]] <small>([[Talk:Public good|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Imperialism]] <small>([[Talk:Imperialism|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Value (ethics)]] <small>([[Talk:Value (ethics)|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Schulze method]] <small>([[Talk:Schulze method|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Political parties in the United States]] <small>([[Talk:Political parties in the United States|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Chancellor of the Exchequer]] <small>([[Talk:Chancellor of the Exchequer|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Capitalist mode of production (Marxist theory)]] <small>([[Talk:Capitalist mode of production (Marxist theory)|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[British nationalism]] <small>([[Talk:British nationalism|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Cabinet of the United States]] <small>([[Talk:Cabinet of the United States|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Fiscal policy]] <small>([[Talk:Fiscal policy|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[List of African-American United States presidential and vice presidential candidates]] <small>([[Talk:List of African-American United States presidential and vice presidential candidates|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[President-elect of the United States]] <small>([[Talk:President-elect of the United States|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[House of Commons Disqualification Act 1975]] <small>([[Talk:House of Commons Disqualification Act 1975|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Cyril Ramaphosa]] <small>([[Talk:Cyril Ramaphosa|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Triumph of the Will]] <small>([[Talk:Triumph of the Will|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Fascism in Canada]] <small>([[Talk:Fascism in Canada|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Lok Satta Party]] <small>([[Talk:Lok Satta Party|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[John Birch Society]] <small>([[Talk:John Birch Society|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Mahatma Gandhi]] <small>([[Talk:Mahatma Gandhi|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Politician]] <small>([[Talk:Politician|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Cold War]] <small>([[Talk:Cold War|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Mayawati]] <small>([[Talk:Mayawati|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Legitimacy (political)]] <small>([[Talk:Legitimacy (political)|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Limited government]] <small>([[Talk:Limited government|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Politics of South Sudan]] <small>([[Talk:Politics of South Sudan|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Swarna Bharat Party]] <small>([[Talk:Swarna Bharat Party|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Mutualism (economic theory)]] <small>([[Talk:Mutualism (economic theory)|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Demagogue]] <small>([[Talk:Demagogue|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[George Washington]] <small>([[Talk:George Washington|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Speaker of the National Assembly of South Africa]] <small>([[Talk:Speaker of the National Assembly of South Africa|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[United States House of Representatives elections in New York, 2010]] <small>([[Talk:United States House of Representatives elections in New York, 2010|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Act of Parliament]] <small>([[Talk:Act of Parliament|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Majority]] <small>([[Talk:Majority|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Sphere of influence]] <small>([[Talk:Sphere of influence|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Papal diplomacy]] <small>([[Talk:Papal diplomacy|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Christian Centrist Party]] <small>([[Talk:Christian Centrist Party|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Barisan Sosialis]] <small>([[Talk:Barisan Sosialis|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Anders Behring Breivik]] <small>([[Talk:Anders Behring Breivik|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Union of Young Fascists – Vanguard (boys)]] <small>([[Talk:Union of Young Fascists – Vanguard (boys)|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Jon Ossoff]] <small>([[Talk:Jon Ossoff|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Kevin de León]] <small>([[Talk:Kevin de León|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Rod Blagojevich]] <small>([[Talk:Rod Blagojevich|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Adolf Hitler]] <small>([[Talk:Adolf Hitler|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[List of leaders of the Soviet Union]] <small>([[Talk:List of leaders of the Soviet Union|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Indira Gandhi]] <small>([[Talk:Indira Gandhi|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Capitalist peace]] <small>([[Talk:Capitalist peace|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Parliamentary system]] <small>([[Talk:Parliamentary system|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[General Secretary of the Communist Party of the Soviet Union]] <small>([[Talk:General Secretary of the Communist Party of the Soviet Union|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Social commentary]] <small>([[Talk:Social commentary|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Andry Rajoelina]] <small>([[Talk:Andry Rajoelina|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Parliament of Malta]] <small>([[Talk:Parliament of Malta|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Politics of Kyrgyzstan]] <small>([[Talk:Politics of Kyrgyzstan|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Politics of Niger]] <small>([[Talk:Politics of Niger|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Politics of the Republic of the Congo]] <small>([[Talk:Politics of the Republic of the Congo|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Politics of the Federated States of Micronesia]] <small>([[Talk:Politics of the Federated States of Micronesia|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Democrats for Andorra]] <small>([[Talk:Democrats for Andorra|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Statism in Shōwa Japan]] <small>([[Talk:Statism in Shōwa Japan|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Constitutional court]] <small>([[Talk:Constitutional court|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[The Myth of a Christian Nation]] <small>([[Talk:The Myth of a Christian Nation|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Trail of Broken Treaties]] <small>([[Talk:Trail of Broken Treaties|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Liberal Party–Hatoyama]] <small>([[Talk:Liberal Party–Hatoyama|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[War-weariness]] <small>([[Talk:War-weariness|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Social Democratic Party (UK)]] <small>([[Talk:Social Democratic Party (UK)|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Almami]] <small>([[Talk:Almami|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Human Environment Animal Protection]] <small>([[Talk:Human Environment Animal Protection|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Democratic Party of Illinois]] <small>([[Talk:Democratic Party of Illinois|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Leader of the Opposition (Mauritius)]] <small>([[Talk:Leader of the Opposition (Mauritius)|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[List of people involved in the Fort Lee lane closure scandal]] <small>([[Talk:List of people involved in the Fort Lee lane closure scandal|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Politics and technology]] <small>([[Talk:Politics and technology|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Liberalism and radicalism in Romania]] <small>([[Talk:Liberalism and radicalism in Romania|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Demissionary cabinet]] <small>([[Talk:Demissionary cabinet|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Corporate nationalism]] <small>([[Talk:Corporate nationalism|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Bahlul Hoseini]] <small>([[Talk:Bahlul Hoseini|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Ambassador of Iceland to India]] <small>([[Talk:Ambassador of Iceland to India|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Somali presidential election, 2012]] <small>([[Talk:Somali presidential election, 2012|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Court of Legislature (Iceland)]] <small>([[Talk:Court of Legislature (Iceland)|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Politics of Serbia and Montenegro]] <small>([[Talk:Politics of Serbia and Montenegro|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[First cabinet of Geir Haarde]] <small>([[Talk:First cabinet of Geir Haarde|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Reza Abdollahi]] <small>([[Talk:Reza Abdollahi|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Ambassador of Iceland to Russia]] <small>([[Talk:Ambassador of Iceland to Russia|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Batu Sapi by-election, 2010]] <small>([[Talk:Batu Sapi by-election, 2010|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[List of Presidents of Emilia-Romagna]] <small>([[Talk:List of Presidents of Emilia-Romagna|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Ministry (collective executive)]] <small>([[Talk:Ministry (collective executive)|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Sixty-ninth session of the United Nations General Assembly]] <small>([[Talk:Sixty-ninth session of the United Nations General Assembly|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Hulu Selangor by-election, 2010]] <small>([[Talk:Hulu Selangor by-election, 2010|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Reforms and Freedom]] <small>([[Talk:Reforms and Freedom|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Foreign relations of Burundi]] <small>([[Talk:Foreign relations of Burundi|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[List of political parties in São Tomé and Príncipe]] <small>([[Talk:List of political parties in São Tomé and Príncipe|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Executive Committee of the Privy Council of Northern Ireland]] <small>([[Talk:Executive Committee of the Privy Council of Northern Ireland|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Clerk of the Signet]] <small>([[Talk:Clerk of the Signet|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|}

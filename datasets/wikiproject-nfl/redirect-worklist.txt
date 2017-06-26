@@ -1,0 +1,62 @@
+{| class="wikitable sortable"
+|-
+! scope="col" style="width: 40%;" | Title (and talk)
+! Rating
+! Notes
+|-
+| [[Diet Pepsi NFL Rookie of the Week]] <small>([[Talk:Diet Pepsi NFL Rookie of the Week]])</small>
+| Mid
+| 
+|-
+| [[Lowell W. Perry]] <small>([[Talk:Lowell W. Perry]])</small>
+| Mid
+| 
+|-
+| [[Diet Pepsi NFL Rookie of the Year]] <small>([[Talk:Diet Pepsi NFL Rookie of the Year]])</small>
+| Mid
+| 
+|-
+| [[Mickey Shuler (tight end, born 1986)]] <small>([[Talk:Mickey Shuler (tight end, born 1986)]])</small>
+| Low
+| 
+|-
+| [[Final play of Super Bowl XXXIV]] <small>([[Talk:Final play of Super Bowl XXXIV]])</small>
+| Low
+| 
+|-
+| [[Philadelphia Eagles Honor Roll]] <small>([[Talk:Philadelphia Eagles Honor Roll]])</small>
+| Low
+| 
+|-
+| [[List of San Diego Chargers Hall of Fame inductees]] <small>([[Talk:List of San Diego Chargers Hall of Fame inductees]])</small>
+| Low
+| 
+|-
+| [[Belf West]] <small>([[Talk:Belf West]])</small>
+| Low
+| 
+|-
+| [[Jim Young (defensive end)]] <small>([[Talk:Jim Young (defensive end)]])</small>
+| Low
+| 
+|-
+| [[Harry Stafford (American football)]] <small>([[Talk:Harry Stafford (American football)]])</small>
+| Low
+| 
+|-
+| [[19-0: The Historic Championship Season of New England's Unbeatable Patriots]] <small>([[Talk:19-0: The Historic Championship Season of New England's Unbeatable Patriots]])</small>
+| Low
+| 
+|-
+| [[List of career achievements by Drew Brees]] <small>([[Talk:List of career achievements by Drew Brees]])</small>
+| Low
+| 
+|-
+| [[8th Annual NFL Honors]] <small>([[Talk:8th Annual NFL Honors]])</small>
+| Low
+| 
+|-
+| [[7th Annual NFL Honors]] <small>([[Talk:7th Annual NFL Honors]])</small>
+| Low
+| 
+|}

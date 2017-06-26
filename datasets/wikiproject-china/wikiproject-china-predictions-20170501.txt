@@ -1,0 +1,390 @@
+{| class="wikitable sortable"
+|-
+! scope="col" style="width: 45%;" | Title
+! scope="col" style="width: 15%;" | Pred. rating
+! Notes
+|-
+| [[Haier]] <small>([[Talk:Haier|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Li Peng]] <small>([[Talk:Li Peng|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[South China Sea]] <small>([[Talk:South China Sea|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Manchu people]] <small>([[Talk:Manchu people|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Zhu Xi]] <small>([[Talk:Zhu Xi|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Chinese economic reform]] <small>([[Talk:Chinese economic reform|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Central Tibetan Administration]] <small>([[Talk:Central Tibetan Administration|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Sima Yi]] <small>([[Talk:Sima Yi|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Dongguan]] <small>([[Talk:Dongguan|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Eleutherococcus senticosus]] <small>([[Talk:Eleutherococcus senticosus|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Edamame]] <small>([[Talk:Edamame|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Summer Palace]] <small>([[Talk:Summer Palace|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Yellow River Cantata]] <small>([[Talk:Yellow River Cantata|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Port of Shanghai]] <small>([[Talk:Port of Shanghai|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Contest to kill 100 people using a sword]] <small>([[Talk:Contest to kill 100 people using a sword|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Internationalization of the renminbi]] <small>([[Talk:Internationalization of the renminbi|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Bean sprout]] <small>([[Talk:Bean sprout|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Salted duck egg]] <small>([[Talk:Salted duck egg|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Stinky tofu]] <small>([[Talk:Stinky tofu|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Chow Chow]] <small>([[Talk:Chow Chow|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Grey heron]] <small>([[Talk:Grey heron|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Stephanie Ho]] <small>([[Talk:Stephanie Ho|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Yangzhou fried rice]] <small>([[Talk:Yangzhou fried rice|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Grenade]] <small>([[Talk:Grenade|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[List of endangered languages in China]] <small>([[Talk:List of endangered languages in China|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Amur Acquisition]] <small>([[Talk:Amur Acquisition|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[History of silk]] <small>([[Talk:History of silk|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[History of the Ming dynasty]] <small>([[Talk:History of the Ming dynasty|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Geary Act]] <small>([[Talk:Geary Act|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Mount Wutai]] <small>([[Talk:Mount Wutai|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Collections of the Palace Museum]] <small>([[Talk:Collections of the Palace Museum|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Changshan]] <small>([[Talk:Changshan|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Geography of Beijing]] <small>([[Talk:Geography of Beijing|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Emperor Suzong of Tang]] <small>([[Talk:Emperor Suzong of Tang|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Shishapangma]] <small>([[Talk:Shishapangma|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Xishuangbanna Dai Autonomous Prefecture]] <small>([[Talk:Xishuangbanna Dai Autonomous Prefecture|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Chinese people in Germany]] <small>([[Talk:Chinese people in Germany|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Ordos culture]] <small>([[Talk:Ordos culture|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Qiang people]] <small>([[Talk:Qiang people|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Shandong cuisine]] <small>([[Talk:Shandong cuisine|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[The Warrior and the Wolf]] <small>([[Talk:The Warrior and the Wolf|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Chinese Crested Dog]] <small>([[Talk:Chinese Crested Dog|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[The Secret of the Magic Gourd (2007 film)]] <small>([[Talk:The Secret of the Magic Gourd (2007 film)|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Wu Dang (film)]] <small>([[Talk:Wu Dang (film)|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Foxmail]] <small>([[Talk:Foxmail|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Zhong Kui: Snow Girl and the Dark Crystal]] <small>([[Talk:Zhong Kui: Snow Girl and the Dark Crystal|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Wenzhou University]] <small>([[Talk:Wenzhou University|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Environmental policy in China]] <small>([[Talk:Environmental policy in China|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Thousand Character Classic]] <small>([[Talk:Thousand Character Classic|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Zhan Guo Ce]] <small>([[Talk:Zhan Guo Ce|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Yuan (currency)]] <small>([[Talk:Yuan (currency)|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[List of Yuan emperors]] <small>([[Talk:List of Yuan emperors|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Shanghai United International School]] <small>([[Talk:Shanghai United International School|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Outline of Tibet]] <small>([[Talk:Outline of Tibet|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Cross-Strait Economic Zone]] <small>([[Talk:Cross-Strait Economic Zone|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[List of voting results of the National People's Congress of China]] <small>([[Talk:List of voting results of the National People's Congress of China|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[28 Bolsheviks]] <small>([[Talk:28 Bolsheviks|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Old History of the Five Dynasties]] <small>([[Talk:Old History of the Five Dynasties|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Beilun District]] <small>([[Talk:Beilun District|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Cheng Hao]] <small>([[Talk:Cheng Hao|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Ao Bing]] <small>([[Talk:Ao Bing|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[William H. Hinton]] <small>([[Talk:William H. Hinton|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Beihang University Gymnasium]] <small>([[Talk:Beihang University Gymnasium|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Huang Tingjian]] <small>([[Talk:Huang Tingjian|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Baicheng Chang'an Airport]] <small>([[Talk:Baicheng Chang'an Airport|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Haihe Plain]] <small>([[Talk:Haihe Plain|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Beijing Economic and Technological Development Area]] <small>([[Talk:Beijing Economic and Technological Development Area|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Gao Baoxu]] <small>([[Talk:Gao Baoxu|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Gao Xiang (Three Kingdoms)]] <small>([[Talk:Gao Xiang (Three Kingdoms)|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Xiong Yan (elder)]] <small>([[Talk:Xiong Yan (elder)|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Youtazi]] <small>([[Talk:Youtazi|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Hutubi County]] <small>([[Talk:Hutubi County|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Timeline of Republic of China history]] <small>([[Talk:Timeline of Republic of China history|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[History of Modern Standard Chinese]] <small>([[Talk:History of Modern Standard Chinese|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Giovanni de' Marignolli]] <small>([[Talk:Giovanni de' Marignolli|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[List of Paleolithic sites in China]] <small>([[Talk:List of Paleolithic sites in China|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Temple of the Five Immortals (Guangzhou)]] <small>([[Talk:Temple of the Five Immortals (Guangzhou)|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Eastern and Western Pagodas]] <small>([[Talk:Eastern and Western Pagodas|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Confucian art]] <small>([[Talk:Confucian art|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Five Pagoda Temple]] <small>([[Talk:Five Pagoda Temple|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Canidrome (Shanghai)]] <small>([[Talk:Canidrome (Shanghai)|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Tea classics]] <small>([[Talk:Tea classics|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Jiao Yu]] <small>([[Talk:Jiao Yu|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Baodiao movement]] <small>([[Talk:Baodiao movement|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Aigun]] <small>([[Talk:Aigun|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Beng Quan]] <small>([[Talk:Beng Quan|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Yanhuang]] <small>([[Talk:Yanhuang|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Kong Anguo]] <small>([[Talk:Kong Anguo|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Qiandao Lake Incident]] <small>([[Talk:Qiandao Lake Incident|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Yang Guohai]] <small>([[Talk:Yang Guohai|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[China Expeditionary Army]] <small>([[Talk:China Expeditionary Army|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Shanghai Business School]] <small>([[Talk:Shanghai Business School|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Qiushi Academy]] <small>([[Talk:Qiushi Academy|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Cycling at the 2008 Summer Paralympics – Men's individual pursuit (B&VI 1–3)]] <small>([[Talk:Cycling at the 2008 Summer Paralympics – Men's individual pursuit (B&VI 1–3)|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Qingzhen Expressway]] <small>([[Talk:Qingzhen Expressway|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Mufu]] <small>([[Talk:Mufu|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|}

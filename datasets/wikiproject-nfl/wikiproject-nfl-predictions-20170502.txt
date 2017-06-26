@@ -1,0 +1,390 @@
+{| class="wikitable sortable"
+|-
+! scope="col" style="width: 45%;" | Title
+! scope="col" style="width: 15%;" | Pred. rating
+! Notes
+|-
+| [[Eddie George]] <small>([[Talk:Eddie George|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Justin Tuck]] <small>([[Talk:Justin Tuck|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[1960 NFL season]] <small>([[Talk:1960 NFL season|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Wes Chandler]] <small>([[Talk:Wes Chandler|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[NFC West]] <small>([[Talk:NFC West|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Cam Newton]] <small>([[Talk:Cam Newton|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Bill Walsh (American football coach)]] <small>([[Talk:Bill Walsh (American football coach)|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Wilber Marshall]] <small>([[Talk:Wilber Marshall|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Steve Tasker]] <small>([[Talk:Steve Tasker|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Frank Sinkwich]] <small>([[Talk:Frank Sinkwich|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Ernie Davis]] <small>([[Talk:Ernie Davis|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Tom Bettis]] <small>([[Talk:Tom Bettis|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Tight end]] <small>([[Talk:Tight end|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Archie Manning]] <small>([[Talk:Archie Manning|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[2003 NFL Draft]] <small>([[Talk:2003 NFL Draft|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[LeGarrette Blount]] <small>([[Talk:LeGarrette Blount|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Tim Tebow]] <small>([[Talk:Tim Tebow|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Joe Kapp]] <small>([[Talk:Joe Kapp|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Milwaukee Mile]] <small>([[Talk:Milwaukee Mile|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Pat Tillman]] <small>([[Talk:Pat Tillman|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Shane Matthews]] <small>([[Talk:Shane Matthews|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Kerwin Bell]] <small>([[Talk:Kerwin Bell|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Charles White (American football)]] <small>([[Talk:Charles White (American football)|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Angelo Bertelli]] <small>([[Talk:Angelo Bertelli|talk]])</small>
+| style='text-align: center;' | Top
+| 
+|-
+| [[Andre Johnson]] <small>([[Talk:Andre Johnson|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Charles Bidwill]] <small>([[Talk:Charles Bidwill|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Ed Sabol]] <small>([[Talk:Ed Sabol|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Jason Witten]] <small>([[Talk:Jason Witten|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Brian Urlacher]] <small>([[Talk:Brian Urlacher|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Joseph Carr]] <small>([[Talk:Joseph Carr|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Roger Goodell]] <small>([[Talk:Roger Goodell|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[All-America Football Conference]] <small>([[Talk:All-America Football Conference|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[1978 Pittsburgh Steelers season]] <small>([[Talk:1978 Pittsburgh Steelers season|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Larry Johnson (running back)]] <small>([[Talk:Larry Johnson (running back)|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Chip Kelly]] <small>([[Talk:Chip Kelly|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Kevin Faulk]] <small>([[Talk:Kevin Faulk|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Draft (sports)]] <small>([[Talk:Draft (sports)|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Bernie Kosar]] <small>([[Talk:Bernie Kosar|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[1979 NFL Draft]] <small>([[Talk:1979 NFL Draft|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[1992 WLAF season]] <small>([[Talk:1992 WLAF season|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Caleb Sturgis]] <small>([[Talk:Caleb Sturgis|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Butt fumble]] <small>([[Talk:Butt fumble|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Willie Jackson (American football)]] <small>([[Talk:Willie Jackson (American football)|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Tyrone Braxton]] <small>([[Talk:Tyrone Braxton|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Woody Strode]] <small>([[Talk:Woody Strode|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Brandon James]] <small>([[Talk:Brandon James|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[2006 Chicago Bears–Arizona Cardinals game]] <small>([[Talk:2006 Chicago Bears–Arizona Cardinals game|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Scott Milanovich]] <small>([[Talk:Scott Milanovich|talk]])</small>
+| style='text-align: center;' | High
+| 
+|-
+| [[Jug Earp]] <small>([[Talk:Jug Earp|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[History of the National Football League]] <small>([[Talk:History of the National Football League|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[NFL playoff results]] <small>([[Talk:NFL playoff results|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Oorang Indians]] <small>([[Talk:Oorang Indians|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Willie Anderson (American football)]] <small>([[Talk:Willie Anderson (American football)|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Brooklyn Lions / Horsemen (1926)]] <small>([[Talk:Brooklyn Lions / Horsemen (1926)|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Washington Senators (NFL)]] <small>([[Talk:Washington Senators (NFL)|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[1960 Philadelphia Eagles season]] <small>([[Talk:1960 Philadelphia Eagles season|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Joe Klecko]] <small>([[Talk:Joe Klecko|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[1950 NFL playoffs]] <small>([[Talk:1950 NFL playoffs|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Cleveland Tigers (NFL)]] <small>([[Talk:Cleveland Tigers (NFL)|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Mac Speedie]] <small>([[Talk:Mac Speedie|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[1973–74 NFL playoffs]] <small>([[Talk:1973–74 NFL playoffs|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Gerhard Schwedes]] <small>([[Talk:Gerhard Schwedes|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Jonathan Jones (American football)]] <small>([[Talk:Jonathan Jones (American football)|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Torrey Smith]] <small>([[Talk:Torrey Smith|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[2011 Cincinnati Bengals season]] <small>([[Talk:2011 Cincinnati Bengals season|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[2008 Baltimore Ravens season]] <small>([[Talk:2008 Baltimore Ravens season|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Fritz Heisler]] <small>([[Talk:Fritz Heisler|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Laurence Maroney]] <small>([[Talk:Laurence Maroney|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Riley Biggs]] <small>([[Talk:Riley Biggs|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Alonzo Highsmith]] <small>([[Talk:Alonzo Highsmith|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Jerry Reese]] <small>([[Talk:Jerry Reese|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Deonte Thompson]] <small>([[Talk:Deonte Thompson|talk]])</small>
+| style='text-align: center;' | Mid
+| 
+|-
+| [[Mark Gastineau]] <small>([[Talk:Mark Gastineau|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Night Train Lane]] <small>([[Talk:Night Train Lane|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Mack Gladden]] <small>([[Talk:Mack Gladden|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Dick Flaherty]] <small>([[Talk:Dick Flaherty|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Kimble Anders]] <small>([[Talk:Kimble Anders|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Don Paul (defensive back)]] <small>([[Talk:Don Paul (defensive back)|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[National Football League 1960s All-Decade Team]] <small>([[Talk:National Football League 1960s All-Decade Team|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Jerry Sherk]] <small>([[Talk:Jerry Sherk|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Gaylord Stinchcomb]] <small>([[Talk:Gaylord Stinchcomb|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Paul G. Goebel]] <small>([[Talk:Paul G. Goebel|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Paul Des Jardien]] <small>([[Talk:Paul Des Jardien|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Louisville (NFL)]] <small>([[Talk:Louisville (NFL)|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[William Fuller (American football)]] <small>([[Talk:William Fuller (American football)|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[1969 American Football League playoffs]] <small>([[Talk:1969 American Football League playoffs|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Micheal Spurlock]] <small>([[Talk:Micheal Spurlock|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[1928 Pottsville Maroons season]] <small>([[Talk:1928 Pottsville Maroons season|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Ernie Zampese]] <small>([[Talk:Ernie Zampese|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[1944 All-Pro Team]] <small>([[Talk:1944 All-Pro Team|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Cris Dishman]] <small>([[Talk:Cris Dishman|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[1924 Rock Island Independents season]] <small>([[Talk:1924 Rock Island Independents season|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[List of Atlanta Falcons head coaches]] <small>([[Talk:List of Atlanta Falcons head coaches|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[J. J. Jansen]] <small>([[Talk:J. J. Jansen|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[Associated Press NFL Defensive Player of the Year Award]] <small>([[Talk:Associated Press NFL Defensive Player of the Year Award|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|-
+| [[1915 Akron Indians season]] <small>([[Talk:1915 Akron Indians season|talk]])</small>
+| style='text-align: center;' | Low
+| 
+|}

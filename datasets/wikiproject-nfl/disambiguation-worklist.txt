@@ -1,0 +1,6 @@
+{| class="wikitable sortable"
+|-
+! scope="col" style="width: 40%;" | Title (and talk)
+! Rating
+! Notes
+|}

@@ -1,0 +1,75 @@
+## Configuration file for creating a snapshot of WikiProject China
+name: "WikiProject Politics"
+
+## Full category name (without namespace) for each of the four
+## importance categories we are concerned with:
+importance categories: {
+    Top: "Top-importance politics articles",
+    High: "High-importance politics articles",
+    Mid: "Mid-importance politics articles",
+    Low: "Low-importance politics articles"
+    }
+
+## Additional categories of articles, these are used when counting
+## inlinks from within the project.
+support categories:
+ - "NA-importance politics articles"
+ - "Unknown-importance politics articles"
+
+## Path to the snapshot dataset TSV for this project.
+snapshot file: wikiproject-politics-snapshot-20170619.tsv
+
+## Path to the TSV containing articles identified as disambiguation pages
+disambiguation file: wikiproject-politics-disambiguations-20170619.tsv
+
+## Path to the TSV dataset with inlink counts, pageviews, and Wikidata items
+dataset: wikiproject-politics-dataset-20170619.tsv
+
+## Path to the TSV clickstream dataset with clicks, referrer counts, etc
+clickstream file: wikiproject-politics-clickstream-20170619.tsv
+
+## Path to the GEXF file with the Wikidata network
+wikidata network: wikiproject-politics-network-20170619.gexf
+
+## Path to the wikitable with articles that might need rerating
+prediction table: wikiproject-politics-predictions-20170619.txt
+
+## Predictive columns
+predictors:
+ - "rank_views_perc"
+ - "rank_links_perc"
+ - "prop_proj_inlinks"
+ - "prop_from_art"
+ - "prop_act_inlinks"
+
+## Label column
+labels: "importance_rating"
+
+## Number of articles to use for training and test sets when training
+## and evaluating the model:
+test set size: 30
+training set size: 80
+
+## Configuration for SMOTE, which class should be SMOTEd, and how many
+## times larger the SMOTEd training set should be:
+SMOTE evaluation: 1
+SMOTE class: "Top"
+SMOTE factor: 10
+
+## Number of articles to use for training the final model, and whether
+## to use SMOTE for oversampling there as well (with same settings as above):
+final training size: 110
+SMOTE final: 1
+
+## Model parameters, ref http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+model parameters: {
+    'n_estimators' : 1000,
+    'learning_rate': 0.05,
+    'max_depth': 7,
+    'min_samples_leaf': 2,
+    'min_samples_split': 4,
+    'random_state': 42
+}
+
+## Where to write out the trained model
+model file: wikiproject-politics.gbm.model

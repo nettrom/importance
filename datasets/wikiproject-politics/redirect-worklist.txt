@@ -1,0 +1,6910 @@
+{| class="wikitable sortable"
+|-
+! scope="col" style="width: 40%;" | Title (and talk)
+! Rating
+! Notes
+|-
+| [[Form of government]] <small>([[Talk:Form of government]])</small>
+| Top
+| 
+|-
+| [[Politics of Ingushetia]] <small>([[Talk:Politics of Ingushetia]])</small>
+| Top
+| 
+|-
+| [[Power (politics)]] <small>([[Talk:Power (politics)]])</small>
+| Top
+| 
+|-
+| [[Opposition to democracy]] <small>([[Talk:Opposition to democracy]])</small>
+| High
+| 
+|-
+| [[Politics of present-day states]] <small>([[Talk:Politics of present-day states]])</small>
+| High
+| 
+|-
+| [[Social populism]] <small>([[Talk:Social populism]])</small>
+| High
+| 
+|-
+| [[List of politics-related topics]] <small>([[Talk:List of politics-related topics]])</small>
+| High
+| 
+|-
+| [[Constitutional democracy]] <small>([[Talk:Constitutional democracy]])</small>
+| High
+| 
+|-
+| [[Social welfare provision]] <small>([[Talk:Social welfare provision]])</small>
+| High
+| 
+|-
+| [[Secretary for Relations with States]] <small>([[Talk:Secretary for Relations with States]])</small>
+| High
+| 
+|-
+| [[Politics of Africa]] <small>([[Talk:Politics of Africa]])</small>
+| High
+| 
+|-
+| [[Politics of Oceania]] <small>([[Talk:Politics of Oceania]])</small>
+| High
+| 
+|-
+| [[Majoritarian]] <small>([[Talk:Majoritarian]])</small>
+| High
+| 
+|-
+| [[Comparative Politics]] <small>([[Talk:Comparative Politics]])</small>
+| High
+| 
+|-
+| [[Politics of the Marshall Islands]] <small>([[Talk:Politics of the Marshall Islands]])</small>
+| High
+| 
+|-
+| [[List of elections by country]] <small>([[Talk:List of elections by country]])</small>
+| High
+| 
+|-
+| [[Egypt's Liberal Experiment]] <small>([[Talk:Egypt's Liberal Experiment]])</small>
+| High
+| 
+|-
+| [[General election (U.S.)]] <small>([[Talk:General election (U.S.)]])</small>
+| High
+| 
+|-
+| [[Government of the Aztec Empire]] <small>([[Talk:Government of the Aztec Empire]])</small>
+| High
+| 
+|-
+| [[Minister of Transport, Communications and Local Government]] <small>([[Talk:Minister of Transport, Communications and Local Government]])</small>
+| High
+| 
+|-
+| [[Ambassador of Iceland to Venezuela]] <small>([[Talk:Ambassador of Iceland to Venezuela]])</small>
+| High
+| 
+|-
+| [[Foreign policy of Margaret Thatcher]] <small>([[Talk:Foreign policy of Margaret Thatcher]])</small>
+| High
+| 
+|-
+| [[Ministry of Justice]] <small>([[Talk:Ministry of Justice]])</small>
+| High
+| 
+|-
+| [[Freedom fighter]] <small>([[Talk:Freedom fighter]])</small>
+| Mid
+| 
+|-
+| [[Economic issues in the United States]] <small>([[Talk:Economic issues in the United States]])</small>
+| Mid
+| 
+|-
+| [[Demarchy]] <small>([[Talk:Demarchy]])</small>
+| Mid
+| 
+|-
+| [[Class struggle]] <small>([[Talk:Class struggle]])</small>
+| Mid
+| 
+|-
+| [[Senate of France]] <small>([[Talk:Senate of France]])</small>
+| Mid
+| 
+|-
+| [[Public ownership]] <small>([[Talk:Public ownership]])</small>
+| Mid
+| 
+|-
+| [[Joint electorate]] <small>([[Talk:Joint electorate]])</small>
+| Mid
+| 
+|-
+| [[Just War Theory Doctrine]] <small>([[Talk:Just War Theory Doctrine]])</small>
+| Mid
+| 
+|-
+| [[Ballot stuffing]] <small>([[Talk:Ballot stuffing]])</small>
+| Mid
+| 
+|-
+| [[Kritocracy]] <small>([[Talk:Kritocracy]])</small>
+| Mid
+| 
+|-
+| [[Varieties of democracy]] <small>([[Talk:Varieties of democracy]])</small>
+| Mid
+| 
+|-
+| [[Foreign relations of Georgia (country)]] <small>([[Talk:Foreign relations of Georgia (country)]])</small>
+| Mid
+| 
+|-
+| [[Government of Ukraine (version 2)]] <small>([[Talk:Government of Ukraine (version 2)]])</small>
+| Mid
+| 
+|-
+| [[Government of the Carolingian Empire]] <small>([[Talk:Government of the Carolingian Empire]])</small>
+| Mid
+| 
+|-
+| [[Consociational state]] <small>([[Talk:Consociational state]])</small>
+| Mid
+| 
+|-
+| [[Polity (Aristotle)]] <small>([[Talk:Polity (Aristotle)]])</small>
+| Mid
+| 
+|-
+| [[Libertarian movement in the United States]] <small>([[Talk:Libertarian movement in the United States]])</small>
+| Mid
+| 
+|-
+| [[Parliament of the Islamic Republic of Iran]] <small>([[Talk:Parliament of the Islamic Republic of Iran]])</small>
+| Mid
+| 
+|-
+| [[Constituency]] <small>([[Talk:Constituency]])</small>
+| Mid
+| 
+|-
+| [[Renewable energy policy]] <small>([[Talk:Renewable energy policy]])</small>
+| Mid
+| 
+|-
+| [[Religious toleration]] <small>([[Talk:Religious toleration]])</small>
+| Mid
+| 
+|-
+| [[Nominating committee]] <small>([[Talk:Nominating committee]])</small>
+| Mid
+| 
+|-
+| [[United Kingdom coalition government (2010–2015)]] <small>([[Talk:United Kingdom coalition government (2010–2015)]])</small>
+| Mid
+| 
+|-
+| [[Social hierarchy]] <small>([[Talk:Social hierarchy]])</small>
+| Mid
+| 
+|-
+| [[National Liberal Republican Movement (Panama)]] <small>([[Talk:National Liberal Republican Movement (Panama)]])</small>
+| Mid
+| 
+|-
+| [[Public management]] <small>([[Talk:Public management]])</small>
+| Mid
+| 
+|-
+| [[Black leftism]] <small>([[Talk:Black leftism]])</small>
+| Mid
+| 
+|-
+| [[Welfare (financial aid)]] <small>([[Talk:Welfare (financial aid)]])</small>
+| Mid
+| 
+|-
+| [[Libertarian communism]] <small>([[Talk:Libertarian communism]])</small>
+| Mid
+| 
+|-
+| [[Comparative government]] <small>([[Talk:Comparative government]])</small>
+| Mid
+| 
+|-
+| [[Electoral software]] <small>([[Talk:Electoral software]])</small>
+| Mid
+| 
+|-
+| [[Republican democracy]] <small>([[Talk:Republican democracy]])</small>
+| Mid
+| 
+|-
+| [[Political communications]] <small>([[Talk:Political communications]])</small>
+| Mid
+| 
+|-
+| [[Unaffiliated voter]] <small>([[Talk:Unaffiliated voter]])</small>
+| Mid
+| 
+|-
+| [[Core–periphery]] <small>([[Talk:Core–periphery]])</small>
+| Mid
+| 
+|-
+| [[Politics of Saint-Barthélemy]] <small>([[Talk:Politics of Saint-Barthélemy]])</small>
+| Mid
+| 
+|-
+| [[Politics of Saint-Martin]] <small>([[Talk:Politics of Saint-Martin]])</small>
+| Mid
+| 
+|-
+| [[Stateless communism]] <small>([[Talk:Stateless communism]])</small>
+| Mid
+| 
+|-
+| [[Government of Scotland]] <small>([[Talk:Government of Scotland]])</small>
+| Mid
+| 
+|-
+| [[Non-voting]] <small>([[Talk:Non-voting]])</small>
+| Mid
+| 
+|-
+| [[Corporacracy]] <small>([[Talk:Corporacracy]])</small>
+| Mid
+| 
+|-
+| [[Constitution of the Socialist Federal Republic of Yugoslavia]] <small>([[Talk:Constitution of the Socialist Federal Republic of Yugoslavia]])</small>
+| Mid
+| 
+|-
+| [[Military junta]] <small>([[Talk:Military junta]])</small>
+| Mid
+| 
+|-
+| [[Economic conservatism]] <small>([[Talk:Economic conservatism]])</small>
+| Mid
+| 
+|-
+| [[Chief of staff (politics)]] <small>([[Talk:Chief of staff (politics)]])</small>
+| Mid
+| 
+|-
+| [[List of Southeast Asian leaders]] <small>([[Talk:List of Southeast Asian leaders]])</small>
+| Mid
+| 
+|-
+| [[Kennesaw State University Center for Election Systems]] <small>([[Talk:Kennesaw State University Center for Election Systems]])</small>
+| Mid
+| 
+|-
+| [[Economic egalitarianism]] <small>([[Talk:Economic egalitarianism]])</small>
+| Mid
+| 
+|-
+| [[Kennedy and Latin America]] <small>([[Talk:Kennedy and Latin America]])</small>
+| Mid
+| 
+|-
+| [[Absolutism (European history)]] <small>([[Talk:Absolutism (European history)]])</small>
+| Mid
+| 
+|-
+| [[Market liberalism]] <small>([[Talk:Market liberalism]])</small>
+| Mid
+| 
+|-
+| [[Cabinet of Kosovo]] <small>([[Talk:Cabinet of Kosovo]])</small>
+| Mid
+| 
+|-
+| [[Regency]] <small>([[Talk:Regency]])</small>
+| Mid
+| 
+|-
+| [[Melian Dialogue]] <small>([[Talk:Melian Dialogue]])</small>
+| Mid
+| 
+|-
+| [[Public works minister]] <small>([[Talk:Public works minister]])</small>
+| Mid
+| 
+|-
+| [[Elections in Rhode Island]] <small>([[Talk:Elections in Rhode Island]])</small>
+| Mid
+| 
+|-
+| [[Exilarchy]] <small>([[Talk:Exilarchy]])</small>
+| Mid
+| 
+|-
+| [[War dove]] <small>([[Talk:War dove]])</small>
+| Mid
+| 
+|-
+| [[Interim Presidency of Roberto Micheletti]] <small>([[Talk:Interim Presidency of Roberto Micheletti]])</small>
+| Mid
+| 
+|-
+| [[David M. Gill]] <small>([[Talk:David M. Gill]])</small>
+| Mid
+| 
+|-
+| [[Sansad]] <small>([[Talk:Sansad]])</small>
+| Mid
+| 
+|-
+| [[UN member states that recognise Kosovo]] <small>([[Talk:UN member states that recognise Kosovo]])</small>
+| Mid
+| 
+|-
+| [[UN member states that do not recognise Kosovo]] <small>([[Talk:UN member states that do not recognise Kosovo]])</small>
+| Mid
+| 
+|-
+| [[Leadership accountability]] <small>([[Talk:Leadership accountability]])</small>
+| Mid
+| 
+|-
+| [[Governor of Île-de-France]] <small>([[Talk:Governor of Île-de-France]])</small>
+| Mid
+| 
+|-
+| [[Bank deposit levy]] <small>([[Talk:Bank deposit levy]])</small>
+| Mid
+| 
+|-
+| [[Vice President of Mauritius]] <small>([[Talk:Vice President of Mauritius]])</small>
+| Mid
+| 
+|-
+| [[List of rebel groups that control territory]] <small>([[Talk:List of rebel groups that control territory]])</small>
+| Mid
+| 
+|-
+| [[Republic of Crimea (country)]] <small>([[Talk:Republic of Crimea (country)]])</small>
+| Mid
+| 
+|-
+| [[Politics of Dagestan]] <small>([[Talk:Politics of Dagestan]])</small>
+| Mid
+| 
+|-
+| [[Second ministry of Manmohan Singh]] <small>([[Talk:Second ministry of Manmohan Singh]])</small>
+| Mid
+| 
+|-
+| [[Prime Ministers of Albania]] <small>([[Talk:Prime Ministers of Albania]])</small>
+| Mid
+| 
+|-
+| [[Carlos Freire Zaldumbide]] <small>([[Talk:Carlos Freire Zaldumbide]])</small>
+| Mid
+| 
+|-
+| [[Hillary Clinton Supreme Court candidates]] <small>([[Talk:Hillary Clinton Supreme Court candidates]])</small>
+| Mid
+| 
+|-
+| [[Consensus]] <small>([[Talk:Consensus]])</small>
+| Mid
+| 
+|-
+| [[Presidential succession]] <small>([[Talk:Presidential succession]])</small>
+| Low
+| 
+|-
+| [[Al-Qaeda in Iraq]] <small>([[Talk:Al-Qaeda in Iraq]])</small>
+| Low
+| 
+|-
+| [[Occupy Berkeley]] <small>([[Talk:Occupy Berkeley]])</small>
+| Low
+| 
+|-
+| [[Anti-work]] <small>([[Talk:Anti-work]])</small>
+| Low
+| 
+|-
+| [[Deep politics]] <small>([[Talk:Deep politics]])</small>
+| Low
+| 
+|-
+| [[President-elect]] <small>([[Talk:President-elect]])</small>
+| Low
+| 
+|-
+| [[Presumptive nominee]] <small>([[Talk:Presumptive nominee]])</small>
+| Low
+| 
+|-
+| [[Parliamentary group leader]] <small>([[Talk:Parliamentary group leader]])</small>
+| Low
+| 
+|-
+| [[Electoral power]] <small>([[Talk:Electoral power]])</small>
+| Low
+| 
+|-
+| [[Online politics]] <small>([[Talk:Online politics]])</small>
+| Low
+| 
+|-
+| [[Science, Technology, & International Affairs]] <small>([[Talk:Science, Technology, & International Affairs]])</small>
+| Low
+| 
+|-
+| [[Local self-government]] <small>([[Talk:Local self-government]])</small>
+| Low
+| 
+|-
+| [[Social sector]] <small>([[Talk:Social sector]])</small>
+| Low
+| 
+|-
+| [[Timeline of Occupy Wall Street]] <small>([[Talk:Timeline of Occupy Wall Street]])</small>
+| Low
+| 
+|-
+| [[Dominionism]] <small>([[Talk:Dominionism]])</small>
+| Low
+| 
+|-
+| [[Corporate abuse]] <small>([[Talk:Corporate abuse]])</small>
+| Low
+| 
+|-
+| [[Factions in the Republican Party]] <small>([[Talk:Factions in the Republican Party]])</small>
+| Low
+| 
+|-
+| [[Activism industry]] <small>([[Talk:Activism industry]])</small>
+| Low
+| 
+|-
+| [[Occupy Thanet]] <small>([[Talk:Occupy Thanet]])</small>
+| Low
+| 
+|-
+| [[Letter of credence]] <small>([[Talk:Letter of credence]])</small>
+| Low
+| 
+|-
+| [[Graduate Institute of International Studies]] <small>([[Talk:Graduate Institute of International Studies]])</small>
+| Low
+| 
+|-
+| [[Kárpát]] <small>([[Talk:Kárpát]])</small>
+| Low
+| 
+|-
+| [[Cape Town City Council]] <small>([[Talk:Cape Town City Council]])</small>
+| Low
+| 
+|-
+| [[Open politics]] <small>([[Talk:Open politics]])</small>
+| Low
+| 
+|-
+| [[International recognition of South Sudan]] <small>([[Talk:International recognition of South Sudan]])</small>
+| Low
+| 
+|-
+| [[Intergovernmental risk pool]] <small>([[Talk:Intergovernmental risk pool]])</small>
+| Low
+| 
+|-
+| [[List of Singaporean electoral divisions]] <small>([[Talk:List of Singaporean electoral divisions]])</small>
+| Low
+| 
+|-
+| [[Ultra-leftism]] <small>([[Talk:Ultra-leftism]])</small>
+| Low
+| 
+|-
+| [[Development criticism]] <small>([[Talk:Development criticism]])</small>
+| Low
+| 
+|-
+| [[Capital punishment debate]] <small>([[Talk:Capital punishment debate]])</small>
+| Low
+| 
+|-
+| [[List of Prime Ministers of the United Kingdom by time in office]] <small>([[Talk:List of Prime Ministers of the United Kingdom by time in office]])</small>
+| Low
+| 
+|-
+| [[National Democratic Movement (Guatemala)]] <small>([[Talk:National Democratic Movement (Guatemala)]])</small>
+| Low
+| 
+|-
+| [[Criticism of the Council on American-Islamic Relations]] <small>([[Talk:Criticism of the Council on American-Islamic Relations]])</small>
+| Low
+| 
+|-
+| [[Zenarchy]] <small>([[Talk:Zenarchy]])</small>
+| Low
+| 
+|-
+| [[Constitution Eighth Amendment Act of 2002]] <small>([[Talk:Constitution Eighth Amendment Act of 2002]])</small>
+| Low
+| 
+|-
+| [[Artivist]] <small>([[Talk:Artivist]])</small>
+| Low
+| 
+|-
+| [[Pollster]] <small>([[Talk:Pollster]])</small>
+| Low
+| 
+|-
+| [[Norwegian Defence League]] <small>([[Talk:Norwegian Defence League]])</small>
+| Low
+| 
+|-
+| [[Public opinion on health care reform in the United States]] <small>([[Talk:Public opinion on health care reform in the United States]])</small>
+| Low
+| 
+|-
+| [[Missouri Democratic primary, 2012]] <small>([[Talk:Missouri Democratic primary, 2012]])</small>
+| Low
+| 
+|-
+| [[List of mayors of Old Toronto]] <small>([[Talk:List of mayors of Old Toronto]])</small>
+| Low
+| 
+|-
+| [[Substantive representation]] <small>([[Talk:Substantive representation]])</small>
+| Low
+| 
+|-
+| [[The New Deal and corporatism]] <small>([[Talk:The New Deal and corporatism]])</small>
+| Low
+| 
+|-
+| [[Vice consul]] <small>([[Talk:Vice consul]])</small>
+| Low
+| 
+|-
+| [[Daniel Imperato]] <small>([[Talk:Daniel Imperato]])</small>
+| Low
+| 
+|-
+| [[List of Chairmen of the Assembly of Turkmenistan]] <small>([[Talk:List of Chairmen of the Assembly of Turkmenistan]])</small>
+| Low
+| 
+|-
+| [[List of mayors of Berlin]] <small>([[Talk:List of mayors of Berlin]])</small>
+| Low
+| 
+|-
+| [[Neo-populism]] <small>([[Talk:Neo-populism]])</small>
+| Low
+| 
+|-
+| [[Green Party of Egypt]] <small>([[Talk:Green Party of Egypt]])</small>
+| Low
+| 
+|-
+| [[Günther Anhalt]] <small>([[Talk:Günther Anhalt]])</small>
+| Low
+| 
+|-
+| [[Messianic democracy]] <small>([[Talk:Messianic democracy]])</small>
+| Low
+| 
+|-
+| [[Comité voor een Andere Politiek]] <small>([[Talk:Comité voor een Andere Politiek]])</small>
+| Low
+| 
+|-
+| [[International Property Rights Index]] <small>([[Talk:International Property Rights Index]])</small>
+| Low
+| 
+|-
+| [[Popular Party for French Democracy]] <small>([[Talk:Popular Party for French Democracy]])</small>
+| Low
+| 
+|-
+| [[Youth of the Orthodox Rally]] <small>([[Talk:Youth of the Orthodox Rally]])</small>
+| Low
+| 
+|-
+| [[Rob Wheway]] <small>([[Talk:Rob Wheway]])</small>
+| Low
+| 
+|-
+| [[Libertarianism and intellectual property]] <small>([[Talk:Libertarianism and intellectual property]])</small>
+| Low
+| 
+|-
+| [[Going Rouge: Sarah Palin, An American Nightmare]] <small>([[Talk:Going Rouge: Sarah Palin, An American Nightmare]])</small>
+| Low
+| 
+|-
+| [[Ceisler Media]] <small>([[Talk:Ceisler Media]])</small>
+| Low
+| 
+|-
+| [[Elections in 1966]] <small>([[Talk:Elections in 1966]])</small>
+| Low
+| 
+|-
+| [[Labour Government 2007-2010]] <small>([[Talk:Labour Government 2007-2010]])</small>
+| Low
+| 
+|-
+| [[American Dream, Global Nightmare: The Dilemma of U.S. Human Rights Policy]] <small>([[Talk:American Dream, Global Nightmare: The Dilemma of U.S. Human Rights Policy]])</small>
+| Low
+| 
+|-
+| [[Strength Through Peace]] <small>([[Talk:Strength Through Peace]])</small>
+| Low
+| 
+|-
+| [[Young Australian Democrats]] <small>([[Talk:Young Australian Democrats]])</small>
+| Low
+| 
+|-
+| [[Consul general]] <small>([[Talk:Consul general]])</small>
+| Low
+| 
+|-
+| [[Red (political adjective)]] <small>([[Talk:Red (political adjective)]])</small>
+| Low
+| 
+|-
+| [[National Active and Retired Federal Employees Association]] <small>([[Talk:National Active and Retired Federal Employees Association]])</small>
+| Low
+| 
+|-
+| [[Liberal Party (Italy)]] <small>([[Talk:Liberal Party (Italy)]])</small>
+| Low
+| 
+|-
+| [[Freeminded People's Party (Sweden)]] <small>([[Talk:Freeminded People's Party (Sweden)]])</small>
+| Low
+| 
+|-
+| [[Carlos Gonzalez Guttierez]] <small>([[Talk:Carlos Gonzalez Guttierez]])</small>
+| Low
+| 
+|-
+| [[Resignation of Silvio Berlusconi]] <small>([[Talk:Resignation of Silvio Berlusconi]])</small>
+| Low
+| 
+|-
+| [[Timeline of the 2011 Egyptian protests]] <small>([[Talk:Timeline of the 2011 Egyptian protests]])</small>
+| Low
+| 
+|-
+| [[Drill Here. Drill Now.]] <small>([[Talk:Drill Here. Drill Now.]])</small>
+| Low
+| 
+|-
+| [[List of Foreign Ministers of East Germany]] <small>([[Talk:List of Foreign Ministers of East Germany]])</small>
+| Low
+| 
+|-
+| [[Layer cake federalism]] <small>([[Talk:Layer cake federalism]])</small>
+| Low
+| 
+|-
+| [[Socialist Party of Monmouth and Ocean Counties]] <small>([[Talk:Socialist Party of Monmouth and Ocean Counties]])</small>
+| Low
+| 
+|-
+| [[Food stamps]] <small>([[Talk:Food stamps]])</small>
+| Low
+| 
+|-
+| [[2009 United Kingdom parliamentary crisis]] <small>([[Talk:2009 United Kingdom parliamentary crisis]])</small>
+| Low
+| 
+|-
+| [[List of Members of the House of Representatives of the Netherlands, 2006–10]] <small>([[Talk:List of Members of the House of Representatives of the Netherlands, 2006–10]])</small>
+| Low
+| 
+|-
+| [[Castroism]] <small>([[Talk:Castroism]])</small>
+| Low
+| 
+|-
+| [[List of All-America Cities]] <small>([[Talk:List of All-America Cities]])</small>
+| Low
+| 
+|-
+| [[Butskellism]] <small>([[Talk:Butskellism]])</small>
+| Low
+| 
+|-
+| [[Minister for Women's Rights (Denmark)]] <small>([[Talk:Minister for Women's Rights (Denmark)]])</small>
+| Low
+| 
+|-
+| [[United Kingdom general election, 2010 (Bristol)]] <small>([[Talk:United Kingdom general election, 2010 (Bristol)]])</small>
+| Low
+| 
+|-
+| [[Anti-democratic thought]] <small>([[Talk:Anti-democratic thought]])</small>
+| Low
+| 
+|-
+| [[List of Italian Ministers of Economy and Finances]] <small>([[Talk:List of Italian Ministers of Economy and Finances]])</small>
+| Low
+| 
+|-
+| [[Romnesia]] <small>([[Talk:Romnesia]])</small>
+| Low
+| 
+|-
+| [[Truth Commission (Panama)]] <small>([[Talk:Truth Commission (Panama)]])</small>
+| Low
+| 
+|-
+| [[Oriental despotism]] <small>([[Talk:Oriental despotism]])</small>
+| Low
+| 
+|-
+| [[Emigrationism]] <small>([[Talk:Emigrationism]])</small>
+| Low
+| 
+|-
+| [[White House Correspondents' Dinner]] <small>([[Talk:White House Correspondents' Dinner]])</small>
+| Low
+| 
+|-
+| [[Overview of the Arab Spring]] <small>([[Talk:Overview of the Arab Spring]])</small>
+| Low
+| 
+|-
+| [[Radical nationalism in Russia]] <small>([[Talk:Radical nationalism in Russia]])</small>
+| Low
+| 
+|-
+| [[State church]] <small>([[Talk:State church]])</small>
+| Low
+| 
+|-
+| [[Female Peronist Party]] <small>([[Talk:Female Peronist Party]])</small>
+| Low
+| 
+|-
+| [[Partido Socialista de Navarra]] <small>([[Talk:Partido Socialista de Navarra]])</small>
+| Low
+| 
+|-
+| [[Internet democracy]] <small>([[Talk:Internet democracy]])</small>
+| Low
+| 
+|-
+| [[8th Parliament of the Solomon Islands]] <small>([[Talk:8th Parliament of the Solomon Islands]])</small>
+| Low
+| 
+|-
+| [[List of Presidents of the Liberal Party of Canada]] <small>([[Talk:List of Presidents of the Liberal Party of Canada]])</small>
+| Low
+| 
+|-
+| [[Autonomous province]] <small>([[Talk:Autonomous province]])</small>
+| Low
+| 
+|-
+| [[COMESA Authority]] <small>([[Talk:COMESA Authority]])</small>
+| Low
+| 
+|-
+| [[International Revolutionary Marxist Tendency]] <small>([[Talk:International Revolutionary Marxist Tendency]])</small>
+| Low
+| 
+|-
+| [[JUI (F)]] <small>([[Talk:JUI (F)]])</small>
+| Low
+| 
+|-
+| [[Vonk (the Netherlands)]] <small>([[Talk:Vonk (the Netherlands)]])</small>
+| Low
+| 
+|-
+| [[Parliamentary Labour Party (Ireland)]] <small>([[Talk:Parliamentary Labour Party (Ireland)]])</small>
+| Low
+| 
+|-
+| [[Fasci d'Azione Rivoluzionaria]] <small>([[Talk:Fasci d'Azione Rivoluzionaria]])</small>
+| Low
+| 
+|-
+| [[Pagan Amum (version 2)]] <small>([[Talk:Pagan Amum (version 2)]])</small>
+| Low
+| 
+|-
+| [[Constitution Party of West Virginia]] <small>([[Talk:Constitution Party of West Virginia]])</small>
+| Low
+| 
+|-
+| [[Government shutdown]] <small>([[Talk:Government shutdown]])</small>
+| Low
+| 
+|-
+| [[Far Right-Libertarianism]] <small>([[Talk:Far Right-Libertarianism]])</small>
+| Low
+| 
+|-
+| [[Melis Myrzakmaotv]] <small>([[Talk:Melis Myrzakmaotv]])</small>
+| Low
+| 
+|-
+| [[Breaking the Spell (film)]] <small>([[Talk:Breaking the Spell (film)]])</small>
+| Low
+| 
+|-
+| [[War By Other Means]] <small>([[Talk:War By Other Means]])</small>
+| Low
+| 
+|-
+| [[Zhanseit Tuimebayev]] <small>([[Talk:Zhanseit Tuimebayev]])</small>
+| Low
+| 
+|-
+| [[The Nazi Drawings]] <small>([[Talk:The Nazi Drawings]])</small>
+| Low
+| 
+|-
+| [[Finnish Resistance Movement]] <small>([[Talk:Finnish Resistance Movement]])</small>
+| Low
+| 
+|-
+| [[Authoritarian democracy]] <small>([[Talk:Authoritarian democracy]])</small>
+| Low
+| 
+|-
+| [[Gerardus Mooyman]] <small>([[Talk:Gerardus Mooyman]])</small>
+| Low
+| 
+|-
+| [[Rashtriya Aam Party]] <small>([[Talk:Rashtriya Aam Party]])</small>
+| Low
+| 
+|-
+| [[List of Members of the House of Representatives of the Netherlands, 2012–present]] <small>([[Talk:List of Members of the House of Representatives of the Netherlands, 2012–present]])</small>
+| Low
+| 
+|-
+| [[Future Party (Australia)]] <small>([[Talk:Future Party (Australia)]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives election in Colorado, 1878]] <small>([[Talk:United States House of Representatives election in Colorado, 1878]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives election in Colorado, 1880]] <small>([[Talk:United States House of Representatives election in Colorado, 1880]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives election in Colorado, 1882]] <small>([[Talk:United States House of Representatives election in Colorado, 1882]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives election in Colorado, 1884]] <small>([[Talk:United States House of Representatives election in Colorado, 1884]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives election in Colorado, 1886]] <small>([[Talk:United States House of Representatives election in Colorado, 1886]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives election in Colorado, 1888]] <small>([[Talk:United States House of Representatives election in Colorado, 1888]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives election in Colorado, 1890]] <small>([[Talk:United States House of Representatives election in Colorado, 1890]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1894]] <small>([[Talk:United States House of Representatives elections in Colorado, 1894]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1896]] <small>([[Talk:United States House of Representatives elections in Colorado, 1896]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1898]] <small>([[Talk:United States House of Representatives elections in Colorado, 1898]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1876]] <small>([[Talk:United States House of Representatives elections in Colorado, 1876]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1892]] <small>([[Talk:United States House of Representatives elections in Colorado, 1892]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1900]] <small>([[Talk:United States House of Representatives elections in Colorado, 1900]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1902]] <small>([[Talk:United States House of Representatives elections in Colorado, 1902]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1904]] <small>([[Talk:United States House of Representatives elections in Colorado, 1904]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1906]] <small>([[Talk:United States House of Representatives elections in Colorado, 1906]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1908]] <small>([[Talk:United States House of Representatives elections in Colorado, 1908]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1910]] <small>([[Talk:United States House of Representatives elections in Colorado, 1910]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1912]] <small>([[Talk:United States House of Representatives elections in Colorado, 1912]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1916]] <small>([[Talk:United States House of Representatives elections in Colorado, 1916]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1940]] <small>([[Talk:United States House of Representatives elections in Colorado, 1940]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1944]] <small>([[Talk:United States House of Representatives elections in Colorado, 1944]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1946]] <small>([[Talk:United States House of Representatives elections in Colorado, 1946]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1948]] <small>([[Talk:United States House of Representatives elections in Colorado, 1948]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1986]] <small>([[Talk:United States House of Representatives elections in Colorado, 1986]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1992]] <small>([[Talk:United States House of Representatives elections in Colorado, 1992]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1996]] <small>([[Talk:United States House of Representatives elections in Colorado, 1996]])</small>
+| Low
+| 
+|-
+| [[United States House of Representatives elections in Colorado, 1998]] <small>([[Talk:United States House of Representatives elections in Colorado, 1998]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 488]] <small>([[Talk:List of state leaders in 488]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 425]] <small>([[Talk:List of state leaders in 425]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 396]] <small>([[Talk:List of state leaders in 396]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 481]] <small>([[Talk:List of state leaders in 481]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 424]] <small>([[Talk:List of state leaders in 424]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 439]] <small>([[Talk:List of state leaders in 439]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 388]] <small>([[Talk:List of state leaders in 388]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 395]] <small>([[Talk:List of state leaders in 395]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 191]] <small>([[Talk:List of state leaders in 191]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 416]] <small>([[Talk:List of state leaders in 416]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 150]] <small>([[Talk:List of state leaders in 150]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 423]] <small>([[Talk:List of state leaders in 423]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 453]] <small>([[Talk:List of state leaders in 453]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 478]] <small>([[Talk:List of state leaders in 478]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 419]] <small>([[Talk:List of state leaders in 419]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 421]] <small>([[Talk:List of state leaders in 421]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 450]] <small>([[Talk:List of state leaders in 450]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 173]] <small>([[Talk:List of state leaders in 173]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 412]] <small>([[Talk:List of state leaders in 412]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 484]] <small>([[Talk:List of state leaders in 484]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 404]] <small>([[Talk:List of state leaders in 404]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 111]] <small>([[Talk:List of state leaders in 111]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 415]] <small>([[Talk:List of state leaders in 415]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 188]] <small>([[Talk:List of state leaders in 188]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 414]] <small>([[Talk:List of state leaders in 414]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 480]] <small>([[Talk:List of state leaders in 480]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 199]] <small>([[Talk:List of state leaders in 199]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 413]] <small>([[Talk:List of state leaders in 413]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 353]] <small>([[Talk:List of state leaders in 353]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 270]] <small>([[Talk:List of state leaders in 270]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 521]] <small>([[Talk:List of state leaders in 521]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 380]] <small>([[Talk:List of state leaders in 380]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 352]] <small>([[Talk:List of state leaders in 352]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 265]] <small>([[Talk:List of state leaders in 265]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 335]] <small>([[Talk:List of state leaders in 335]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 297]] <small>([[Talk:List of state leaders in 297]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 296]] <small>([[Talk:List of state leaders in 296]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 295]] <small>([[Talk:List of state leaders in 295]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 294]] <small>([[Talk:List of state leaders in 294]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 323]] <small>([[Talk:List of state leaders in 323]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 520]] <small>([[Talk:List of state leaders in 520]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 268]] <small>([[Talk:List of state leaders in 268]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 468]] <small>([[Talk:List of state leaders in 468]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 373]] <small>([[Talk:List of state leaders in 373]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 374]] <small>([[Talk:List of state leaders in 374]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 376]] <small>([[Talk:List of state leaders in 376]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 466]] <small>([[Talk:List of state leaders in 466]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 355]] <small>([[Talk:List of state leaders in 355]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 519]] <small>([[Talk:List of state leaders in 519]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 464]] <small>([[Talk:List of state leaders in 464]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 463]] <small>([[Talk:List of state leaders in 463]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 462]] <small>([[Talk:List of state leaders in 462]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 261]] <small>([[Talk:List of state leaders in 261]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 293]] <small>([[Talk:List of state leaders in 293]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 540]] <small>([[Talk:List of state leaders in 540]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 472]] <small>([[Talk:List of state leaders in 472]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 351]] <small>([[Talk:List of state leaders in 351]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 461]] <small>([[Talk:List of state leaders in 461]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 444]] <small>([[Talk:List of state leaders in 444]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 469]] <small>([[Talk:List of state leaders in 469]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 470]] <small>([[Talk:List of state leaders in 470]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 459]] <small>([[Talk:List of state leaders in 459]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 334]] <small>([[Talk:List of state leaders in 334]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 299]] <small>([[Talk:List of state leaders in 299]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 339]] <small>([[Talk:List of state leaders in 339]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 534]] <small>([[Talk:List of state leaders in 534]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 467]] <small>([[Talk:List of state leaders in 467]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 390]] <small>([[Talk:List of state leaders in 390]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 456]] <small>([[Talk:List of state leaders in 456]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 465]] <small>([[Talk:List of state leaders in 465]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 471]] <small>([[Talk:List of state leaders in 471]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 460]] <small>([[Talk:List of state leaders in 460]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 346]] <small>([[Talk:List of state leaders in 346]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 278]] <small>([[Talk:List of state leaders in 278]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 274]] <small>([[Talk:List of state leaders in 274]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 223]] <small>([[Talk:List of state leaders in 223]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 328]] <small>([[Talk:List of state leaders in 328]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 329]] <small>([[Talk:List of state leaders in 329]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 234]] <small>([[Talk:List of state leaders in 234]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 343]] <small>([[Talk:List of state leaders in 343]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 292]] <small>([[Talk:List of state leaders in 292]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 224]] <small>([[Talk:List of state leaders in 224]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 539]] <small>([[Talk:List of state leaders in 539]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 303]] <small>([[Talk:List of state leaders in 303]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 345]] <small>([[Talk:List of state leaders in 345]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 269]] <small>([[Talk:List of state leaders in 269]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 317]] <small>([[Talk:List of state leaders in 317]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 267]] <small>([[Talk:List of state leaders in 267]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 290]] <small>([[Talk:List of state leaders in 290]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 342]] <small>([[Talk:List of state leaders in 342]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 254]] <small>([[Talk:List of state leaders in 254]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 282]] <small>([[Talk:List of state leaders in 282]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 255]] <small>([[Talk:List of state leaders in 255]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 327]] <small>([[Talk:List of state leaders in 327]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 326]] <small>([[Talk:List of state leaders in 326]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 529]] <small>([[Talk:List of state leaders in 529]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 273]] <small>([[Talk:List of state leaders in 273]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 523]] <small>([[Talk:List of state leaders in 523]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 377]] <small>([[Talk:List of state leaders in 377]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 528]] <small>([[Talk:List of state leaders in 528]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 249]] <small>([[Talk:List of state leaders in 249]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 250]] <small>([[Talk:List of state leaders in 250]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 257]] <small>([[Talk:List of state leaders in 257]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 366]] <small>([[Talk:List of state leaders in 366]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 367]] <small>([[Talk:List of state leaders in 367]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 276]] <small>([[Talk:List of state leaders in 276]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 256]] <small>([[Talk:List of state leaders in 256]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 266]] <small>([[Talk:List of state leaders in 266]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 546]] <small>([[Talk:List of state leaders in 546]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 547]] <small>([[Talk:List of state leaders in 547]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 238]] <small>([[Talk:List of state leaders in 238]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 344]] <small>([[Talk:List of state leaders in 344]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 350]] <small>([[Talk:List of state leaders in 350]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 369]] <small>([[Talk:List of state leaders in 369]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 263]] <small>([[Talk:List of state leaders in 263]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 368]] <small>([[Talk:List of state leaders in 368]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 264]] <small>([[Talk:List of state leaders in 264]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 530]] <small>([[Talk:List of state leaders in 530]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 302]] <small>([[Talk:List of state leaders in 302]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 381]] <small>([[Talk:List of state leaders in 381]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 213]] <small>([[Talk:List of state leaders in 213]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 287]] <small>([[Talk:List of state leaders in 287]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 202]] <small>([[Talk:List of state leaders in 202]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 301]] <small>([[Talk:List of state leaders in 301]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 228]] <small>([[Talk:List of state leaders in 228]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 244]] <small>([[Talk:List of state leaders in 244]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 230]] <small>([[Talk:List of state leaders in 230]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 218]] <small>([[Talk:List of state leaders in 218]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 246]] <small>([[Talk:List of state leaders in 246]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 219]] <small>([[Talk:List of state leaders in 219]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 212]] <small>([[Talk:List of state leaders in 212]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 279]] <small>([[Talk:List of state leaders in 279]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 216]] <small>([[Talk:List of state leaders in 216]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 240]] <small>([[Talk:List of state leaders in 240]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 316]] <small>([[Talk:List of state leaders in 316]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 226]] <small>([[Talk:List of state leaders in 226]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 201]] <small>([[Talk:List of state leaders in 201]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 305]] <small>([[Talk:List of state leaders in 305]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 214]] <small>([[Talk:List of state leaders in 214]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 291]] <small>([[Talk:List of state leaders in 291]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 247]] <small>([[Talk:List of state leaders in 247]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 220]] <small>([[Talk:List of state leaders in 220]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 537]] <small>([[Talk:List of state leaders in 537]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 241]] <small>([[Talk:List of state leaders in 241]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 348]] <small>([[Talk:List of state leaders in 348]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 281]] <small>([[Talk:List of state leaders in 281]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 225]] <small>([[Talk:List of state leaders in 225]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 533]] <small>([[Talk:List of state leaders in 533]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 205]] <small>([[Talk:List of state leaders in 205]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 524]] <small>([[Talk:List of state leaders in 524]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 538]] <small>([[Talk:List of state leaders in 538]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 217]] <small>([[Talk:List of state leaders in 217]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 341]] <small>([[Talk:List of state leaders in 341]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 208]] <small>([[Talk:List of state leaders in 208]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 522]] <small>([[Talk:List of state leaders in 522]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 227]] <small>([[Talk:List of state leaders in 227]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 221]] <small>([[Talk:List of state leaders in 221]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 284]] <small>([[Talk:List of state leaders in 284]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 321]] <small>([[Talk:List of state leaders in 321]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 277]] <small>([[Talk:List of state leaders in 277]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 222]] <small>([[Talk:List of state leaders in 222]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 259]] <small>([[Talk:List of state leaders in 259]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 347]] <small>([[Talk:List of state leaders in 347]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 310]] <small>([[Talk:List of state leaders in 310]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 275]] <small>([[Talk:List of state leaders in 275]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 527]] <small>([[Talk:List of state leaders in 527]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 211]] <small>([[Talk:List of state leaders in 211]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 309]] <small>([[Talk:List of state leaders in 309]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 313]] <small>([[Talk:List of state leaders in 313]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 308]] <small>([[Talk:List of state leaders in 308]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 236]] <small>([[Talk:List of state leaders in 236]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 237]] <small>([[Talk:List of state leaders in 237]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 312]] <small>([[Talk:List of state leaders in 312]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 231]] <small>([[Talk:List of state leaders in 231]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 232]] <small>([[Talk:List of state leaders in 232]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 233]] <small>([[Talk:List of state leaders in 233]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 229]] <small>([[Talk:List of state leaders in 229]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 311]] <small>([[Talk:List of state leaders in 311]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 239]] <small>([[Talk:List of state leaders in 239]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 242]] <small>([[Talk:List of state leaders in 242]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 243]] <small>([[Talk:List of state leaders in 243]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 245]] <small>([[Talk:List of state leaders in 245]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 289]] <small>([[Talk:List of state leaders in 289]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 288]] <small>([[Talk:List of state leaders in 288]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 235]] <small>([[Talk:List of state leaders in 235]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 215]] <small>([[Talk:List of state leaders in 215]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 283]] <small>([[Talk:List of state leaders in 283]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 285]] <small>([[Talk:List of state leaders in 285]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 204]] <small>([[Talk:List of state leaders in 204]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 203]] <small>([[Talk:List of state leaders in 203]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 286]] <small>([[Talk:List of state leaders in 286]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 349]] <small>([[Talk:List of state leaders in 349]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 206]] <small>([[Talk:List of state leaders in 206]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 207]] <small>([[Talk:List of state leaders in 207]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 209]] <small>([[Talk:List of state leaders in 209]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 210]] <small>([[Talk:List of state leaders in 210]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 258]] <small>([[Talk:List of state leaders in 258]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 382]] <small>([[Talk:List of state leaders in 382]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 324]] <small>([[Talk:List of state leaders in 324]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 318]] <small>([[Talk:List of state leaders in 318]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 320]] <small>([[Talk:List of state leaders in 320]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 372]] <small>([[Talk:List of state leaders in 372]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 332]] <small>([[Talk:List of state leaders in 332]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 272]] <small>([[Talk:List of state leaders in 272]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 383]] <small>([[Talk:List of state leaders in 383]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 379]] <small>([[Talk:List of state leaders in 379]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 319]] <small>([[Talk:List of state leaders in 319]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 358]] <small>([[Talk:List of state leaders in 358]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 532]] <small>([[Talk:List of state leaders in 532]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 542]] <small>([[Talk:List of state leaders in 542]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 544]] <small>([[Talk:List of state leaders in 544]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 280]] <small>([[Talk:List of state leaders in 280]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 252]] <small>([[Talk:List of state leaders in 252]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 545]] <small>([[Talk:List of state leaders in 545]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 340]] <small>([[Talk:List of state leaders in 340]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 304]] <small>([[Talk:List of state leaders in 304]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 253]] <small>([[Talk:List of state leaders in 253]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 548]] <small>([[Talk:List of state leaders in 548]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 333]] <small>([[Talk:List of state leaders in 333]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 262]] <small>([[Talk:List of state leaders in 262]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 325]] <small>([[Talk:List of state leaders in 325]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 378]] <small>([[Talk:List of state leaders in 378]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 371]] <small>([[Talk:List of state leaders in 371]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 535]] <small>([[Talk:List of state leaders in 535]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 354]] <small>([[Talk:List of state leaders in 354]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 322]] <small>([[Talk:List of state leaders in 322]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 357]] <small>([[Talk:List of state leaders in 357]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 543]] <small>([[Talk:List of state leaders in 543]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 359]] <small>([[Talk:List of state leaders in 359]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 331]] <small>([[Talk:List of state leaders in 331]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 330]] <small>([[Talk:List of state leaders in 330]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 356]] <small>([[Talk:List of state leaders in 356]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 336]] <small>([[Talk:List of state leaders in 336]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 549]] <small>([[Talk:List of state leaders in 549]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 363]] <small>([[Talk:List of state leaders in 363]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 531]] <small>([[Talk:List of state leaders in 531]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 271]] <small>([[Talk:List of state leaders in 271]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 370]] <small>([[Talk:List of state leaders in 370]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 360]] <small>([[Talk:List of state leaders in 360]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 298]] <small>([[Talk:List of state leaders in 298]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 441]] <small>([[Talk:List of state leaders in 441]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 440]] <small>([[Talk:List of state leaders in 440]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 384]] <small>([[Talk:List of state leaders in 384]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 393]] <small>([[Talk:List of state leaders in 393]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 375]] <small>([[Talk:List of state leaders in 375]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 387]] <small>([[Talk:List of state leaders in 387]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 391]] <small>([[Talk:List of state leaders in 391]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 473]] <small>([[Talk:List of state leaders in 473]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 489]] <small>([[Talk:List of state leaders in 489]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 458]] <small>([[Talk:List of state leaders in 458]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 338]] <small>([[Talk:List of state leaders in 338]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 445]] <small>([[Talk:List of state leaders in 445]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 443]] <small>([[Talk:List of state leaders in 443]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 457]] <small>([[Talk:List of state leaders in 457]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 389]] <small>([[Talk:List of state leaders in 389]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 418]] <small>([[Talk:List of state leaders in 418]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 449]] <small>([[Talk:List of state leaders in 449]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 451]] <small>([[Talk:List of state leaders in 451]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 386]] <small>([[Talk:List of state leaders in 386]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 448]] <small>([[Talk:List of state leaders in 448]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 446]] <small>([[Talk:List of state leaders in 446]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 385]] <small>([[Talk:List of state leaders in 385]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 474]] <small>([[Talk:List of state leaders in 474]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 486]] <small>([[Talk:List of state leaders in 486]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 485]] <small>([[Talk:List of state leaders in 485]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 454]] <small>([[Talk:List of state leaders in 454]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 482]] <small>([[Talk:List of state leaders in 482]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 442]] <small>([[Talk:List of state leaders in 442]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 476]] <small>([[Talk:List of state leaders in 476]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 455]] <small>([[Talk:List of state leaders in 455]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 422]] <small>([[Talk:List of state leaders in 422]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 475]] <small>([[Talk:List of state leaders in 475]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 392]] <small>([[Talk:List of state leaders in 392]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 260]] <small>([[Talk:List of state leaders in 260]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 487]] <small>([[Talk:List of state leaders in 487]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 394]] <small>([[Talk:List of state leaders in 394]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 447]] <small>([[Talk:List of state leaders in 447]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 452]] <small>([[Talk:List of state leaders in 452]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 337]] <small>([[Talk:List of state leaders in 337]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 69]] <small>([[Talk:List of state leaders in 69]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 900s BC]] <small>([[Talk:List of state leaders in 900s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 910s BC]] <small>([[Talk:List of state leaders in 910s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 814]] <small>([[Talk:List of state leaders in 814]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 812]] <small>([[Talk:List of state leaders in 812]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 890s BC]] <small>([[Talk:List of state leaders in 890s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 920s BC]] <small>([[Talk:List of state leaders in 920s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 813]] <small>([[Talk:List of state leaders in 813]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 816]] <small>([[Talk:List of state leaders in 816]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 810]] <small>([[Talk:List of state leaders in 810]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 817]] <small>([[Talk:List of state leaders in 817]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 860]] <small>([[Talk:List of state leaders in 860]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 856]] <small>([[Talk:List of state leaders in 856]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 859]] <small>([[Talk:List of state leaders in 859]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 857]] <small>([[Talk:List of state leaders in 857]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 805]] <small>([[Talk:List of state leaders in 805]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 803]] <small>([[Talk:List of state leaders in 803]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 818]] <small>([[Talk:List of state leaders in 818]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 980s BC]] <small>([[Talk:List of state leaders in 980s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 791]] <small>([[Talk:List of state leaders in 791]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 802]] <small>([[Talk:List of state leaders in 802]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 807]] <small>([[Talk:List of state leaders in 807]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 820]] <small>([[Talk:List of state leaders in 820]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1000s BC]] <small>([[Talk:List of state leaders in 1000s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 796]] <small>([[Talk:List of state leaders in 796]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1040s BC]] <small>([[Talk:List of state leaders in 1040s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 808]] <small>([[Talk:List of state leaders in 808]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 806]] <small>([[Talk:List of state leaders in 806]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 809]] <small>([[Talk:List of state leaders in 809]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 815]] <small>([[Talk:List of state leaders in 815]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 811]] <small>([[Talk:List of state leaders in 811]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 183 BC]] <small>([[Talk:List of state leaders in 183 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 186 BC]] <small>([[Talk:List of state leaders in 186 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 181 BC]] <small>([[Talk:List of state leaders in 181 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 177 BC]] <small>([[Talk:List of state leaders in 177 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 174 BC]] <small>([[Talk:List of state leaders in 174 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 182 BC]] <small>([[Talk:List of state leaders in 182 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 188 BC]] <small>([[Talk:List of state leaders in 188 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 176 BC]] <small>([[Talk:List of state leaders in 176 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 114 BC]] <small>([[Talk:List of state leaders in 114 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 189 BC]] <small>([[Talk:List of state leaders in 189 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 175 BC]] <small>([[Talk:List of state leaders in 175 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 118 BC]] <small>([[Talk:List of state leaders in 118 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 184 BC]] <small>([[Talk:List of state leaders in 184 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 873]] <small>([[Talk:List of state leaders in 873]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 173 BC]] <small>([[Talk:List of state leaders in 173 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 111 BC]] <small>([[Talk:List of state leaders in 111 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 113 BC]] <small>([[Talk:List of state leaders in 113 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 187 BC]] <small>([[Talk:List of state leaders in 187 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 115 BC]] <small>([[Talk:List of state leaders in 115 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 117 BC]] <small>([[Talk:List of state leaders in 117 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 874]] <small>([[Talk:List of state leaders in 874]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 872]] <small>([[Talk:List of state leaders in 872]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 864]] <small>([[Talk:List of state leaders in 864]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 439 BC]] <small>([[Talk:List of state leaders in 439 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 191 BC]] <small>([[Talk:List of state leaders in 191 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 128 BC]] <small>([[Talk:List of state leaders in 128 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 112 BC]] <small>([[Talk:List of state leaders in 112 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 180 BC]] <small>([[Talk:List of state leaders in 180 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 99 BC]] <small>([[Talk:List of state leaders in 99 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 97 BC]] <small>([[Talk:List of state leaders in 97 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 165 BC]] <small>([[Talk:List of state leaders in 165 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 164 BC]] <small>([[Talk:List of state leaders in 164 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 98 BC]] <small>([[Talk:List of state leaders in 98 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 429 BC]] <small>([[Talk:List of state leaders in 429 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 893]] <small>([[Talk:List of state leaders in 893]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 102 BC]] <small>([[Talk:List of state leaders in 102 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 934]] <small>([[Talk:List of state leaders in 934]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 875]] <small>([[Talk:List of state leaders in 875]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 89 BC]] <small>([[Talk:List of state leaders in 89 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 190 BC]] <small>([[Talk:List of state leaders in 190 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 119 BC]] <small>([[Talk:List of state leaders in 119 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 193 BC]] <small>([[Talk:List of state leaders in 193 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 428 BC]] <small>([[Talk:List of state leaders in 428 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 427 BC]] <small>([[Talk:List of state leaders in 427 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 430 BC]] <small>([[Talk:List of state leaders in 430 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 169 BC]] <small>([[Talk:List of state leaders in 169 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 472 BC]] <small>([[Talk:List of state leaders in 472 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 116 BC]] <small>([[Talk:List of state leaders in 116 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 436 BC]] <small>([[Talk:List of state leaders in 436 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 166 BC]] <small>([[Talk:List of state leaders in 166 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 442 BC]] <small>([[Talk:List of state leaders in 442 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 462 BC]] <small>([[Talk:List of state leaders in 462 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 192 BC]] <small>([[Talk:List of state leaders in 192 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 431 BC]] <small>([[Talk:List of state leaders in 431 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 101 BC]] <small>([[Talk:List of state leaders in 101 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 471 BC]] <small>([[Talk:List of state leaders in 471 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 432 BC]] <small>([[Talk:List of state leaders in 432 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 61 BC]] <small>([[Talk:List of state leaders in 61 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 438 BC]] <small>([[Talk:List of state leaders in 438 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 902]] <small>([[Talk:List of state leaders in 902]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 441 BC]] <small>([[Talk:List of state leaders in 441 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 425 BC]] <small>([[Talk:List of state leaders in 425 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 903]] <small>([[Talk:List of state leaders in 903]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 88 BC]] <small>([[Talk:List of state leaders in 88 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 426 BC]] <small>([[Talk:List of state leaders in 426 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 443 BC]] <small>([[Talk:List of state leaders in 443 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 461 BC]] <small>([[Talk:List of state leaders in 461 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 59 BC]] <small>([[Talk:List of state leaders in 59 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 66 BC]] <small>([[Talk:List of state leaders in 66 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 884]] <small>([[Talk:List of state leaders in 884]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 92 BC]] <small>([[Talk:List of state leaders in 92 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 96 BC]] <small>([[Talk:List of state leaders in 96 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 421 BC]] <small>([[Talk:List of state leaders in 421 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 931]] <small>([[Talk:List of state leaders in 931]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 440 BC]] <small>([[Talk:List of state leaders in 440 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 463 BC]] <small>([[Talk:List of state leaders in 463 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 121 BC]] <small>([[Talk:List of state leaders in 121 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 437 BC]] <small>([[Talk:List of state leaders in 437 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 151 BC]] <small>([[Talk:List of state leaders in 151 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 152 BC]] <small>([[Talk:List of state leaders in 152 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 122 BC]] <small>([[Talk:List of state leaders in 122 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 938]] <small>([[Talk:List of state leaders in 938]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 433 BC]] <small>([[Talk:List of state leaders in 433 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 464 BC]] <small>([[Talk:List of state leaders in 464 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 106 BC]] <small>([[Talk:List of state leaders in 106 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 473 BC]] <small>([[Talk:List of state leaders in 473 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 153 BC]] <small>([[Talk:List of state leaders in 153 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 171 BC]] <small>([[Talk:List of state leaders in 171 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 53 BC]] <small>([[Talk:List of state leaders in 53 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 84 BC]] <small>([[Talk:List of state leaders in 84 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 475 BC]] <small>([[Talk:List of state leaders in 475 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 477 BC]] <small>([[Talk:List of state leaders in 477 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 324 BC]] <small>([[Talk:List of state leaders in 324 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 62 BC]] <small>([[Talk:List of state leaders in 62 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 154 BC]] <small>([[Talk:List of state leaders in 154 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 880]] <small>([[Talk:List of state leaders in 880]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 422 BC]] <small>([[Talk:List of state leaders in 422 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 423 BC]] <small>([[Talk:List of state leaders in 423 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 470 BC]] <small>([[Talk:List of state leaders in 470 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 905]] <small>([[Talk:List of state leaders in 905]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 105 BC]] <small>([[Talk:List of state leaders in 105 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 93 BC]] <small>([[Talk:List of state leaders in 93 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 100 BC]] <small>([[Talk:List of state leaders in 100 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 446 BC]] <small>([[Talk:List of state leaders in 446 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 91 BC]] <small>([[Talk:List of state leaders in 91 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 327 BC]] <small>([[Talk:List of state leaders in 327 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 444 BC]] <small>([[Talk:List of state leaders in 444 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 452 BC]] <small>([[Talk:List of state leaders in 452 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 932]] <small>([[Talk:List of state leaders in 932]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 147 BC]] <small>([[Talk:List of state leaders in 147 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 325 BC]] <small>([[Talk:List of state leaders in 325 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 435 BC]] <small>([[Talk:List of state leaders in 435 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 456 BC]] <small>([[Talk:List of state leaders in 456 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 170 BC]] <small>([[Talk:List of state leaders in 170 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 418 BC]] <small>([[Talk:List of state leaders in 418 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 60 BC]] <small>([[Talk:List of state leaders in 60 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 415 BC]] <small>([[Talk:List of state leaders in 415 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 476 BC]] <small>([[Talk:List of state leaders in 476 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 469 BC]] <small>([[Talk:List of state leaders in 469 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 94 BC]] <small>([[Talk:List of state leaders in 94 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 103 BC]] <small>([[Talk:List of state leaders in 103 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 416 BC]] <small>([[Talk:List of state leaders in 416 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 158 BC]] <small>([[Talk:List of state leaders in 158 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 107 BC]] <small>([[Talk:List of state leaders in 107 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 419 BC]] <small>([[Talk:List of state leaders in 419 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 67 BC]] <small>([[Talk:List of state leaders in 67 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 328 BC]] <small>([[Talk:List of state leaders in 328 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 468 BC]] <small>([[Talk:List of state leaders in 468 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 123 BC]] <small>([[Talk:List of state leaders in 123 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 434 BC]] <small>([[Talk:List of state leaders in 434 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 146 BC]] <small>([[Talk:List of state leaders in 146 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 417 BC]] <small>([[Talk:List of state leaders in 417 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 52 BC]] <small>([[Talk:List of state leaders in 52 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 453 BC]] <small>([[Talk:List of state leaders in 453 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 937]] <small>([[Talk:List of state leaders in 937]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 455 BC]] <small>([[Talk:List of state leaders in 455 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 420 BC]] <small>([[Talk:List of state leaders in 420 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 126 BC]] <small>([[Talk:List of state leaders in 126 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 467 BC]] <small>([[Talk:List of state leaders in 467 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 474 BC]] <small>([[Talk:List of state leaders in 474 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 877]] <small>([[Talk:List of state leaders in 877]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 104 BC]] <small>([[Talk:List of state leaders in 104 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 108 BC]] <small>([[Talk:List of state leaders in 108 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 928]] <small>([[Talk:List of state leaders in 928]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 156 BC]] <small>([[Talk:List of state leaders in 156 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 459 BC]] <small>([[Talk:List of state leaders in 459 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 54 BC]] <small>([[Talk:List of state leaders in 54 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 129 BC]] <small>([[Talk:List of state leaders in 129 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 120 BC]] <small>([[Talk:List of state leaders in 120 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 940]] <small>([[Talk:List of state leaders in 940]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 482 BC]] <small>([[Talk:List of state leaders in 482 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 58 BC]] <small>([[Talk:List of state leaders in 58 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 148 BC]] <small>([[Talk:List of state leaders in 148 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 414 BC]] <small>([[Talk:List of state leaders in 414 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 86 BC]] <small>([[Talk:List of state leaders in 86 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 466 BC]] <small>([[Talk:List of state leaders in 466 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 56 BC]] <small>([[Talk:List of state leaders in 56 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 458 BC]] <small>([[Talk:List of state leaders in 458 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 68 BC]] <small>([[Talk:List of state leaders in 68 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 109 BC]] <small>([[Talk:List of state leaders in 109 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 64 BC]] <small>([[Talk:List of state leaders in 64 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 95 BC]] <small>([[Talk:List of state leaders in 95 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 326 BC]] <small>([[Talk:List of state leaders in 326 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 307 BC]] <small>([[Talk:List of state leaders in 307 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 306 BC]] <small>([[Talk:List of state leaders in 306 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 409 BC]] <small>([[Talk:List of state leaders in 409 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 333 BC]] <small>([[Talk:List of state leaders in 333 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 447 BC]] <small>([[Talk:List of state leaders in 447 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 125 BC]] <small>([[Talk:List of state leaders in 125 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 157 BC]] <small>([[Talk:List of state leaders in 157 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 412 BC]] <small>([[Talk:List of state leaders in 412 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 454 BC]] <small>([[Talk:List of state leaders in 454 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 332 BC]] <small>([[Talk:List of state leaders in 332 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 318 BC]] <small>([[Talk:List of state leaders in 318 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 127 BC]] <small>([[Talk:List of state leaders in 127 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 142 BC]] <small>([[Talk:List of state leaders in 142 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 87 BC]] <small>([[Talk:List of state leaders in 87 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 445 BC]] <small>([[Talk:List of state leaders in 445 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 50 BC]] <small>([[Talk:List of state leaders in 50 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 303 BC]] <small>([[Talk:List of state leaders in 303 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 410 BC]] <small>([[Talk:List of state leaders in 410 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 124 BC]] <small>([[Talk:List of state leaders in 124 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 481 BC]] <small>([[Talk:List of state leaders in 481 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 308 BC]] <small>([[Talk:List of state leaders in 308 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 413 BC]] <small>([[Talk:List of state leaders in 413 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 161 BC]] <small>([[Talk:List of state leaders in 161 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 329 BC]] <small>([[Talk:List of state leaders in 329 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 159 BC]] <small>([[Talk:List of state leaders in 159 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 69 BC]] <small>([[Talk:List of state leaders in 69 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 465 BC]] <small>([[Talk:List of state leaders in 465 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 135 BC]] <small>([[Talk:List of state leaders in 135 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 167 BC]] <small>([[Talk:List of state leaders in 167 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 143 BC]] <small>([[Talk:List of state leaders in 143 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 136 BC]] <small>([[Talk:List of state leaders in 136 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 904]] <small>([[Talk:List of state leaders in 904]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 480 BC]] <small>([[Talk:List of state leaders in 480 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 163 BC]] <small>([[Talk:List of state leaders in 163 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 304 BC]] <small>([[Talk:List of state leaders in 304 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 160 BC]] <small>([[Talk:List of state leaders in 160 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 448 BC]] <small>([[Talk:List of state leaders in 448 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 497 BC]] <small>([[Talk:List of state leaders in 497 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 492 BC]] <small>([[Talk:List of state leaders in 492 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 51 BC]] <small>([[Talk:List of state leaders in 51 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 162 BC]] <small>([[Talk:List of state leaders in 162 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 483 BC]] <small>([[Talk:List of state leaders in 483 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 485 BC]] <small>([[Talk:List of state leaders in 485 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 424 BC]] <small>([[Talk:List of state leaders in 424 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 494 BC]] <small>([[Talk:List of state leaders in 494 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 155 BC]] <small>([[Talk:List of state leaders in 155 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 493 BC]] <small>([[Talk:List of state leaders in 493 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 495 BC]] <small>([[Talk:List of state leaders in 495 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 150 BC]] <small>([[Talk:List of state leaders in 150 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 134 BC]] <small>([[Talk:List of state leaders in 134 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 144 BC]] <small>([[Talk:List of state leaders in 144 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 141 BC]] <small>([[Talk:List of state leaders in 141 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 83 BC]] <small>([[Talk:List of state leaders in 83 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 478 BC]] <small>([[Talk:List of state leaders in 478 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 316 BC]] <small>([[Talk:List of state leaders in 316 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 55 BC]] <small>([[Talk:List of state leaders in 55 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 484 BC]] <small>([[Talk:List of state leaders in 484 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 319 BC]] <small>([[Talk:List of state leaders in 319 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 879]] <small>([[Talk:List of state leaders in 879]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 221 BC]] <small>([[Talk:List of state leaders in 221 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 65 BC]] <small>([[Talk:List of state leaders in 65 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 320 BC]] <small>([[Talk:List of state leaders in 320 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 939]] <small>([[Talk:List of state leaders in 939]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 321 BC]] <small>([[Talk:List of state leaders in 321 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 499 BC]] <small>([[Talk:List of state leaders in 499 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 927]] <small>([[Talk:List of state leaders in 927]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 498 BC]] <small>([[Talk:List of state leaders in 498 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 139 BC]] <small>([[Talk:List of state leaders in 139 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 133 BC]] <small>([[Talk:List of state leaders in 133 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 936]] <small>([[Talk:List of state leaders in 936]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 57 BC]] <small>([[Talk:List of state leaders in 57 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 496 BC]] <small>([[Talk:List of state leaders in 496 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 90 BC]] <small>([[Talk:List of state leaders in 90 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 149 BC]] <small>([[Talk:List of state leaders in 149 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 334 BC]] <small>([[Talk:List of state leaders in 334 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 309 BC]] <small>([[Talk:List of state leaders in 309 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 130 BC]] <small>([[Talk:List of state leaders in 130 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 323 BC]] <small>([[Talk:List of state leaders in 323 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 486 BC]] <small>([[Talk:List of state leaders in 486 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 335 BC]] <small>([[Talk:List of state leaders in 335 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 315 BC]] <small>([[Talk:List of state leaders in 315 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 830s BC]] <small>([[Talk:List of state leaders in 830s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 966]] <small>([[Talk:List of state leaders in 966]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 322 BC]] <small>([[Talk:List of state leaders in 322 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 408 BC]] <small>([[Talk:List of state leaders in 408 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 140 BC]] <small>([[Talk:List of state leaders in 140 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 313 BC]] <small>([[Talk:List of state leaders in 313 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 488 BC]] <small>([[Talk:List of state leaders in 488 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 131 BC]] <small>([[Talk:List of state leaders in 131 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 63 BC]] <small>([[Talk:List of state leaders in 63 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 489 BC]] <small>([[Talk:List of state leaders in 489 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 407 BC]] <small>([[Talk:List of state leaders in 407 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 858]] <small>([[Talk:List of state leaders in 858]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 880s BC]] <small>([[Talk:List of state leaders in 880s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 870s BC]] <small>([[Talk:List of state leaders in 870s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 860s BC]] <small>([[Talk:List of state leaders in 860s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 861]] <small>([[Talk:List of state leaders in 861]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 870]] <small>([[Talk:List of state leaders in 870]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 868]] <small>([[Talk:List of state leaders in 868]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 865]] <small>([[Talk:List of state leaders in 865]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 869]] <small>([[Talk:List of state leaders in 869]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 862]] <small>([[Talk:List of state leaders in 862]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 863]] <small>([[Talk:List of state leaders in 863]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 866]] <small>([[Talk:List of state leaders in 866]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 178 BC]] <small>([[Talk:List of state leaders in 178 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 871]] <small>([[Talk:List of state leaders in 871]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 867]] <small>([[Talk:List of state leaders in 867]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 500s BC]] <small>([[Talk:List of state leaders in 500s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 132 BC]] <small>([[Talk:List of state leaders in 132 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 487 BC]] <small>([[Talk:List of state leaders in 487 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 876]] <small>([[Talk:List of state leaders in 876]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 110 BC]] <small>([[Talk:List of state leaders in 110 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 490 BC]] <small>([[Talk:List of state leaders in 490 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 71 BC]] <small>([[Talk:List of state leaders in 71 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 138 BC]] <small>([[Talk:List of state leaders in 138 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 222 BC]] <small>([[Talk:List of state leaders in 222 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 331 BC]] <small>([[Talk:List of state leaders in 331 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 311 BC]] <small>([[Talk:List of state leaders in 311 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 339 BC]] <small>([[Talk:List of state leaders in 339 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 330 BC]] <small>([[Talk:List of state leaders in 330 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 312 BC]] <small>([[Talk:List of state leaders in 312 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 406 BC]] <small>([[Talk:List of state leaders in 406 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 72 BC]] <small>([[Talk:List of state leaders in 72 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 145 BC]] <small>([[Talk:List of state leaders in 145 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 82 BC]] <small>([[Talk:List of state leaders in 82 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 78 BC]] <small>([[Talk:List of state leaders in 78 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 310 BC]] <small>([[Talk:List of state leaders in 310 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 305 BC]] <small>([[Talk:List of state leaders in 305 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 317 BC]] <small>([[Talk:List of state leaders in 317 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 337 BC]] <small>([[Talk:List of state leaders in 337 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 491 BC]] <small>([[Talk:List of state leaders in 491 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 926]] <small>([[Talk:List of state leaders in 926]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 840s BC]] <small>([[Talk:List of state leaders in 840s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 70 BC]] <small>([[Talk:List of state leaders in 70 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 810s BC]] <small>([[Talk:List of state leaders in 810s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 77 BC]] <small>([[Talk:List of state leaders in 77 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 342 BC]] <small>([[Talk:List of state leaders in 342 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 919]] <small>([[Talk:List of state leaders in 919]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 450 BC]] <small>([[Talk:List of state leaders in 450 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 340 BC]] <small>([[Talk:List of state leaders in 340 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 820s BC]] <small>([[Talk:List of state leaders in 820s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 302 BC]] <small>([[Talk:List of state leaders in 302 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 283 BC]] <small>([[Talk:List of state leaders in 283 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 76 BC]] <small>([[Talk:List of state leaders in 76 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 224 BC]] <small>([[Talk:List of state leaders in 224 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 341 BC]] <small>([[Talk:List of state leaders in 341 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 336 BC]] <small>([[Talk:List of state leaders in 336 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 73 BC]] <small>([[Talk:List of state leaders in 73 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 223 BC]] <small>([[Talk:List of state leaders in 223 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 451 BC]] <small>([[Talk:List of state leaders in 451 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 80 BC]] <small>([[Talk:List of state leaders in 80 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 284 BC]] <small>([[Talk:List of state leaders in 284 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 392 BC]] <small>([[Talk:List of state leaders in 392 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 301 BC]] <small>([[Talk:List of state leaders in 301 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 226 BC]] <small>([[Talk:List of state leaders in 226 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 293 BC]] <small>([[Talk:List of state leaders in 293 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 291 BC]] <small>([[Talk:List of state leaders in 291 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 74 BC]] <small>([[Talk:List of state leaders in 74 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 292 BC]] <small>([[Talk:List of state leaders in 292 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 225 BC]] <small>([[Talk:List of state leaders in 225 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 290 BC]] <small>([[Talk:List of state leaders in 290 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 278 BC]] <small>([[Talk:List of state leaders in 278 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 279 BC]] <small>([[Talk:List of state leaders in 279 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 373 BC]] <small>([[Talk:List of state leaders in 373 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 372 BC]] <small>([[Talk:List of state leaders in 372 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 227 BC]] <small>([[Talk:List of state leaders in 227 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 282 BC]] <small>([[Talk:List of state leaders in 282 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 449 BC]] <small>([[Talk:List of state leaders in 449 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 271 BC]] <small>([[Talk:List of state leaders in 271 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 288 BC]] <small>([[Talk:List of state leaders in 288 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 287 BC]] <small>([[Talk:List of state leaders in 287 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 229 BC]] <small>([[Talk:List of state leaders in 229 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 348 BC]] <small>([[Talk:List of state leaders in 348 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 253 BC]] <small>([[Talk:List of state leaders in 253 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 374 BC]] <small>([[Talk:List of state leaders in 374 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 273 BC]] <small>([[Talk:List of state leaders in 273 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 285 BC]] <small>([[Talk:List of state leaders in 285 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 347 BC]] <small>([[Talk:List of state leaders in 347 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 338 BC]] <small>([[Talk:List of state leaders in 338 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 364 BC]] <small>([[Talk:List of state leaders in 364 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 300 BC]] <small>([[Talk:List of state leaders in 300 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 405 BC]] <small>([[Talk:List of state leaders in 405 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 251 BC]] <small>([[Talk:List of state leaders in 251 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 800s BC]] <small>([[Talk:List of state leaders in 800s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 345 BC]] <small>([[Talk:List of state leaders in 345 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 252 BC]] <small>([[Talk:List of state leaders in 252 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 914]] <small>([[Talk:List of state leaders in 914]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 346 BC]] <small>([[Talk:List of state leaders in 346 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 298 BC]] <small>([[Talk:List of state leaders in 298 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 387 BC]] <small>([[Talk:List of state leaders in 387 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 391 BC]] <small>([[Talk:List of state leaders in 391 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 277 BC]] <small>([[Talk:List of state leaders in 277 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 299 BC]] <small>([[Talk:List of state leaders in 299 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 296 BC]] <small>([[Talk:List of state leaders in 296 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 361 BC]] <small>([[Talk:List of state leaders in 361 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 371 BC]] <small>([[Talk:List of state leaders in 371 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 388 BC]] <small>([[Talk:List of state leaders in 388 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 780s BC]] <small>([[Talk:List of state leaders in 780s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 268 BC]] <small>([[Talk:List of state leaders in 268 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 258 BC]] <small>([[Talk:List of state leaders in 258 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 365 BC]] <small>([[Talk:List of state leaders in 365 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 295 BC]] <small>([[Talk:List of state leaders in 295 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 394 BC]] <small>([[Talk:List of state leaders in 394 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 366 BC]] <small>([[Talk:List of state leaders in 366 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 289 BC]] <small>([[Talk:List of state leaders in 289 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 269 BC]] <small>([[Talk:List of state leaders in 269 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 363 BC]] <small>([[Talk:List of state leaders in 363 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 254 BC]] <small>([[Talk:List of state leaders in 254 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 920]] <small>([[Talk:List of state leaders in 920]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 276 BC]] <small>([[Talk:List of state leaders in 276 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 390 BC]] <small>([[Talk:List of state leaders in 390 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 264 BC]] <small>([[Talk:List of state leaders in 264 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 281 BC]] <small>([[Talk:List of state leaders in 281 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 259 BC]] <small>([[Talk:List of state leaders in 259 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 75 BC]] <small>([[Talk:List of state leaders in 75 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 397 BC]] <small>([[Talk:List of state leaders in 397 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 294 BC]] <small>([[Talk:List of state leaders in 294 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 382 BC]] <small>([[Talk:List of state leaders in 382 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 266 BC]] <small>([[Talk:List of state leaders in 266 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 383 BC]] <small>([[Talk:List of state leaders in 383 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 286 BC]] <small>([[Talk:List of state leaders in 286 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 228 BC]] <small>([[Talk:List of state leaders in 228 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 263 BC]] <small>([[Talk:List of state leaders in 263 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 256 BC]] <small>([[Talk:List of state leaders in 256 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 272 BC]] <small>([[Talk:List of state leaders in 272 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 381 BC]] <small>([[Talk:List of state leaders in 381 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 257 BC]] <small>([[Talk:List of state leaders in 257 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 403 BC]] <small>([[Talk:List of state leaders in 403 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 362 BC]] <small>([[Talk:List of state leaders in 362 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 343 BC]] <small>([[Talk:List of state leaders in 343 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 262 BC]] <small>([[Talk:List of state leaders in 262 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 267 BC]] <small>([[Talk:List of state leaders in 267 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 400 BC]] <small>([[Talk:List of state leaders in 400 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 261 BC]] <small>([[Talk:List of state leaders in 261 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 402 BC]] <small>([[Talk:List of state leaders in 402 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 265 BC]] <small>([[Talk:List of state leaders in 265 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 280 BC]] <small>([[Talk:List of state leaders in 280 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 916]] <small>([[Talk:List of state leaders in 916]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 386 BC]] <small>([[Talk:List of state leaders in 386 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 360 BC]] <small>([[Talk:List of state leaders in 360 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 917]] <small>([[Talk:List of state leaders in 917]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 260 BC]] <small>([[Talk:List of state leaders in 260 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 255 BC]] <small>([[Talk:List of state leaders in 255 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 384 BC]] <small>([[Talk:List of state leaders in 384 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 274 BC]] <small>([[Talk:List of state leaders in 274 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 349 BC]] <small>([[Talk:List of state leaders in 349 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 395 BC]] <small>([[Talk:List of state leaders in 395 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 389 BC]] <small>([[Talk:List of state leaders in 389 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 344 BC]] <small>([[Talk:List of state leaders in 344 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 398 BC]] <small>([[Talk:List of state leaders in 398 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 375 BC]] <small>([[Talk:List of state leaders in 375 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 760s BC]] <small>([[Talk:List of state leaders in 760s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 909]] <small>([[Talk:List of state leaders in 909]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 275 BC]] <small>([[Talk:List of state leaders in 275 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 770s BC]] <small>([[Talk:List of state leaders in 770s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 401 BC]] <small>([[Talk:List of state leaders in 401 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 231 BC]] <small>([[Talk:List of state leaders in 231 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 233 BC]] <small>([[Talk:List of state leaders in 233 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 915]] <small>([[Talk:List of state leaders in 915]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 385 BC]] <small>([[Talk:List of state leaders in 385 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 404 BC]] <small>([[Talk:List of state leaders in 404 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 399 BC]] <small>([[Talk:List of state leaders in 399 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 378 BC]] <small>([[Talk:List of state leaders in 378 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 560s BC]] <small>([[Talk:List of state leaders in 560s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 353 BC]] <small>([[Talk:List of state leaders in 353 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 396 BC]] <small>([[Talk:List of state leaders in 396 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 230 BC]] <small>([[Talk:List of state leaders in 230 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 350 BC]] <small>([[Talk:List of state leaders in 350 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 393 BC]] <small>([[Talk:List of state leaders in 393 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 351 BC]] <small>([[Talk:List of state leaders in 351 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 270 BC]] <small>([[Talk:List of state leaders in 270 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 297 BC]] <small>([[Talk:List of state leaders in 297 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 234 BC]] <small>([[Talk:List of state leaders in 234 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 720s BC]] <small>([[Talk:List of state leaders in 720s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 355 BC]] <small>([[Talk:List of state leaders in 355 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 356 BC]] <small>([[Talk:List of state leaders in 356 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 250 BC]] <small>([[Talk:List of state leaders in 250 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 357 BC]] <small>([[Talk:List of state leaders in 357 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 379 BC]] <small>([[Talk:List of state leaders in 379 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 232 BC]] <small>([[Talk:List of state leaders in 232 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 680s BC]] <small>([[Talk:List of state leaders in 680s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 352 BC]] <small>([[Talk:List of state leaders in 352 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 354 BC]] <small>([[Talk:List of state leaders in 354 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 369 BC]] <small>([[Talk:List of state leaders in 369 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 358 BC]] <small>([[Talk:List of state leaders in 358 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 710s BC]] <small>([[Talk:List of state leaders in 710s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 370 BC]] <small>([[Talk:List of state leaders in 370 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 630s BC]] <small>([[Talk:List of state leaders in 630s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 750s BC]] <small>([[Talk:List of state leaders in 750s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 376 BC]] <small>([[Talk:List of state leaders in 376 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 368 BC]] <small>([[Talk:List of state leaders in 368 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 650s BC]] <small>([[Talk:List of state leaders in 650s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 377 BC]] <small>([[Talk:List of state leaders in 377 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 367 BC]] <small>([[Talk:List of state leaders in 367 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 670s BC]] <small>([[Talk:List of state leaders in 670s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 918]] <small>([[Talk:List of state leaders in 918]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 359 BC]] <small>([[Talk:List of state leaders in 359 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 690s BC]] <small>([[Talk:List of state leaders in 690s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 730s BC]] <small>([[Talk:List of state leaders in 730s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 660s BC]] <small>([[Talk:List of state leaders in 660s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 380 BC]] <small>([[Talk:List of state leaders in 380 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 570s BC]] <small>([[Talk:List of state leaders in 570s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 790s BC]] <small>([[Talk:List of state leaders in 790s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 600s BC]] <small>([[Talk:List of state leaders in 600s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 610s BC]] <small>([[Talk:List of state leaders in 610s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 640s BC]] <small>([[Talk:List of state leaders in 640s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 740s BC]] <small>([[Talk:List of state leaders in 740s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 620s BC]] <small>([[Talk:List of state leaders in 620s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 510s BC]] <small>([[Talk:List of state leaders in 510s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 590s BC]] <small>([[Talk:List of state leaders in 590s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 530s BC]] <small>([[Talk:List of state leaders in 530s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 520s BC]] <small>([[Talk:List of state leaders in 520s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 314]] <small>([[Talk:List of state leaders in 314]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 315]] <small>([[Talk:List of state leaders in 315]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 306]] <small>([[Talk:List of state leaders in 306]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 307]] <small>([[Talk:List of state leaders in 307]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 152]] <small>([[Talk:List of state leaders in 152]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 407]] <small>([[Talk:List of state leaders in 407]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 190]] <small>([[Talk:List of state leaders in 190]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 437]] <small>([[Talk:List of state leaders in 437]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 402]] <small>([[Talk:List of state leaders in 402]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 477]] <small>([[Talk:List of state leaders in 477]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 170]] <small>([[Talk:List of state leaders in 170]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 432]] <small>([[Talk:List of state leaders in 432]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 148]] <small>([[Talk:List of state leaders in 148]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 113]] <small>([[Talk:List of state leaders in 113]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 156]] <small>([[Talk:List of state leaders in 156]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 144]] <small>([[Talk:List of state leaders in 144]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 409]] <small>([[Talk:List of state leaders in 409]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 479]] <small>([[Talk:List of state leaders in 479]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 77]] <small>([[Talk:List of state leaders in 77]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 153]] <small>([[Talk:List of state leaders in 153]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 434]] <small>([[Talk:List of state leaders in 434]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 436]] <small>([[Talk:List of state leaders in 436]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 93]] <small>([[Talk:List of state leaders in 93]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 401]] <small>([[Talk:List of state leaders in 401]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 79]] <small>([[Talk:List of state leaders in 79]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 177]] <small>([[Talk:List of state leaders in 177]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 433]] <small>([[Talk:List of state leaders in 433]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 75]] <small>([[Talk:List of state leaders in 75]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 178]] <small>([[Talk:List of state leaders in 178]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 106]] <small>([[Talk:List of state leaders in 106]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 176]] <small>([[Talk:List of state leaders in 176]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 166]] <small>([[Talk:List of state leaders in 166]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 167]] <small>([[Talk:List of state leaders in 167]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 179]] <small>([[Talk:List of state leaders in 179]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 95]] <small>([[Talk:List of state leaders in 95]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 91]] <small>([[Talk:List of state leaders in 91]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 78]] <small>([[Talk:List of state leaders in 78]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 73]] <small>([[Talk:List of state leaders in 73]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 183]] <small>([[Talk:List of state leaders in 183]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 165]] <small>([[Talk:List of state leaders in 165]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 435]] <small>([[Talk:List of state leaders in 435]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 94]] <small>([[Talk:List of state leaders in 94]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 161]] <small>([[Talk:List of state leaders in 161]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 110]] <small>([[Talk:List of state leaders in 110]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 112]] <small>([[Talk:List of state leaders in 112]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 83]] <small>([[Talk:List of state leaders in 83]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 431]] <small>([[Talk:List of state leaders in 431]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 429]] <small>([[Talk:List of state leaders in 429]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 157]] <small>([[Talk:List of state leaders in 157]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 186]] <small>([[Talk:List of state leaders in 186]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 159]] <small>([[Talk:List of state leaders in 159]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 84]] <small>([[Talk:List of state leaders in 84]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 155]] <small>([[Talk:List of state leaders in 155]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 104]] <small>([[Talk:List of state leaders in 104]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 430]] <small>([[Talk:List of state leaders in 430]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 175]] <small>([[Talk:List of state leaders in 175]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 96]] <small>([[Talk:List of state leaders in 96]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 160]] <small>([[Talk:List of state leaders in 160]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 102]] <small>([[Talk:List of state leaders in 102]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 89]] <small>([[Talk:List of state leaders in 89]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 427]] <small>([[Talk:List of state leaders in 427]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 147]] <small>([[Talk:List of state leaders in 147]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 193]] <small>([[Talk:List of state leaders in 193]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 101]] <small>([[Talk:List of state leaders in 101]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 21 BC]] <small>([[Talk:List of state leaders in 21 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 185]] <small>([[Talk:List of state leaders in 185]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 24 BC]] <small>([[Talk:List of state leaders in 24 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 92]] <small>([[Talk:List of state leaders in 92]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 74]] <small>([[Talk:List of state leaders in 74]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 22 BC]] <small>([[Talk:List of state leaders in 22 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 490]] <small>([[Talk:List of state leaders in 490]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 498]] <small>([[Talk:List of state leaders in 498]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 497]] <small>([[Talk:List of state leaders in 497]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 88]] <small>([[Talk:List of state leaders in 88]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 105]] <small>([[Talk:List of state leaders in 105]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 495]] <small>([[Talk:List of state leaders in 495]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 491]] <small>([[Talk:List of state leaders in 491]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 146]] <small>([[Talk:List of state leaders in 146]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 492]] <small>([[Talk:List of state leaders in 492]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 85]] <small>([[Talk:List of state leaders in 85]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 25 BC]] <small>([[Talk:List of state leaders in 25 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 154]] <small>([[Talk:List of state leaders in 154]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 7 BC]] <small>([[Talk:List of state leaders in 7 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 72]] <small>([[Talk:List of state leaders in 72]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 81]] <small>([[Talk:List of state leaders in 81]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 11 BC]] <small>([[Talk:List of state leaders in 11 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 46 BC]] <small>([[Talk:List of state leaders in 46 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 86]] <small>([[Talk:List of state leaders in 86]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 499]] <small>([[Talk:List of state leaders in 499]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 428]] <small>([[Talk:List of state leaders in 428]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 494]] <small>([[Talk:List of state leaders in 494]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 19 BC]] <small>([[Talk:List of state leaders in 19 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 13 BC]] <small>([[Talk:List of state leaders in 13 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 90]] <small>([[Talk:List of state leaders in 90]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 493]] <small>([[Talk:List of state leaders in 493]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 99]] <small>([[Talk:List of state leaders in 99]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 10 BC]] <small>([[Talk:List of state leaders in 10 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 14 BC]] <small>([[Talk:List of state leaders in 14 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 103]] <small>([[Talk:List of state leaders in 103]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 728]] <small>([[Talk:List of state leaders in 728]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 63]] <small>([[Talk:List of state leaders in 63]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 762]] <small>([[Talk:List of state leaders in 762]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 17]] <small>([[Talk:List of state leaders in 17]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 771]] <small>([[Talk:List of state leaders in 771]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 950s BC]] <small>([[Talk:List of state leaders in 950s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 779]] <small>([[Talk:List of state leaders in 779]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1020s BC]] <small>([[Talk:List of state leaders in 1020s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 742]] <small>([[Talk:List of state leaders in 742]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 781]] <small>([[Talk:List of state leaders in 781]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 770]] <small>([[Talk:List of state leaders in 770]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 744]] <small>([[Talk:List of state leaders in 744]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 36 BC]] <small>([[Talk:List of state leaders in 36 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 33 BC]] <small>([[Talk:List of state leaders in 33 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 12]] <small>([[Talk:List of state leaders in 12]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 38 BC]] <small>([[Talk:List of state leaders in 38 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 43]] <small>([[Talk:List of state leaders in 43]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 758]] <small>([[Talk:List of state leaders in 758]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 782]] <small>([[Talk:List of state leaders in 782]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 768]] <small>([[Talk:List of state leaders in 768]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 763]] <small>([[Talk:List of state leaders in 763]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 18]] <small>([[Talk:List of state leaders in 18]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 789]] <small>([[Talk:List of state leaders in 789]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 41]] <small>([[Talk:List of state leaders in 41]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 46]] <small>([[Talk:List of state leaders in 46]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 786]] <small>([[Talk:List of state leaders in 786]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 4 BC]] <small>([[Talk:List of state leaders in 4 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in AD 4]] <small>([[Talk:List of state leaders in AD 4]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 15]] <small>([[Talk:List of state leaders in 15]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 822]] <small>([[Talk:List of state leaders in 822]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 764]] <small>([[Talk:List of state leaders in 764]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 772]] <small>([[Talk:List of state leaders in 772]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 55]] <small>([[Talk:List of state leaders in 55]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 777]] <small>([[Talk:List of state leaders in 777]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 58]] <small>([[Talk:List of state leaders in 58]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 778]] <small>([[Talk:List of state leaders in 778]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 37]] <small>([[Talk:List of state leaders in 37]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 57]] <small>([[Talk:List of state leaders in 57]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 790]] <small>([[Talk:List of state leaders in 790]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 787]] <small>([[Talk:List of state leaders in 787]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 45]] <small>([[Talk:List of state leaders in 45]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 765]] <small>([[Talk:List of state leaders in 765]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 774]] <small>([[Talk:List of state leaders in 774]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 795]] <small>([[Talk:List of state leaders in 795]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 56]] <small>([[Talk:List of state leaders in 56]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 792]] <small>([[Talk:List of state leaders in 792]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 824]] <small>([[Talk:List of state leaders in 824]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 798]] <small>([[Talk:List of state leaders in 798]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 940s BC]] <small>([[Talk:List of state leaders in 940s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 799]] <small>([[Talk:List of state leaders in 799]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 960s BC]] <small>([[Talk:List of state leaders in 960s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 780]] <small>([[Talk:List of state leaders in 780]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in AD 6]] <small>([[Talk:List of state leaders in AD 6]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 823]] <small>([[Talk:List of state leaders in 823]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 38]] <small>([[Talk:List of state leaders in 38]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 821]] <small>([[Talk:List of state leaders in 821]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 794]] <small>([[Talk:List of state leaders in 794]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 793]] <small>([[Talk:List of state leaders in 793]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 788]] <small>([[Talk:List of state leaders in 788]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1030s BC]] <small>([[Talk:List of state leaders in 1030s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 62]] <small>([[Talk:List of state leaders in 62]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 801]] <small>([[Talk:List of state leaders in 801]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 804]] <small>([[Talk:List of state leaders in 804]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 819]] <small>([[Talk:List of state leaders in 819]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 708]] <small>([[Talk:List of state leaders in 708]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 18 BC]] <small>([[Talk:List of state leaders in 18 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 97]] <small>([[Talk:List of state leaders in 97]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 706]] <small>([[Talk:List of state leaders in 706]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 16 BC]] <small>([[Talk:List of state leaders in 16 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 28 BC]] <small>([[Talk:List of state leaders in 28 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 23 BC]] <small>([[Talk:List of state leaders in 23 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 496]] <small>([[Talk:List of state leaders in 496]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 26 BC]] <small>([[Talk:List of state leaders in 26 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 45 BC]] <small>([[Talk:List of state leaders in 45 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 17 BC]] <small>([[Talk:List of state leaders in 17 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 98]] <small>([[Talk:List of state leaders in 98]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 48 BC]] <small>([[Talk:List of state leaders in 48 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 15 BC]] <small>([[Talk:List of state leaders in 15 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 20 BC]] <small>([[Talk:List of state leaders in 20 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 6 BC]] <small>([[Talk:List of state leaders in 6 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 9 BC]] <small>([[Talk:List of state leaders in 9 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 709]] <small>([[Talk:List of state leaders in 709]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 41 BC]] <small>([[Talk:List of state leaders in 41 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 67]] <small>([[Talk:List of state leaders in 67]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 751]] <small>([[Talk:List of state leaders in 751]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 80]] <small>([[Talk:List of state leaders in 80]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 29 BC]] <small>([[Talk:List of state leaders in 29 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 713]] <small>([[Talk:List of state leaders in 713]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 701]] <small>([[Talk:List of state leaders in 701]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 71]] <small>([[Talk:List of state leaders in 71]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 707]] <small>([[Talk:List of state leaders in 707]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 22]] <small>([[Talk:List of state leaders in 22]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 3 BC]] <small>([[Talk:List of state leaders in 3 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 714]] <small>([[Talk:List of state leaders in 714]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 752]] <small>([[Talk:List of state leaders in 752]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 712]] <small>([[Talk:List of state leaders in 712]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 753]] <small>([[Talk:List of state leaders in 753]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 29]] <small>([[Talk:List of state leaders in 29]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 49]] <small>([[Talk:List of state leaders in 49]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 20]] <small>([[Talk:List of state leaders in 20]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 54]] <small>([[Talk:List of state leaders in 54]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 34]] <small>([[Talk:List of state leaders in 34]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 8 BC]] <small>([[Talk:List of state leaders in 8 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 711]] <small>([[Talk:List of state leaders in 711]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 703]] <small>([[Talk:List of state leaders in 703]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 739]] <small>([[Talk:List of state leaders in 739]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 42]] <small>([[Talk:List of state leaders in 42]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 27]] <small>([[Talk:List of state leaders in 27]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 740]] <small>([[Talk:List of state leaders in 740]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 717]] <small>([[Talk:List of state leaders in 717]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 27 BC]] <small>([[Talk:List of state leaders in 27 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 704]] <small>([[Talk:List of state leaders in 704]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 21]] <small>([[Talk:List of state leaders in 21]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 35 BC]] <small>([[Talk:List of state leaders in 35 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 28]] <small>([[Talk:List of state leaders in 28]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 26]] <small>([[Talk:List of state leaders in 26]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 720]] <small>([[Talk:List of state leaders in 720]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 716]] <small>([[Talk:List of state leaders in 716]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 718]] <small>([[Talk:List of state leaders in 718]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 33]] <small>([[Talk:List of state leaders in 33]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 754]] <small>([[Talk:List of state leaders in 754]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 13]] <small>([[Talk:List of state leaders in 13]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 702]] <small>([[Talk:List of state leaders in 702]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 47 BC]] <small>([[Talk:List of state leaders in 47 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 31 BC]] <small>([[Talk:List of state leaders in 31 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 5 BC]] <small>([[Talk:List of state leaders in 5 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 755]] <small>([[Talk:List of state leaders in 755]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 70]] <small>([[Talk:List of state leaders in 70]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 25]] <small>([[Talk:List of state leaders in 25]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 731]] <small>([[Talk:List of state leaders in 731]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in AD 7]] <small>([[Talk:List of state leaders in AD 7]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 12 BC]] <small>([[Talk:List of state leaders in 12 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 721]] <small>([[Talk:List of state leaders in 721]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 748]] <small>([[Talk:List of state leaders in 748]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 66]] <small>([[Talk:List of state leaders in 66]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 710]] <small>([[Talk:List of state leaders in 710]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 11]] <small>([[Talk:List of state leaders in 11]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 732]] <small>([[Talk:List of state leaders in 732]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 68]] <small>([[Talk:List of state leaders in 68]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 727]] <small>([[Talk:List of state leaders in 727]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in AD 8]] <small>([[Talk:List of state leaders in AD 8]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 730]] <small>([[Talk:List of state leaders in 730]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 64]] <small>([[Talk:List of state leaders in 64]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 19]] <small>([[Talk:List of state leaders in 19]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 31]] <small>([[Talk:List of state leaders in 31]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in AD 10]] <small>([[Talk:List of state leaders in AD 10]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 715]] <small>([[Talk:List of state leaders in 715]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 34 BC]] <small>([[Talk:List of state leaders in 34 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 769]] <small>([[Talk:List of state leaders in 769]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 23]] <small>([[Talk:List of state leaders in 23]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 746]] <small>([[Talk:List of state leaders in 746]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 48]] <small>([[Talk:List of state leaders in 48]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 736]] <small>([[Talk:List of state leaders in 736]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 719]] <small>([[Talk:List of state leaders in 719]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 747]] <small>([[Talk:List of state leaders in 747]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 42 BC]] <small>([[Talk:List of state leaders in 42 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in AD 2]] <small>([[Talk:List of state leaders in AD 2]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 35]] <small>([[Talk:List of state leaders in 35]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 32]] <small>([[Talk:List of state leaders in 32]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 40 BC]] <small>([[Talk:List of state leaders in 40 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 722]] <small>([[Talk:List of state leaders in 722]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 735]] <small>([[Talk:List of state leaders in 735]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 40]] <small>([[Talk:List of state leaders in 40]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 733]] <small>([[Talk:List of state leaders in 733]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 750]] <small>([[Talk:List of state leaders in 750]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 52]] <small>([[Talk:List of state leaders in 52]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in AD 5]] <small>([[Talk:List of state leaders in AD 5]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 39 BC]] <small>([[Talk:List of state leaders in 39 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 65]] <small>([[Talk:List of state leaders in 65]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 705]] <small>([[Talk:List of state leaders in 705]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 729]] <small>([[Talk:List of state leaders in 729]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 53]] <small>([[Talk:List of state leaders in 53]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in AD 9]] <small>([[Talk:List of state leaders in AD 9]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 51]] <small>([[Talk:List of state leaders in 51]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 761]] <small>([[Talk:List of state leaders in 761]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 737]] <small>([[Talk:List of state leaders in 737]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 16]] <small>([[Talk:List of state leaders in 16]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 32 BC]] <small>([[Talk:List of state leaders in 32 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 745]] <small>([[Talk:List of state leaders in 745]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1050s BC]] <small>([[Talk:List of state leaders in 1050s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 738]] <small>([[Talk:List of state leaders in 738]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 61]] <small>([[Talk:List of state leaders in 61]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 723]] <small>([[Talk:List of state leaders in 723]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 14]] <small>([[Talk:List of state leaders in 14]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 39]] <small>([[Talk:List of state leaders in 39]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 30 BC]] <small>([[Talk:List of state leaders in 30 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 743]] <small>([[Talk:List of state leaders in 743]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in AD 3]] <small>([[Talk:List of state leaders in AD 3]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 741]] <small>([[Talk:List of state leaders in 741]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 725]] <small>([[Talk:List of state leaders in 725]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 44]] <small>([[Talk:List of state leaders in 44]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 784]] <small>([[Talk:List of state leaders in 784]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 59]] <small>([[Talk:List of state leaders in 59]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 47]] <small>([[Talk:List of state leaders in 47]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 36]] <small>([[Talk:List of state leaders in 36]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 724]] <small>([[Talk:List of state leaders in 724]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 2 BC]] <small>([[Talk:List of state leaders in 2 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 766]] <small>([[Talk:List of state leaders in 766]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 37 BC]] <small>([[Talk:List of state leaders in 37 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 43 BC]] <small>([[Talk:List of state leaders in 43 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 773]] <small>([[Talk:List of state leaders in 773]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 44 BC]] <small>([[Talk:List of state leaders in 44 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 757]] <small>([[Talk:List of state leaders in 757]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 767]] <small>([[Talk:List of state leaders in 767]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 759]] <small>([[Talk:List of state leaders in 759]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 749]] <small>([[Talk:List of state leaders in 749]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 60]] <small>([[Talk:List of state leaders in 60]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 726]] <small>([[Talk:List of state leaders in 726]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1010s BC]] <small>([[Talk:List of state leaders in 1010s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 734]] <small>([[Talk:List of state leaders in 734]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 783]] <small>([[Talk:List of state leaders in 783]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 785]] <small>([[Talk:List of state leaders in 785]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 30]] <small>([[Talk:List of state leaders in 30]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 760]] <small>([[Talk:List of state leaders in 760]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 406]] <small>([[Talk:List of state leaders in 406]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 196]] <small>([[Talk:List of state leaders in 196]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 411]] <small>([[Talk:List of state leaders in 411]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 417]] <small>([[Talk:List of state leaders in 417]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 194]] <small>([[Talk:List of state leaders in 194]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 108]] <small>([[Talk:List of state leaders in 108]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 195]] <small>([[Talk:List of state leaders in 195]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 115]] <small>([[Talk:List of state leaders in 115]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 172]] <small>([[Talk:List of state leaders in 172]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 397]] <small>([[Talk:List of state leaders in 397]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 408]] <small>([[Talk:List of state leaders in 408]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 171]] <small>([[Talk:List of state leaders in 171]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 438]] <small>([[Talk:List of state leaders in 438]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 405]] <small>([[Talk:List of state leaders in 405]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 403]] <small>([[Talk:List of state leaders in 403]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 143]] <small>([[Talk:List of state leaders in 143]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 149]] <small>([[Talk:List of state leaders in 149]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 198]] <small>([[Talk:List of state leaders in 198]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 163]] <small>([[Talk:List of state leaders in 163]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 410]] <small>([[Talk:List of state leaders in 410]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 107]] <small>([[Talk:List of state leaders in 107]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 399]] <small>([[Talk:List of state leaders in 399]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 169]] <small>([[Talk:List of state leaders in 169]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 184]] <small>([[Talk:List of state leaders in 184]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 398]] <small>([[Talk:List of state leaders in 398]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 187]] <small>([[Talk:List of state leaders in 187]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 158]] <small>([[Talk:List of state leaders in 158]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 164]] <small>([[Talk:List of state leaders in 164]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 109]] <small>([[Talk:List of state leaders in 109]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 180]] <small>([[Talk:List of state leaders in 180]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 114]] <small>([[Talk:List of state leaders in 114]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 189]] <small>([[Talk:List of state leaders in 189]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 181]] <small>([[Talk:List of state leaders in 181]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 197]] <small>([[Talk:List of state leaders in 197]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 192]] <small>([[Talk:List of state leaders in 192]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 174]] <small>([[Talk:List of state leaders in 174]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 162]] <small>([[Talk:List of state leaders in 162]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 168]] <small>([[Talk:List of state leaders in 168]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 182]] <small>([[Talk:List of state leaders in 182]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 76]] <small>([[Talk:List of state leaders in 76]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 235 BC]] <small>([[Talk:List of state leaders in 235 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 236 BC]] <small>([[Talk:List of state leaders in 236 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 831]] <small>([[Talk:List of state leaders in 831]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 828]] <small>([[Talk:List of state leaders in 828]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 827]] <small>([[Talk:List of state leaders in 827]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 826]] <small>([[Talk:List of state leaders in 826]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 832]] <small>([[Talk:List of state leaders in 832]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 830]] <small>([[Talk:List of state leaders in 830]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 829]] <small>([[Talk:List of state leaders in 829]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 834]] <small>([[Talk:List of state leaders in 834]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 833]] <small>([[Talk:List of state leaders in 833]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 835]] <small>([[Talk:List of state leaders in 835]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 237 BC]] <small>([[Talk:List of state leaders in 237 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 970s BC]] <small>([[Talk:List of state leaders in 970s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 116]] <small>([[Talk:List of state leaders in 116]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 142]] <small>([[Talk:List of state leaders in 142]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 121]] <small>([[Talk:List of state leaders in 121]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 138]] <small>([[Talk:List of state leaders in 138]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 133]] <small>([[Talk:List of state leaders in 133]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 140]] <small>([[Talk:List of state leaders in 140]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 134]] <small>([[Talk:List of state leaders in 134]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 117]] <small>([[Talk:List of state leaders in 117]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 120]] <small>([[Talk:List of state leaders in 120]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 139]] <small>([[Talk:List of state leaders in 139]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 118]] <small>([[Talk:List of state leaders in 118]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 119]] <small>([[Talk:List of state leaders in 119]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 135]] <small>([[Talk:List of state leaders in 135]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 123]] <small>([[Talk:List of state leaders in 123]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 131]] <small>([[Talk:List of state leaders in 131]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 126]] <small>([[Talk:List of state leaders in 126]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 141]] <small>([[Talk:List of state leaders in 141]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 132]] <small>([[Talk:List of state leaders in 132]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 122]] <small>([[Talk:List of state leaders in 122]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 128]] <small>([[Talk:List of state leaders in 128]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 125]] <small>([[Talk:List of state leaders in 125]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 129]] <small>([[Talk:List of state leaders in 129]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 136]] <small>([[Talk:List of state leaders in 136]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 137]] <small>([[Talk:List of state leaders in 137]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 130]] <small>([[Talk:List of state leaders in 130]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 82]] <small>([[Talk:List of state leaders in 82]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 217 BC]] <small>([[Talk:List of state leaders in 217 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 214 BC]] <small>([[Talk:List of state leaders in 214 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 206 BC]] <small>([[Talk:List of state leaders in 206 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 213 BC]] <small>([[Talk:List of state leaders in 213 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 207 BC]] <small>([[Talk:List of state leaders in 207 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 212 BC]] <small>([[Talk:List of state leaders in 212 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 202 BC]] <small>([[Talk:List of state leaders in 202 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 210 BC]] <small>([[Talk:List of state leaders in 210 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 209 BC]] <small>([[Talk:List of state leaders in 209 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 215 BC]] <small>([[Talk:List of state leaders in 215 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 201 BC]] <small>([[Talk:List of state leaders in 201 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 198 BC]] <small>([[Talk:List of state leaders in 198 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 196 BC]] <small>([[Talk:List of state leaders in 196 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 197 BC]] <small>([[Talk:List of state leaders in 197 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 199 BC]] <small>([[Talk:List of state leaders in 199 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 195 BC]] <small>([[Talk:List of state leaders in 195 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 200 BC]] <small>([[Talk:List of state leaders in 200 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 203 BC]] <small>([[Talk:List of state leaders in 203 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 219 BC]] <small>([[Talk:List of state leaders in 219 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 211 BC]] <small>([[Talk:List of state leaders in 211 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 220 BC]] <small>([[Talk:List of state leaders in 220 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 208 BC]] <small>([[Talk:List of state leaders in 208 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 216 BC]] <small>([[Talk:List of state leaders in 216 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 218 BC]] <small>([[Talk:List of state leaders in 218 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 205 BC]] <small>([[Talk:List of state leaders in 205 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 137 BC]] <small>([[Talk:List of state leaders in 137 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 204 BC]] <small>([[Talk:List of state leaders in 204 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 479 BC]] <small>([[Talk:List of state leaders in 479 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 518]] <small>([[Talk:List of state leaders in 518]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 516]] <small>([[Talk:List of state leaders in 516]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 507]] <small>([[Talk:List of state leaders in 507]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 503]] <small>([[Talk:List of state leaders in 503]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 515]] <small>([[Talk:List of state leaders in 515]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 512]] <small>([[Talk:List of state leaders in 512]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 506]] <small>([[Talk:List of state leaders in 506]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 505]] <small>([[Talk:List of state leaders in 505]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 508]] <small>([[Talk:List of state leaders in 508]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 510]] <small>([[Talk:List of state leaders in 510]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 509]] <small>([[Talk:List of state leaders in 509]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 517]] <small>([[Talk:List of state leaders in 517]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 124]] <small>([[Talk:List of state leaders in 124]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 513]] <small>([[Talk:List of state leaders in 513]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 514]] <small>([[Talk:List of state leaders in 514]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 689]] <small>([[Talk:List of state leaders in 689]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 511]] <small>([[Talk:List of state leaders in 511]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 696]] <small>([[Talk:List of state leaders in 696]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 693]] <small>([[Talk:List of state leaders in 693]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 683]] <small>([[Talk:List of state leaders in 683]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 686]] <small>([[Talk:List of state leaders in 686]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 682]] <small>([[Talk:List of state leaders in 682]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 697]] <small>([[Talk:List of state leaders in 697]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 699]] <small>([[Talk:List of state leaders in 699]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 698]] <small>([[Talk:List of state leaders in 698]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 695]] <small>([[Talk:List of state leaders in 695]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 501]] <small>([[Talk:List of state leaders in 501]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 691]] <small>([[Talk:List of state leaders in 691]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 502]] <small>([[Talk:List of state leaders in 502]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 688]] <small>([[Talk:List of state leaders in 688]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 684]] <small>([[Talk:List of state leaders in 684]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 690]] <small>([[Talk:List of state leaders in 690]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 687]] <small>([[Talk:List of state leaders in 687]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 685]] <small>([[Talk:List of state leaders in 685]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 692]] <small>([[Talk:List of state leaders in 692]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 694]] <small>([[Talk:List of state leaders in 694]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 541]] <small>([[Talk:List of state leaders in 541]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 951]] <small>([[Talk:List of state leaders in 951]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 945]] <small>([[Talk:List of state leaders in 945]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 990]] <small>([[Talk:List of state leaders in 990]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 947]] <small>([[Talk:List of state leaders in 947]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 925]] <small>([[Talk:List of state leaders in 925]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 954]] <small>([[Talk:List of state leaders in 954]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 992]] <small>([[Talk:List of state leaders in 992]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 971]] <small>([[Talk:List of state leaders in 971]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 968]] <small>([[Talk:List of state leaders in 968]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 950]] <small>([[Talk:List of state leaders in 950]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 997]] <small>([[Talk:List of state leaders in 997]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 923]] <small>([[Talk:List of state leaders in 923]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 924]] <small>([[Talk:List of state leaders in 924]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 994]] <small>([[Talk:List of state leaders in 994]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 993]] <small>([[Talk:List of state leaders in 993]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 963]] <small>([[Talk:List of state leaders in 963]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 958]] <small>([[Talk:List of state leaders in 958]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 908]] <small>([[Talk:List of state leaders in 908]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 959]] <small>([[Talk:List of state leaders in 959]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 961]] <small>([[Talk:List of state leaders in 961]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 995]] <small>([[Talk:List of state leaders in 995]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 922]] <small>([[Talk:List of state leaders in 922]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 981]] <small>([[Talk:List of state leaders in 981]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 913]] <small>([[Talk:List of state leaders in 913]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 907]] <small>([[Talk:List of state leaders in 907]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 911]] <small>([[Talk:List of state leaders in 911]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 977]] <small>([[Talk:List of state leaders in 977]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 967]] <small>([[Talk:List of state leaders in 967]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 921]] <small>([[Talk:List of state leaders in 921]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 972]] <small>([[Talk:List of state leaders in 972]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 974]] <small>([[Talk:List of state leaders in 974]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 973]] <small>([[Talk:List of state leaders in 973]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 962]] <small>([[Talk:List of state leaders in 962]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 912]] <small>([[Talk:List of state leaders in 912]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 910]] <small>([[Talk:List of state leaders in 910]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 969]] <small>([[Talk:List of state leaders in 969]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 975]] <small>([[Talk:List of state leaders in 975]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 978]] <small>([[Talk:List of state leaders in 978]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 999]] <small>([[Talk:List of state leaders in 999]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 899]] <small>([[Talk:List of state leaders in 899]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 891]] <small>([[Talk:List of state leaders in 891]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 883]] <small>([[Talk:List of state leaders in 883]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 179 BC]] <small>([[Talk:List of state leaders in 179 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 894]] <small>([[Talk:List of state leaders in 894]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 890]] <small>([[Talk:List of state leaders in 890]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 895]] <small>([[Talk:List of state leaders in 895]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 898]] <small>([[Talk:List of state leaders in 898]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 889]] <small>([[Talk:List of state leaders in 889]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 897]] <small>([[Talk:List of state leaders in 897]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 881]] <small>([[Talk:List of state leaders in 881]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 896]] <small>([[Talk:List of state leaders in 896]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 888]] <small>([[Talk:List of state leaders in 888]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 906]] <small>([[Talk:List of state leaders in 906]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 930]] <small>([[Talk:List of state leaders in 930]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 956]] <small>([[Talk:List of state leaders in 956]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 886]] <small>([[Talk:List of state leaders in 886]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 887]] <small>([[Talk:List of state leaders in 887]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 882]] <small>([[Talk:List of state leaders in 882]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 929]] <small>([[Talk:List of state leaders in 929]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 933]] <small>([[Talk:List of state leaders in 933]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 941]] <small>([[Talk:List of state leaders in 941]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 949]] <small>([[Talk:List of state leaders in 949]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 952]] <small>([[Talk:List of state leaders in 952]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 948]] <small>([[Talk:List of state leaders in 948]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 946]] <small>([[Talk:List of state leaders in 946]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 942]] <small>([[Talk:List of state leaders in 942]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 944]] <small>([[Talk:List of state leaders in 944]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 953]] <small>([[Talk:List of state leaders in 953]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 991]] <small>([[Talk:List of state leaders in 991]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 943]] <small>([[Talk:List of state leaders in 943]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 989]] <small>([[Talk:List of state leaders in 989]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 957]] <small>([[Talk:List of state leaders in 957]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 964]] <small>([[Talk:List of state leaders in 964]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 797]] <small>([[Talk:List of state leaders in 797]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 825]] <small>([[Talk:List of state leaders in 825]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1140s BC]] <small>([[Talk:List of state leaders in 1140s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1130s BC]] <small>([[Talk:List of state leaders in 1130s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1180s BC]] <small>([[Talk:List of state leaders in 1180s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1150s BC]] <small>([[Talk:List of state leaders in 1150s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1120s BC]] <small>([[Talk:List of state leaders in 1120s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1190s BC]] <small>([[Talk:List of state leaders in 1190s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1060s BC]] <small>([[Talk:List of state leaders in 1060s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1070s BC]] <small>([[Talk:List of state leaders in 1070s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1100s BC]] <small>([[Talk:List of state leaders in 1100s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1110s BC]] <small>([[Talk:List of state leaders in 1110s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1170s BC]] <small>([[Talk:List of state leaders in 1170s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1160s BC]] <small>([[Talk:List of state leaders in 1160s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1090s BC]] <small>([[Talk:List of state leaders in 1090s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 1080s BC]] <small>([[Talk:List of state leaders in 1080s BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 127]] <small>([[Talk:List of state leaders in 127]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 457 BC]] <small>([[Talk:List of state leaders in 457 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 460 BC]] <small>([[Talk:List of state leaders in 460 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 49 BC]] <small>([[Talk:List of state leaders in 49 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 248]] <small>([[Talk:List of state leaders in 248]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 878]] <small>([[Talk:List of state leaders in 878]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 988]] <small>([[Talk:List of state leaders in 988]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 987]] <small>([[Talk:List of state leaders in 987]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 985]] <small>([[Talk:List of state leaders in 985]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 983]] <small>([[Talk:List of state leaders in 983]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 982]] <small>([[Talk:List of state leaders in 982]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 536]] <small>([[Talk:List of state leaders in 536]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 855]] <small>([[Talk:List of state leaders in 855]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 854]] <small>([[Talk:List of state leaders in 854]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 853]] <small>([[Talk:List of state leaders in 853]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 852]] <small>([[Talk:List of state leaders in 852]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 851]] <small>([[Talk:List of state leaders in 851]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 249 BC]] <small>([[Talk:List of state leaders in 249 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 314 BC]] <small>([[Talk:List of state leaders in 314 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 844]] <small>([[Talk:List of state leaders in 844]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 842]] <small>([[Talk:List of state leaders in 842]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 838]] <small>([[Talk:List of state leaders in 838]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 848]] <small>([[Talk:List of state leaders in 848]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 850]] <small>([[Talk:List of state leaders in 850]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 846]] <small>([[Talk:List of state leaders in 846]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 845]] <small>([[Talk:List of state leaders in 845]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 847]] <small>([[Talk:List of state leaders in 847]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 849]] <small>([[Talk:List of state leaders in 849]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 836]] <small>([[Talk:List of state leaders in 836]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 840]] <small>([[Talk:List of state leaders in 840]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 837]] <small>([[Talk:List of state leaders in 837]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 843]] <small>([[Talk:List of state leaders in 843]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 839]] <small>([[Talk:List of state leaders in 839]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 841]] <small>([[Talk:List of state leaders in 841]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 242 BC]] <small>([[Talk:List of state leaders in 242 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 241 BC]] <small>([[Talk:List of state leaders in 241 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 240 BC]] <small>([[Talk:List of state leaders in 240 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 238 BC]] <small>([[Talk:List of state leaders in 238 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 239 BC]] <small>([[Talk:List of state leaders in 239 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 248 BC]] <small>([[Talk:List of state leaders in 248 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 244 BC]] <small>([[Talk:List of state leaders in 244 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 245 BC]] <small>([[Talk:List of state leaders in 245 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 247 BC]] <small>([[Talk:List of state leaders in 247 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 246 BC]] <small>([[Talk:List of state leaders in 246 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 243 BC]] <small>([[Talk:List of state leaders in 243 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 185 BC]] <small>([[Talk:List of state leaders in 185 BC]])</small>
+| Low
+| 
+|-
+| [[List of state leaders in 984]] <small>([[Talk:List of state leaders in 984]])</small>
+| Low
+| 
+|-
+| [[General debate of the United Nations General Assembly]] <small>([[Talk:General debate of the United Nations General Assembly]])</small>
+| Low
+| 
+|-
+| [[The terrorists have won]] <small>([[Talk:The terrorists have won]])</small>
+| Low
+| 
+|-
+| [[Hogesa]] <small>([[Talk:Hogesa]])</small>
+| Low
+| 
+|-
+| [[Libertarian Party (Australia)]] <small>([[Talk:Libertarian Party (Australia)]])</small>
+| Low
+| 
+|-
+| [[Afrânio Peixoto]] <small>([[Talk:Afrânio Peixoto]])</small>
+| Low
+| 
+|-
+| [[Conseil Electoral Provisoire]] <small>([[Talk:Conseil Electoral Provisoire]])</small>
+| Low
+| 
+|-
+| [[Citizen Trump]] <small>([[Talk:Citizen Trump]])</small>
+| Low
+| 
+|-
+| [[Politics of Donald Trump]] <small>([[Talk:Politics of Donald Trump]])</small>
+| Low
+| 
+|-
+| [[Bucktails (New York)]] <small>([[Talk:Bucktails (New York)]])</small>
+| Low
+| 
+|-
+| [[Aktiv Politik]] <small>([[Talk:Aktiv Politik]])</small>
+| Low
+| 
+|-
+| [[Østfold List]] <small>([[Talk:Østfold List]])</small>
+| Low
+| 
+|-
+| [[Yemeni Congregation for Reform]] <small>([[Talk:Yemeni Congregation for Reform]])</small>
+| Low
+| 
+|-
+| [[Los Bolos]] <small>([[Talk:Los Bolos]])</small>
+| Low
+| 
+|-
+| [[Los Coludos]] <small>([[Talk:Los Coludos]])</small>
+| Low
+| 
+|-
+| [[Socialist Party of Canada (1931)]] <small>([[Talk:Socialist Party of Canada (1931)]])</small>
+| Low
+| 
+|-
+| [[Socialist Party of Iran]] <small>([[Talk:Socialist Party of Iran]])</small>
+| Low
+| 
+|-
+| [[Scottish Socialist Alliance]] <small>([[Talk:Scottish Socialist Alliance]])</small>
+| Low
+| 
+|-
+| [[Liberty Party (United States)]] <small>([[Talk:Liberty Party (United States)]])</small>
+| Low
+| 
+|-
+| [[WAFamilyFirst.com Party]] <small>([[Talk:WAFamilyFirst.com Party]])</small>
+| Low
+| 
+|-
+| [[Blue Ecology]] <small>([[Talk:Blue Ecology]])</small>
+| Low
+| 
+|-
+| [[Jewish Communist Labour Party (Poalei Zion)]] <small>([[Talk:Jewish Communist Labour Party (Poalei Zion)]])</small>
+| Low
+| 
+|-
+| [[Organization of the Bharatiya Janata Yuva Morcha]] <small>([[Talk:Organization of the Bharatiya Janata Yuva Morcha]])</small>
+| Low
+| 
+|-
+| [[Communist Party (Bolsheviks) of Lithuania and Belorussia]] <small>([[Talk:Communist Party (Bolsheviks) of Lithuania and Belorussia]])</small>
+| Low
+| 
+|-
+| [[Liberty and Democracy Party]] <small>([[Talk:Liberty and Democracy Party]])</small>
+| Low
+| 
+|-
+| [[New American Independent Party]] <small>([[Talk:New American Independent Party]])</small>
+| Low
+| 
+|-
+| [[New England Party]] <small>([[Talk:New England Party]])</small>
+| Low
+| 
+|-
+| [[Northern Rhodesian African National Congress]] <small>([[Talk:Northern Rhodesian African National Congress]])</small>
+| Low
+| 
+|-
+| [[Our Nation]] <small>([[Talk:Our Nation]])</small>
+| Low
+| 
+|-
+| [[Sakigake Party]] <small>([[Talk:Sakigake Party]])</small>
+| Low
+| 
+|-
+| [[Alldeutscher Verband]] <small>([[Talk:Alldeutscher Verband]])</small>
+| Low
+| 
+|-
+| [[Demokrasia Makini]] <small>([[Talk:Demokrasia Makini]])</small>
+| Low
+| 
+|-
+| [[Jahazi Asilia]] <small>([[Talk:Jahazi Asilia]])</small>
+| Low
+| 
+|-
+| [[Kerala Congress (Mani)]] <small>([[Talk:Kerala Congress (Mani)]])</small>
+| Low
+| 
+|-
+| [[Clean Government Political Assembly]] <small>([[Talk:Clean Government Political Assembly]])</small>
+| Low
+| 
+|-
+| [[Natural Law Party of Ontario]] <small>([[Talk:Natural Law Party of Ontario]])</small>
+| Low
+| 
+|-
+| [[Separation Party of Alberta]] <small>([[Talk:Separation Party of Alberta]])</small>
+| Low
+| 
+|-
+| [[Natural Law Party of Quebec]] <small>([[Talk:Natural Law Party of Quebec]])</small>
+| Low
+| 
+|-
+| [[Sanlakas party-list]] <small>([[Talk:Sanlakas party-list]])</small>
+| Low
+| 
+|-
+| [[Kurdistan Democratic Party of Iraq]] <small>([[Talk:Kurdistan Democratic Party of Iraq]])</small>
+| Low
+| 
+|-
+| [[People's Party Alga]] <small>([[Talk:People's Party Alga]])</small>
+| Low
+| 
+|-
+| [[Jammu and Kashmir People's Democratic Party]] <small>([[Talk:Jammu and Kashmir People's Democratic Party]])</small>
+| Low
+| 
+|-
+| [[Teddy Bear Alliance]] <small>([[Talk:Teddy Bear Alliance]])</small>
+| Low
+| 
+|-
+| [[Aleanca Maqedonase për Integrimin Europian]] <small>([[Talk:Aleanca Maqedonase për Integrimin Europian]])</small>
+| Low
+| 
+|-
+| [[Viva Managua Movement]] <small>([[Talk:Viva Managua Movement]])</small>
+| Low
+| 
+|-
+| [[Jeay Sindh Quomi Mahaz]] <small>([[Talk:Jeay Sindh Quomi Mahaz]])</small>
+| Low
+| 
+|-
+| [[Gibraltar Democratic Movement]] <small>([[Talk:Gibraltar Democratic Movement]])</small>
+| Low
+| 
+|-
+| [[National League for Democracy (Tanzania)]] <small>([[Talk:National League for Democracy (Tanzania)]])</small>
+| Low
+| 
+|-
+| [[Humanist Party (UK)]] <small>([[Talk:Humanist Party (UK)]])</small>
+| Low
+| 
+|-
+| [[Malaysian People's Wellbeing Party]] <small>([[Talk:Malaysian People's Wellbeing Party]])</small>
+| Low
+| 
+|-
+| [[Malaysian Workers' Party]] <small>([[Talk:Malaysian Workers' Party]])</small>
+| Low
+| 
+|-
+| [[Savez Narodnog Preporoda]] <small>([[Talk:Savez Narodnog Preporoda]])</small>
+| Low
+| 
+|-
+| [[Laborist Party (Argentina)]] <small>([[Talk:Laborist Party (Argentina)]])</small>
+| Low
+| 
+|-
+| [[Norodom Chakraping Proloung Khmer Party]] <small>([[Talk:Norodom Chakraping Proloung Khmer Party]])</small>
+| Low
+| 
+|-
+| [[Freedom Party (Denmark)]] <small>([[Talk:Freedom Party (Denmark)]])</small>
+| Low
+| 
+|-
+| [[Progressive Party (Serbia)]] <small>([[Talk:Progressive Party (Serbia)]])</small>
+| Low
+| 
+|-
+| [[Reformed Political Alliance]] <small>([[Talk:Reformed Political Alliance]])</small>
+| Low
+| 
+|-
+| [[Will of the People Party]] <small>([[Talk:Will of the People Party]])</small>
+| Low
+| 
+|-
+| [[Citizens' Democratic Party]] <small>([[Talk:Citizens' Democratic Party]])</small>
+| Low
+| 
+|-
+| [[Revolutionary Workers' Party (Trotskyist) (Peru)]] <small>([[Talk:Revolutionary Workers' Party (Trotskyist) (Peru)]])</small>
+| Low
+| 
+|-
+| [[Narodnoye Pravo]] <small>([[Talk:Narodnoye Pravo]])</small>
+| Low
+| 
+|-
+| [[United Progressive]] <small>([[Talk:United Progressive]])</small>
+| Low
+| 
+|-
+| [[Jamhoori Watan Party]] <small>([[Talk:Jamhoori Watan Party]])</small>
+| Low
+| 
+|-
+| [[Party of Buenos Aires Unity]] <small>([[Talk:Party of Buenos Aires Unity]])</small>
+| Low
+| 
+|-
+| [[Democratic Centre (Serbia)]] <small>([[Talk:Democratic Centre (Serbia)]])</small>
+| Low
+| 
+|-
+| [[Green Nepal Party]] <small>([[Talk:Green Nepal Party]])</small>
+| Low
+| 
+|-
+| [[LPP/LC]] <small>([[Talk:LPP/LC]])</small>
+| Low
+| 
+|-
+| [[Forward to Mars Party]] <small>([[Talk:Forward to Mars Party]])</small>
+| Low
+| 
+|-
+| [[Dominican Social Alliance]] <small>([[Talk:Dominican Social Alliance]])</small>
+| Low
+| 
+|-
+| [[GPV]] <small>([[Talk:GPV]])</small>
+| Low
+| 
+|-
+| [[Parti de l'Ordre]] <small>([[Talk:Parti de l'Ordre]])</small>
+| Low
+| 
+|-
+| [[St. Petersburg League of Struggle for the Emancipation of the Working Class]] <small>([[Talk:St. Petersburg League of Struggle for the Emancipation of the Working Class]])</small>
+| Low
+| 
+|-
+| [[Deprived Movement]] <small>([[Talk:Deprived Movement]])</small>
+| Low
+| 
+|-
+| [[Belarusian United Left Party "Fair World"]] <small>([[Talk:Belarusian United Left Party "Fair World"]])</small>
+| Low
+| 
+|-
+| [[Manitoba Confederation of Regions Party]] <small>([[Talk:Manitoba Confederation of Regions Party]])</small>
+| Low
+| 
+|-
+| [[Centrist Party]] <small>([[Talk:Centrist Party]])</small>
+| Low
+| 
+|-
+| [[Scottish Enterprise Party]] <small>([[Talk:Scottish Enterprise Party]])</small>
+| Low
+| 
+|-
+| [[Communist Party of Nepal (Masal)]] <small>([[Talk:Communist Party of Nepal (Masal)]])</small>
+| Low
+| 
+|-
+| [[Federal Party (Sri Lanka)]] <small>([[Talk:Federal Party (Sri Lanka)]])</small>
+| Low
+| 
+|-
+| [[Human Rights Party (New Zealand)]] <small>([[Talk:Human Rights Party (New Zealand)]])</small>
+| Low
+| 
+|-
+| [[National Democrats (Norway)]] <small>([[Talk:National Democrats (Norway)]])</small>
+| Low
+| 
+|-
+| [[Central and Eastern Minnesota Socialist Party]] <small>([[Talk:Central and Eastern Minnesota Socialist Party]])</small>
+| Low
+| 
+|-
+| [[Pirate Party of Australia]] <small>([[Talk:Pirate Party of Australia]])</small>
+| Low
+| 
+|-
+| [[Party of Socialists of Moldova "Motherland"]] <small>([[Talk:Party of Socialists of Moldova "Motherland"]])</small>
+| Low
+| 
+|-
+| [[Constitution Party of Pennsylvania]] <small>([[Talk:Constitution Party of Pennsylvania]])</small>
+| Low
+| 
+|-
+| [[North Carolina Green Party]] <small>([[Talk:North Carolina Green Party]])</small>
+| Low
+| 
+|-
+| [[United National Movement (Saint Kitts and Nevis)]] <small>([[Talk:United National Movement (Saint Kitts and Nevis)]])</small>
+| Low
+| 
+|-
+| [[Ata-Jurt]] <small>([[Talk:Ata-Jurt]])</small>
+| Low
+| 
+|-
+| [[Science Party (UK)]] <small>([[Talk:Science Party (UK)]])</small>
+| Low
+| 
+|-
+| [[Animals Count]] <small>([[Talk:Animals Count]])</small>
+| Low
+| 
+|-
+| [[Scottish Labour Party (Democratic Wing)]] <small>([[Talk:Scottish Labour Party (Democratic Wing)]])</small>
+| Low
+| 
+|-
+| [[Militant Labour]] <small>([[Talk:Militant Labour]])</small>
+| Low
+| 
+|-
+| [[Socialist Party Wales]] <small>([[Talk:Socialist Party Wales]])</small>
+| Low
+| 
+|-
+| [[Green Socialist Network]] <small>([[Talk:Green Socialist Network]])</small>
+| Low
+| 
+|-
+| [[Bundelkhand Congress]] <small>([[Talk:Bundelkhand Congress]])</small>
+| Low
+| 
+|-
+| [[Bernardo Ibáñez Águila]] <small>([[Talk:Bernardo Ibáñez Águila]])</small>
+| Low
+| 
+|-
+| [[Planned presidential transition of Hillary Clinton]] <small>([[Talk:Planned presidential transition of Hillary Clinton]])</small>
+| Low
+| 
+|-
+| [[Minister for Industry and Trade (New South Wales)]] <small>([[Talk:Minister for Industry and Trade (New South Wales)]])</small>
+| Low
+| 
+|-
+| [[LGBT Democrats]] <small>([[Talk:LGBT Democrats]])</small>
+| Low
+| 
+|-
+| [[Last Night in Sweden]] <small>([[Talk:Last Night in Sweden]])</small>
+| Low
+| 
+|-
+| [[Guyanese general election, 2019]] <small>([[Talk:Guyanese general election, 2019]])</small>
+| Low
+| 
+|}

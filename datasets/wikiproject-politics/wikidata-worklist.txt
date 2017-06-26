@@ -1,0 +1,162 @@
+{| class="wikitable sortable"
+|-
+! scope="col" style="width: 40%;" | Title (and talk)
+! Rating
+! Notes
+|-
+| [[A Fighting Chance]] <small>([[Talk:A Fighting Chance]])</small>
+| Low
+| 
+|-
+| [[Pametno]] <small>([[Talk:Pametno]])</small>
+| Low
+| 
+|-
+| [[Miguel Pizarro]] <small>([[Talk:Miguel Pizarro]])</small>
+| Low
+| 
+|-
+| [[Tripura Legislative Assembly election, 2018]] <small>([[Talk:Tripura Legislative Assembly election, 2018]])</small>
+| Low
+| 
+|-
+| [[Parochialism]] <small>([[Talk:Parochialism]])</small>
+| Low
+| 
+|-
+| [[Jane Green (political scientist)]] <small>([[Talk:Jane Green (political scientist)]])</small>
+| Low
+| 
+|-
+| [[Blut und Boden - Grundlagen zum neuen Reich]] <small>([[Talk:Blut und Boden - Grundlagen zum neuen Reich]])</small>
+| Low
+| 
+|-
+| [[Jedem das Seine]] <small>([[Talk:Jedem das Seine]])</small>
+| Low
+| 
+|-
+| [[List of Justices of the Supreme Court of Iceland]] <small>([[Talk:List of Justices of the Supreme Court of Iceland]])</small>
+| Mid
+| 
+|-
+| [[Civis Analytics]] <small>([[Talk:Civis Analytics]])</small>
+| Mid
+| 
+|-
+| [[Rajasthan Legislative Assembly election, 2018]] <small>([[Talk:Rajasthan Legislative Assembly election, 2018]])</small>
+| Low
+| 
+|-
+| [[Leader of the House (Bangladesh)]] <small>([[Talk:Leader of the House (Bangladesh)]])</small>
+| Low
+| 
+|-
+| [[Propaganda through media]] <small>([[Talk:Propaganda through media]])</small>
+| Low
+| 
+|-
+| [[David Burke (Canadian politician)]] <small>([[Talk:David Burke (Canadian politician)]])</small>
+| Low
+| 
+|-
+| [[Beta male (slang)]] <small>([[Talk:Beta male (slang)]])</small>
+| Low
+| 
+|-
+| [[History of conservatism in the United States]] <small>([[Talk:History of conservatism in the United States]])</small>
+| Mid
+| 
+|-
+| [[Madhya Pradesh Legislative Assembly election, 2018]] <small>([[Talk:Madhya Pradesh Legislative Assembly election, 2018]])</small>
+| Low
+| 
+|-
+| [[Karnataka Legislative Assembly election, 2018]] <small>([[Talk:Karnataka Legislative Assembly election, 2018]])</small>
+| Low
+| 
+|-
+| [[Polish presidential inauguration]] <small>([[Talk:Polish presidential inauguration]])</small>
+| Low
+| 
+|-
+| [[AltRight.com]] <small>([[Talk:AltRight.com]])</small>
+| Low
+| 
+|-
+| [[Foreign policy of the Donald Trump administration]] <small>([[Talk:Foreign policy of the Donald Trump administration]])</small>
+| Low
+| 
+|-
+| [[A Disquisition on Government]] <small>([[Talk:A Disquisition on Government]])</small>
+| Mid
+| 
+|-
+| [[British Election Study]] <small>([[Talk:British Election Study]])</small>
+| Low
+| 
+|-
+| [[Prophets of Deceit]] <small>([[Talk:Prophets of Deceit]])</small>
+| Mid
+| 
+|-
+| [[Tasibur Uddein Rahman]] <small>([[Talk:Tasibur Uddein Rahman]])</small>
+| Low
+| 
+|-
+| [[Nagaland Legislative Assembly election, 2018]] <small>([[Talk:Nagaland Legislative Assembly election, 2018]])</small>
+| Low
+| 
+|-
+| [[List of Captains Regent of San Marino, 1243–1500]] <small>([[Talk:List of Captains Regent of San Marino, 1243–1500]])</small>
+| Low
+| 
+|-
+| [[Young Bangla]] <small>([[Talk:Young Bangla]])</small>
+| Low
+| 
+|-
+| [[Master of Political Economy]] <small>([[Talk:Master of Political Economy]])</small>
+| Low
+| 
+|-
+| [[Italian Minister of Labour and Social Policies]] <small>([[Talk:Italian Minister of Labour and Social Policies]])</small>
+| Low
+| 
+|-
+| [[Freedom Movement (New Zealand)]] <small>([[Talk:Freedom Movement (New Zealand)]])</small>
+| Low
+| 
+|-
+| [[Lamia Zribi]] <small>([[Talk:Lamia Zribi]])</small>
+| Low
+| 
+|-
+| [[List of annexations]] <small>([[Talk:List of annexations]])</small>
+| Mid
+| 
+|-
+| [[Socialism in Bangladesh]] <small>([[Talk:Socialism in Bangladesh]])</small>
+| Mid
+| 
+|-
+| [[Provincial Rights Party (Manitoba)]] <small>([[Talk:Provincial Rights Party (Manitoba)]])</small>
+| Low
+| 
+|-
+| [[United States presidential election in Arizona, 1968]] <small>([[Talk:United States presidential election in Arizona, 1968]])</small>
+| Low
+| 
+|-
+| [[Import-Export Clause]] <small>([[Talk:Import-Export Clause]])</small>
+| Low
+| 
+|-
+| [[The Split Party]] <small>([[Talk:The Split Party]])</small>
+| Low
+| 
+|-
+| [[Comparison of electoral systems]] <small>([[Talk:Comparison of electoral systems]])</small>
+| High
+| 
+|}

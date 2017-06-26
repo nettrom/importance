@@ -1,0 +1,98 @@
+{| class="wikitable sortable"
+|-
+! scope="col" style="width: 40%;" | Title (and talk)
+! Rating
+! Notes
+|-
+| [[Battle of Mogadishu]] <small>([[Talk:Battle of Mogadishu]])</small>
+| High
+|
+|-
+| [[Ibuka]] <small>([[Talk:Ibuka]])</small>
+| Low
+|
+|-
+| [[Ivorian general election, 2010]] <small>([[Talk:Ivorian general election, 2010]])</small>
+| Mid
+|
+|-
+| [[Ranavalona]] <small>([[Talk:Ranavalona]])</small>
+| Low
+|
+|-
+| [[Islamic Front for Armed Jihad]] <small>([[Talk:Islamic Front for Armed Jihad]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Mutai]] <small>([[Talk:Mutai]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Southern Ndebele people]] <small>([[Talk:Southern Ndebele people]])</small>
+| Top
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Katiola]] <small>([[Talk:Katiola]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Lengue people]] <small>([[Talk:Lengue people]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Le Messager]] <small>([[Talk:Le Messager]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Askari]] <small>([[Talk:Askari]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[South African Class NG6 4-4-0]] <small>([[Talk:South African Class NG6 4-4-0]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Libyan Cup]] <small>([[Talk:Libyan Cup]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Democratic Republic of the Congo cuisine]] <small>([[Talk:Democratic Republic of the Congo cuisine]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[United Autonomous Unions of Madagascar]] <small>([[Talk:United Autonomous Unions of Madagascar]])</small>
+| High
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Index of Cameroon-related articles]] <small>([[Talk:Index of Cameroon-related articles]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[African championships]] <small>([[Talk:African championships]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Orphean warbler]] <small>([[Talk:Orphean warbler]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Dembélé]] <small>([[Talk:Dembélé]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Oujda Treaty]] <small>([[Talk:Oujda Treaty]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Matapa]] <small>([[Talk:Matapa]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Igrejas de Cristo]] <small>([[Talk:Igrejas de Cristo]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Lists of cities in Morocco and Western Sahara]] <small>([[Talk:Lists of cities in Morocco and Western Sahara]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|}

@@ -1,0 +1,15 @@
+Notes regarding articles in WikiProject Africa:
+  
+Several articles are rated multiple times with different ratings:
+  Arab_world (page ID 632944) is rated both "High" and "Mid" importance.
+  Toécé_Department (page ID 16850144) is rated both "Mid" and "Low" importance.
+  Copts (page ID 1444238) is rated both "Top" and "High" importance.
+  Kazimierz_Nowak (page ID 12802918) is rated both "High" and "Low" importance.
+  Alberto_Joaquim_Vinama (page ID 15116008) is rated both "Mid" and "Low" importance.
+  Doulougou_Department (page ID 16850110) is rated both "Mid" and "Low" importance.
+  Gaongo_Department (page ID 16850049) is rated both "Mid" and "Low" importance.
+  Ipelcé_Department (page ID 16850124) is rated both "Mid" and "Low" importance.
+  Kayao_Department (page ID 16850128) is rated both "Mid" and "Low" importance.
+  Kombissiri_Department (page ID 16850131) is rated both "Mid" and "Low" importance.
+  Saponé_Department (page ID 16850136) is rated both "Mid" and "Low" importance.
+  Sudanese_conflict_in_South_Kordofan_and_Blue_Nile (page ID 32181521) is rated both "Mid" and "Low" importance.

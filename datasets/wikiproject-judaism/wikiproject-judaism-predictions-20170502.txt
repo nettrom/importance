@@ -1,0 +1,390 @@
+{| class="wikitable sortable"
+|-
+! scope="col" style="width: 45%;" | Title
+! scope="col" style="width: 15%;" | Pred. rating
+! Notes
+|-
+| [[Second Temple]] <small>([[Talk:Second Temple|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Orthodox Union]] <small>([[Talk:Orthodox Union|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Red heifer]] <small>([[Talk:Red heifer|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Mel Brooks]] <small>([[Talk:Mel Brooks|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Religious Jewish music]] <small>([[Talk:Religious Jewish music|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Book of Leviticus]] <small>([[Talk:Book of Leviticus|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Sukkah]] <small>([[Talk:Sukkah|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Shema Yisrael]] <small>([[Talk:Shema Yisrael|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Caleb]] <small>([[Talk:Caleb|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Biblical archaeology]] <small>([[Talk:Biblical archaeology|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Arutz Sheva]] <small>([[Talk:Arutz Sheva|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[List of Assyrian kings]] <small>([[Talk:List of Assyrian kings|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Haggai]] <small>([[Talk:Haggai|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Persian Jews]] <small>([[Talk:Persian Jews|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Jewish Museum London]] <small>([[Talk:Jewish Museum London|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Jewish Federations of North America]] <small>([[Talk:Jewish Federations of North America|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Jewish Publication Society]] <small>([[Talk:Jewish Publication Society|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Palmyra]] <small>([[Talk:Palmyra|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[History of the Jews in Azerbaijan]] <small>([[Talk:History of the Jews in Azerbaijan|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Chai (symbol)]] <small>([[Talk:Chai (symbol)|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Jewish religious clothing]] <small>([[Talk:Jewish religious clothing|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Baal]] <small>([[Talk:Baal|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Meir Kahane]] <small>([[Talk:Meir Kahane|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Reconstructionist Rabbinical College]] <small>([[Talk:Reconstructionist Rabbinical College|talk]])</small>
+| style='text-align: center;' |Top
+| 
+|-
+| [[Sabbatai Zevi]] <small>([[Talk:Sabbatai Zevi|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Solomon ibn Gabirol]] <small>([[Talk:Solomon ibn Gabirol|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[I am the Lord thy God]] <small>([[Talk:I am the Lord thy God|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Isaac Alfasi]] <small>([[Talk:Isaac Alfasi|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Johanan ben Zakai]] <small>([[Talk:Johanan ben Zakai|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Merkabah mysticism]] <small>([[Talk:Merkabah mysticism|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Hexagram]] <small>([[Talk:Hexagram|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Samson Raphael Hirsch]] <small>([[Talk:Samson Raphael Hirsch|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Samael]] <small>([[Talk:Samael|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Ish-bosheth]] <small>([[Talk:Ish-bosheth|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Amon of Judah]] <small>([[Talk:Amon of Judah|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Selichot]] <small>([[Talk:Selichot|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[History of the Jews in Charleston, South Carolina]] <small>([[Talk:History of the Jews in Charleston, South Carolina|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[History of the Jews in England]] <small>([[Talk:History of the Jews in England|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Huldah]] <small>([[Talk:Huldah|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Uriah the Hittite]] <small>([[Talk:Uriah the Hittite|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[History of the Jews in England (1066–1290)]] <small>([[Talk:History of the Jews in England (1066–1290)|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Moriah College]] <small>([[Talk:Moriah College|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[New Jerusalem]] <small>([[Talk:New Jerusalem|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Sassoon family]] <small>([[Talk:Sassoon family|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Foreleg, cheeks and maw]] <small>([[Talk:Foreleg, cheeks and maw|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Daniel Bomberg]] <small>([[Talk:Daniel Bomberg|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Mount Gerizim]] <small>([[Talk:Mount Gerizim|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Eric Cantor]] <small>([[Talk:Eric Cantor|talk]])</small>
+| style='text-align: center;' |High
+| 
+|-
+| [[Eliezer ben Hurcanus]] <small>([[Talk:Eliezer ben Hurcanus|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[David Kimhi]] <small>([[Talk:David Kimhi|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Gamaliel II]] <small>([[Talk:Gamaliel II|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Samuel Mohilever]] <small>([[Talk:Samuel Mohilever|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Yitzchak Yaacov Reines]] <small>([[Talk:Yitzchak Yaacov Reines|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Malbim]] <small>([[Talk:Malbim|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Rav Huna]] <small>([[Talk:Rav Huna|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Gender and religion]] <small>([[Talk:Gender and religion|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Louis Marshall]] <small>([[Talk:Louis Marshall|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Jonathan Eybeschutz]] <small>([[Talk:Jonathan Eybeschutz|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Illui]] <small>([[Talk:Illui|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Shabbat candles]] <small>([[Talk:Shabbat candles|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Samuel Holdheim]] <small>([[Talk:Samuel Holdheim|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Yosef Hayyim]] <small>([[Talk:Yosef Hayyim|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Nosson Tzvi Finkel (Slabodka)]] <small>([[Talk:Nosson Tzvi Finkel (Slabodka)|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Conservative halakha]] <small>([[Talk:Conservative halakha|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Psalm 89]] <small>([[Talk:Psalm 89|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Book of the Kings of Judah and Israel]] <small>([[Talk:Book of the Kings of Judah and Israel|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Shomea k'oneh]] <small>([[Talk:Shomea k'oneh|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Heber the Kenite]] <small>([[Talk:Heber the Kenite|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Beadle]] <small>([[Talk:Beadle|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Jewish Publication Society of America Version]] <small>([[Talk:Jewish Publication Society of America Version|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Shabbat lamp]] <small>([[Talk:Shabbat lamp|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Yechiel Eckstein]] <small>([[Talk:Yechiel Eckstein|talk]])</small>
+| style='text-align: center;' |Mid
+| 
+|-
+| [[Yisroel Salanter]] <small>([[Talk:Yisroel Salanter|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Isaac Abarbanel]] <small>([[Talk:Isaac Abarbanel|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Felix Adler (professor)]] <small>([[Talk:Felix Adler (professor)|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Ashkenazi Hasidim]] <small>([[Talk:Ashkenazi Hasidim|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Maiden of Ludmir]] <small>([[Talk:Maiden of Ludmir|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Talmudic Academies in Syria Palaestina]] <small>([[Talk:Talmudic Academies in Syria Palaestina|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Tithes in Judaism]] <small>([[Talk:Tithes in Judaism|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Shemaryahu Talmon]] <small>([[Talk:Shemaryahu Talmon|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Rav Zeira]] <small>([[Talk:Rav Zeira|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[El-Kerak Inscription]] <small>([[Talk:El-Kerak Inscription|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Meir Abulafia]] <small>([[Talk:Meir Abulafia|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[First tithe]] <small>([[Talk:First tithe|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Tantura]] <small>([[Talk:Tantura|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[John M. Oesterreicher]] <small>([[Talk:John M. Oesterreicher|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Women as theological figures]] <small>([[Talk:Women as theological figures|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Midrash Eleh Ezkerah]] <small>([[Talk:Midrash Eleh Ezkerah|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Roger Cukierman]] <small>([[Talk:Roger Cukierman|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Pravuil]] <small>([[Talk:Pravuil|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Corsican citron]] <small>([[Talk:Corsican citron|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Moshe Shmuel Shapiro]] <small>([[Talk:Moshe Shmuel Shapiro|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Samuel de Medina]] <small>([[Talk:Samuel de Medina|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Philip Birnbaum]] <small>([[Talk:Philip Birnbaum|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Dosetai]] <small>([[Talk:Dosetai|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|-
+| [[Yitzchok Isaac Krasilschikov]] <small>([[Talk:Yitzchok Isaac Krasilschikov|talk]])</small>
+| style='text-align: center;' |Low
+| 
+|}

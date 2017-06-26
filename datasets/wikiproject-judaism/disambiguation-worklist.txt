@@ -1,0 +1,266 @@
+{| class="wikitable sortable"
+|-
+! scope="col" style="width: 40%;" | Title (and talk)
+! Rating
+! Notes
+|-
+| [[Zimri]] <small>([[Talk:Zimri]])</small>
+| Mid
+|
+|-
+| [[Seder (disambiguation)]] <small>([[Talk:Seder (disambiguation)]])</small>
+| Low
+|
+|-
+| [[Masorah]] <small>([[Talk:Masorah]])</small>
+| Mid
+|
+|-
+| [[Eglon]] <small>([[Talk:Eglon]])</small>
+| Low
+|
+|-
+| [[Elah]] <small>([[Talk:Elah]])</small>
+| Mid
+|
+|-
+| [[Tikkun]] <small>([[Talk:Tikkun]])</small>
+| Low
+|
+|-
+| [[Chofetz Chaim (disambiguation)]] <small>([[Talk:Chofetz Chaim (disambiguation)]])</small>
+| Low
+|
+|-
+| [[Kaf Hachayim]] <small>([[Talk:Kaf Hachayim]])</small>
+| Mid
+|
+|-
+| [[Naomi]] <small>([[Talk:Naomi]])</small>
+| Low
+|
+|-
+| [[Adas Israel Congregation]] <small>([[Talk:Adas Israel Congregation]])</small>
+| Low
+|
+|-
+| [[Naamah]] <small>([[Talk:Naamah]])</small>
+| Low
+|
+|-
+| [[Nadab]] <small>([[Talk:Nadab]])</small>
+| Mid
+|
+|-
+| [[Golan (disambiguation)]] <small>([[Talk:Golan (disambiguation)]])</small>
+| Mid
+|
+|-
+| [[Pene Yehoshua]] <small>([[Talk:Pene Yehoshua]])</small>
+| Low
+|
+|-
+| [[Seder Olam]] <small>([[Talk:Seder Olam]])</small>
+| Low
+|
+|-
+| [[Gabrielle]] <small>([[Talk:Gabrielle]])</small>
+| Low
+|
+|-
+| [[Baal (disambiguation)]] <small>([[Talk:Baal (disambiguation)]])</small>
+| Low
+|
+|-
+| [[Eshkol]] <small>([[Talk:Eshkol]])</small>
+| Low
+|
+|-
+| [[Me'asha]] <small>([[Talk:Me'asha]])</small>
+| Low
+|
+|-
+| [[Tammuz]] <small>([[Talk:Tammuz]])</small>
+| Mid
+|
+|-
+| [[Ohr Somayach]] <small>([[Talk:Ohr Somayach]])</small>
+| Low
+|
+|-
+| [[Etzion]] <small>([[Talk:Etzion]])</small>
+| Low
+|
+|-
+| [[Zadok (disambiguation)]] <small>([[Talk:Zadok (disambiguation)]])</small>
+| Low
+|
+|-
+| [[Etrog (disambiguation)]] <small>([[Talk:Etrog (disambiguation)]])</small>
+| Low
+|
+|-
+| [[Great Synagogue]] <small>([[Talk:Great Synagogue]])</small>
+| Low
+|
+|-
+| [[Mahalaleel]] <small>([[Talk:Mahalaleel]])</small>
+| Low
+|
+|-
+| [[Terumah (disambiguation)]] <small>([[Talk:Terumah (disambiguation)]])</small>
+| Low
+|
+|-
+| [[Pachad Yitzchok]] <small>([[Talk:Pachad Yitzchok]])</small>
+| Low
+|
+|-
+| [[Onias]] <small>([[Talk:Onias]])</small>
+| Mid
+|
+|-
+| [[Sefer haYashar]] <small>([[Talk:Sefer haYashar]])</small>
+| Low
+|
+|-
+| [[Arugas Habosem]] <small>([[Talk:Arugas Habosem]])</small>
+| Low
+|
+|-
+| [[Jewish War]] <small>([[Talk:Jewish War]])</small>
+| Low
+|
+|-
+| [[Uriah]] <small>([[Talk:Uriah]])</small>
+| Mid
+| Found through [[:Category:All disambiguation pages]]
+|-
+| [[Feinstein]] <small>([[Talk:Feinstein]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Kofer]] <small>([[Talk:Kofer]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Azariah]] <small>([[Talk:Azariah]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Perlmutter]] <small>([[Talk:Perlmutter]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Jaffe]] <small>([[Talk:Jaffe]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Brik (surname)]] <small>([[Talk:Brik (surname)]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Tractate]] <small>([[Talk:Tractate]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Adelman]] <small>([[Talk:Adelman]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Adelstein]] <small>([[Talk:Adelstein]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Komzet]] <small>([[Talk:Komzet]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Malamud]] <small>([[Talk:Malamud]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Bettelheim]] <small>([[Talk:Bettelheim]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Hamnuna]] <small>([[Talk:Hamnuna]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Zur]] <small>([[Talk:Zur]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Elath]] <small>([[Talk:Elath]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Belshazzar's feast]] <small>([[Talk:Belshazzar's feast]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Levine]] <small>([[Talk:Levine]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Eshtemoa]] <small>([[Talk:Eshtemoa]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Mariamne]] <small>([[Talk:Mariamne]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Aviv]] <small>([[Talk:Aviv]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Kalonymos family]] <small>([[Talk:Kalonymos family]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Crescas]] <small>([[Talk:Crescas]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Heilprin]] <small>([[Talk:Heilprin]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Tithes in Judaism]] <small>([[Talk:Tithes in Judaism]])</small>
+| High
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Tomer (name)]] <small>([[Talk:Tomer (name)]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Resurrection]] <small>([[Talk:Resurrection]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Machir]] <small>([[Talk:Machir]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Debir]] <small>([[Talk:Debir]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Feldman]] <small>([[Talk:Feldman]])</small>
+| Low
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Finding of Moses]] <small>([[Talk:Finding of Moses]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Eliezer]] <small>([[Talk:Eliezer]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|-
+| [[Manasses]] <small>([[Talk:Manasses]])</small>
+| Mid
+| Labelled as a disambiguation page in Wikidata
+|}

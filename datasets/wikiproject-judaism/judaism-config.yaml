@@ -1,0 +1,78 @@
+## Configuration file for creating a snapshot of WikiProject China
+name: "WikiProject Judaism"
+
+## Full category name (without namespace) for each of the four
+## importance categories we are concerned with:
+importance categories: {
+    Top: "Top-importance Judaism articles",
+    High: "High-importance Judaism articles",
+    Mid: "Mid-importance Judaism articles",
+    Low: "Low-importance Judaism articles"
+    }
+
+## Additional categories of articles, these are used when counting
+## inlinks from within the project.
+support categories:
+ - "NA-importance Judaism articles"
+ - "Unknown-importance Judaism articles"
+
+## Path to the snapshot dataset TSV for this project.
+snapshot file: wikiproject-judaism-snapshot-20170616.tsv
+
+## Path to the TSV containing articles identified as disambiguation pages
+disambiguation file: wikiproject-judaism-disambiguations-20170616.tsv
+
+## Path to the TSV dataset with inlink counts, pageviews, and Wikidata items
+dataset: wikiproject-judaism-dataset-20170616.tsv
+
+## Path to the TSV clickstream dataset with clicks, referrer counts, etc
+clickstream file: wikiproject-judaism-clickstream-20170616.tsv
+
+## Path to the GEXF file with the Wikidata network
+wikidata network: wikiproject-judaism-network-20170616.gexf
+
+## Path to the wikitable with articles that might need rerating
+prediction table: wikiproject-judaism-predictions-20170616.txt
+
+## Predictive columns
+predictors:
+ - "rank_views_perc"
+ - "rank_links_perc"
+ - "prop_proj_inlinks"
+ - "prop_from_art"
+ - "prop_act_inlinks"
+
+## Label column
+labels: "importance_rating"
+
+## Number of articles to use for training and test sets when training
+## and evaluating the model:
+test set size: 50
+training set size: 180
+
+## Configuration for SMOTE, which class should be SMOTEd, and how many
+## times larger the SMOTEd training set should be:
+SMOTE evaluation: 1
+SMOTE class: "Top"
+SMOTE factor: 2
+
+## Note that in this case we're limited by the number of High-importance
+## articles (566), which is why our SMOTE-factor is 2.
+
+## Number of articles to use for training the final model, and whether
+## to use SMOTE for oversampling there as well (with same settings as above):
+final training size: 230
+SMOTE final: 1
+
+## Model parameters, ref http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+model parameters: {
+    'n_estimators' : 1000,
+    'learning_rate': 0.05,
+    'max_depth': 7,
+    'min_samples_leaf': 16,
+    'random_state': 42
+}
+
+## Where to write out the trained model
+model file: wikiproject-judaism.gbm.model
+

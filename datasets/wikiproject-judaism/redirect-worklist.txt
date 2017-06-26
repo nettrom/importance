@@ -1,0 +1,502 @@
+{| class="wikitable sortable"
+|-
+! scope="col" style="width: 40%;" | Title (and talk)
+! Rating
+! Notes
+|-
+| [[Mosaic law]] <small>([[Talk:Mosaic law]])</small>
+| Top
+| 
+|-
+| [[Tzitz Eliezer]] <small>([[Talk:Tzitz Eliezer]])</small>
+| High
+| 
+|-
+| [[Whole offering]] <small>([[Talk:Whole offering]])</small>
+| High
+| 
+|-
+| [[Beis Yaakov Primary School]] <small>([[Talk:Beis Yaakov Primary School]])</small>
+| High
+| 
+|-
+| [[Table of books of Judeo-Christian Scripture]] <small>([[Talk:Table of books of Judeo-Christian Scripture]])</small>
+| High
+| 
+|-
+| [[Arayot]] <small>([[Talk:Arayot]])</small>
+| High
+| 
+|-
+| [[Progressive Judaism]] <small>([[Talk:Progressive Judaism]])</small>
+| High
+| 
+|-
+| [[Verbal inspiration]] <small>([[Talk:Verbal inspiration]])</small>
+| High
+| 
+|-
+| [[Positive commandment]] <small>([[Talk:Positive commandment]])</small>
+| High
+| 
+|-
+| [[Israel Isserlin]] <small>([[Talk:Israel Isserlin]])</small>
+| High
+| 
+|-
+| [[Electricity on Shabbat in Jewish law]] <small>([[Talk:Electricity on Shabbat in Jewish law]])</small>
+| High
+| 
+|-
+| [[Divorce in Judaism]] <small>([[Talk:Divorce in Judaism]])</small>
+| High
+| 
+|-
+| [[Jewish Wedding]] <small>([[Talk:Jewish Wedding]])</small>
+| High
+| 
+|-
+| [[Waw/Vav (letter)]] <small>([[Talk:Waw/Vav (letter)]])</small>
+| High
+| 
+|-
+| [[List of Schindlerjuden]] <small>([[Talk:List of Schindlerjuden]])</small>
+| High
+| 
+|-
+| [[Kodesh Hakodashim]] <small>([[Talk:Kodesh Hakodashim]])</small>
+| Mid
+| 
+|-
+| [[Bedikah cloth]] <small>([[Talk:Bedikah cloth]])</small>
+| Mid
+| 
+|-
+| [[Dinah in rabbinic literature]] <small>([[Talk:Dinah in rabbinic literature]])</small>
+| Mid
+| 
+|-
+| [[Noahide Campaign]] <small>([[Talk:Noahide Campaign]])</small>
+| Mid
+| 
+|-
+| [[Martyrology (Judaism)]] <small>([[Talk:Martyrology (Judaism)]])</small>
+| Mid
+| 
+|-
+| [[Bashert]] <small>([[Talk:Bashert]])</small>
+| Mid
+| 
+|-
+| [[Minuth]] <small>([[Talk:Minuth]])</small>
+| Mid
+| 
+|-
+| [[Kalov (Hasidic dynasty)]] <small>([[Talk:Kalov (Hasidic dynasty)]])</small>
+| Mid
+| 
+|-
+| [[Holy Land (Biblical)]] <small>([[Talk:Holy Land (Biblical)]])</small>
+| Mid
+| 
+|-
+| [[Chafetz Chaim (book)]] <small>([[Talk:Chafetz Chaim (book)]])</small>
+| Mid
+| 
+|-
+| [[Azazel in rabbinic literature]] <small>([[Talk:Azazel in rabbinic literature]])</small>
+| Mid
+| 
+|-
+| [[History of conversion of Jews to Islam]] <small>([[Talk:History of conversion of Jews to Islam]])</small>
+| Mid
+| 
+|-
+| [[Uzbek Jews]] <small>([[Talk:Uzbek Jews]])</small>
+| Mid
+| 
+|-
+| [[List of Jewish Settlements in the Jewish Autonomous Oblast]] <small>([[Talk:List of Jewish Settlements in the Jewish Autonomous Oblast]])</small>
+| Mid
+| 
+|-
+| [[Opposition by Judaism to evolutionary theory]] <small>([[Talk:Opposition by Judaism to evolutionary theory]])</small>
+| Mid
+| 
+|-
+| [[History of the Jews in Arabia]] <small>([[Talk:History of the Jews in Arabia]])</small>
+| Mid
+| 
+|-
+| [[Wood of Ephraim]] <small>([[Talk:Wood of Ephraim]])</small>
+| Mid
+| 
+|-
+| [[Valley of Jehoshaphat]] <small>([[Talk:Valley of Jehoshaphat]])</small>
+| Mid
+| 
+|-
+| [[Tzaphqiel]] <small>([[Talk:Tzaphqiel]])</small>
+| Mid
+| 
+|-
+| [[Lev LeAchim]] <small>([[Talk:Lev LeAchim]])</small>
+| Mid
+| 
+|-
+| [[Kishke (Jewish food)]] <small>([[Talk:Kishke (Jewish food)]])</small>
+| Mid
+| 
+|-
+| [[Conservative responsa]] <small>([[Talk:Conservative responsa]])</small>
+| Mid
+| 
+|-
+| [[Dan (biblical city)]] <small>([[Talk:Dan (biblical city)]])</small>
+| Mid
+| 
+|-
+| [[Jewish and biblical units of measurement]] <small>([[Talk:Jewish and biblical units of measurement]])</small>
+| Mid
+| 
+|-
+| [[Padan-aram]] <small>([[Talk:Padan-aram]])</small>
+| Mid
+| 
+|-
+| [[Square Hebrew]] <small>([[Talk:Square Hebrew]])</small>
+| Mid
+| 
+|-
+| [[Tallit katan]] <small>([[Talk:Tallit katan]])</small>
+| Mid
+| 
+|-
+| [[Psalms 146–150]] <small>([[Talk:Psalms 146–150]])</small>
+| Mid
+| 
+|-
+| [[Shalom Ben Moses Buzaglo]] <small>([[Talk:Shalom Ben Moses Buzaglo]])</small>
+| Mid
+| 
+|-
+| [[Baruch of Tulchin]] <small>([[Talk:Baruch of Tulchin]])</small>
+| Mid
+| 
+|-
+| [[The Jewish Cantorate during the 19th Century]] <small>([[Talk:The Jewish Cantorate during the 19th Century]])</small>
+| Mid
+| 
+|-
+| [[Galut]] <small>([[Talk:Galut]])</small>
+| Mid
+| 
+|-
+| [[Criticism of the Talmud]] <small>([[Talk:Criticism of the Talmud]])</small>
+| Mid
+| 
+|-
+| [[Criticism of Haredi Judaism]] <small>([[Talk:Criticism of Haredi Judaism]])</small>
+| Mid
+| 
+|-
+| [[Kapust (Hasidic dynasty)]] <small>([[Talk:Kapust (Hasidic dynasty)]])</small>
+| Low
+| 
+|-
+| [[Even HaEzel]] <small>([[Talk:Even HaEzel]])</small>
+| Low
+| 
+|-
+| [[Temple Israel (Duluth)]] <small>([[Talk:Temple Israel (Duluth)]])</small>
+| Low
+| 
+|-
+| [[Adath Israel Orthodox]] <small>([[Talk:Adath Israel Orthodox]])</small>
+| Low
+| 
+|-
+| [[Mezonot]] <small>([[Talk:Mezonot]])</small>
+| Low
+| 
+|-
+| [[Az Yashir Moshe]] <small>([[Talk:Az Yashir Moshe]])</small>
+| Low
+| 
+|-
+| [[Beth El Synagogue]] <small>([[Talk:Beth El Synagogue]])</small>
+| Low
+| 
+|-
+| [[Beis Aharon Synagogue of Karlin-Stolin]] <small>([[Talk:Beis Aharon Synagogue of Karlin-Stolin]])</small>
+| Low
+| 
+|-
+| [[Artscroll transliteration]] <small>([[Talk:Artscroll transliteration]])</small>
+| Low
+| 
+|-
+| [[Ravnet]] <small>([[Talk:Ravnet]])</small>
+| Low
+| 
+|-
+| [[B'nai Emet Synagogue]] <small>([[Talk:B'nai Emet Synagogue]])</small>
+| Low
+| 
+|-
+| [[Kenesseth Israel Congregation]] <small>([[Talk:Kenesseth Israel Congregation]])</small>
+| Low
+| 
+|-
+| [[Congregation Kol Emes]] <small>([[Talk:Congregation Kol Emes]])</small>
+| Low
+| 
+|-
+| [[History of Nathan the Prophet]] <small>([[Talk:History of Nathan the Prophet]])</small>
+| Low
+| 
+|-
+| [[Kal vachomer]] <small>([[Talk:Kal vachomer]])</small>
+| Low
+| 
+|-
+| [[Gezeira Shava]] <small>([[Talk:Gezeira Shava]])</small>
+| Low
+| 
+|-
+| [[The writing on the wall]] <small>([[Talk:The writing on the wall]])</small>
+| Low
+| 
+|-
+| [[Temple of Aaron Congregation]] <small>([[Talk:Temple of Aaron Congregation]])</small>
+| Low
+| 
+|-
+| [[Shir Tikvah Congregation]] <small>([[Talk:Shir Tikvah Congregation]])</small>
+| Low
+| 
+|-
+| [[Potato kugel]] <small>([[Talk:Potato kugel]])</small>
+| Low
+| 
+|-
+| [[Bais Yisroel Synagogue]] <small>([[Talk:Bais Yisroel Synagogue]])</small>
+| Low
+| 
+|-
+| [[Mishloach Manot Fundraiser]] <small>([[Talk:Mishloach Manot Fundraiser]])</small>
+| Low
+| 
+|-
+| [[Nafka mina]] <small>([[Talk:Nafka mina]])</small>
+| Low
+| 
+|-
+| [[De'oraita and derabanan]] <small>([[Talk:De'oraita and derabanan]])</small>
+| Low
+| 
+|-
+| [[Angels of Presence]] <small>([[Talk:Angels of Presence]])</small>
+| Low
+| 
+|-
+| [[Arnon (western Jordan)]] <small>([[Talk:Arnon (western Jordan)]])</small>
+| Low
+| 
+|-
+| [[Jewish Heritage Center Tucson]] <small>([[Talk:Jewish Heritage Center Tucson]])</small>
+| Low
+| 
+|-
+| [[Avvites (of Philistia)]] <small>([[Talk:Avvites (of Philistia)]])</small>
+| Low
+| 
+|-
+| [[High places (Ancient Israel)]] <small>([[Talk:High places (Ancient Israel)]])</small>
+| Low
+| 
+|-
+| [[Bath (volume)]] <small>([[Talk:Bath (volume)]])</small>
+| Low
+| 
+|-
+| [[Betryal]] <small>([[Talk:Betryal]])</small>
+| Low
+| 
+|-
+| [[Deuteronomic Cycle]] <small>([[Talk:Deuteronomic Cycle]])</small>
+| Low
+| 
+|-
+| [[Gadara Region Project]] <small>([[Talk:Gadara Region Project]])</small>
+| Low
+| 
+|-
+| [[Chaim Mordechai Margoliot]] <small>([[Talk:Chaim Mordechai Margoliot]])</small>
+| Low
+| 
+|-
+| [[Hillel Day School]] <small>([[Talk:Hillel Day School]])</small>
+| Low
+| 
+|-
+| [[History of the Jews in Tajikistan]] <small>([[Talk:History of the Jews in Tajikistan]])</small>
+| Low
+| 
+|-
+| [[International Jewish Correspondence]] <small>([[Talk:International Jewish Correspondence]])</small>
+| Low
+| 
+|-
+| [[Jewish Federation of Greater Indianapolis]] <small>([[Talk:Jewish Federation of Greater Indianapolis]])</small>
+| Low
+| 
+|-
+| [[Israelite diaspora]] <small>([[Talk:Israelite diaspora]])</small>
+| Low
+| 
+|-
+| [[Jewsweek]] <small>([[Talk:Jewsweek]])</small>
+| Low
+| 
+|-
+| [[Joseph ben Gorion]] <small>([[Talk:Joseph ben Gorion]])</small>
+| Low
+| 
+|-
+| [[Kofer]] <small>([[Talk:Kofer]])</small>
+| Low
+| 
+|-
+| [[Ruha d-Qudsha]] <small>([[Talk:Ruha d-Qudsha]])</small>
+| Low
+| 
+|-
+| [[Yeshiva Tiferes Bachurim]] <small>([[Talk:Yeshiva Tiferes Bachurim]])</small>
+| Low
+| 
+|-
+| [[2000 New York terror attack]] <small>([[Talk:2000 New York terror attack]])</small>
+| Low
+| 
+|-
+| [[Habonim Dror Australia]] <small>([[Talk:Habonim Dror Australia]])</small>
+| Low
+| 
+|-
+| [[Josef Schmidt]] <small>([[Talk:Josef Schmidt]])</small>
+| Low
+| 
+|-
+| [[Maurice Davis (rabbi)]] <small>([[Talk:Maurice Davis (rabbi)]])</small>
+| Low
+| 
+|-
+| [[Abraham Bornstein]] <small>([[Talk:Abraham Bornstein]])</small>
+| Low
+| 
+|-
+| [[Nissi]] <small>([[Talk:Nissi]])</small>
+| Low
+| 
+|-
+| [[Nizkor]] <small>([[Talk:Nizkor]])</small>
+| Low
+| 
+|-
+| [[Pardes House Primary School]] <small>([[Talk:Pardes House Primary School]])</small>
+| Low
+| 
+|-
+| [[Shabbat module]] <small>([[Talk:Shabbat module]])</small>
+| Low
+| 
+|-
+| [[Tefillin campaign]] <small>([[Talk:Tefillin campaign]])</small>
+| Low
+| 
+|-
+| [[The Puttermesser Papers]] <small>([[Talk:The Puttermesser Papers]])</small>
+| Low
+| 
+|-
+| [[Yeshiva University High School for Boys]] <small>([[Talk:Yeshiva University High School for Boys]])</small>
+| Low
+| 
+|-
+| [[Shabbat clock]] <small>([[Talk:Shabbat clock]])</small>
+| Low
+| 
+|-
+| [[Hometown society]] <small>([[Talk:Hometown society]])</small>
+| Low
+| 
+|-
+| [[Dodo (Biblical name)]] <small>([[Talk:Dodo (Biblical name)]])</small>
+| Low
+| 
+|-
+| [[Parkes Institute]] <small>([[Talk:Parkes Institute]])</small>
+| Low
+| 
+|-
+| [[Touro University Gay–Straight Alliance]] <small>([[Talk:Touro University Gay–Straight Alliance]])</small>
+| Low
+| 
+|-
+| [[Bat Kol (organization)]] <small>([[Talk:Bat Kol (organization)]])</small>
+| Low
+| 
+|-
+| [[Jewish lawyer stereotype]] <small>([[Talk:Jewish lawyer stereotype]])</small>
+| Low
+| 
+|-
+| [[Johanan ben Bag-Bag]] <small>([[Talk:Johanan ben Bag-Bag]])</small>
+| Low
+| 
+|-
+| [[Yaheh Hallegua]] <small>([[Talk:Yaheh Hallegua]])</small>
+| Low
+| 
+|-
+| [[Irad, Son of Enoch]] <small>([[Talk:Irad, Son of Enoch]])</small>
+| Low
+| 
+|-
+| [[Palestinian Patriarchate]] <small>([[Talk:Palestinian Patriarchate]])</small>
+| Low
+| 
+|-
+| [[Cyril Leonoff]] <small>([[Talk:Cyril Leonoff]])</small>
+| Low
+| 
+|-
+| [[4Q252]] <small>([[Talk:4Q252]])</small>
+| Low
+| 
+|-
+| [[2004 Chanukah Song Festival]] <small>([[Talk:2004 Chanukah Song Festival]])</small>
+| Low
+| 
+|-
+| [[Metatron's Cube]] <small>([[Talk:Metatron's Cube]])</small>
+| Low
+| 
+|-
+| [[Kedushas Levi]] <small>([[Talk:Kedushas Levi]])</small>
+| Low
+| 
+|-
+| [[Destroy angel]] <small>([[Talk:Destroy angel]])</small>
+| Low
+| 
+|-
+| [[Elazar ben Pedat]] <small>([[Talk:Elazar ben Pedat]])</small>
+| Low
+| 
+|-
+| [[Antisemitism in South Korea]] <small>([[Talk:Antisemitism in South Korea]])</small>
+| Low
+| 
+|}

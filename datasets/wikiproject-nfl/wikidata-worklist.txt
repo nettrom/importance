@@ -1,0 +1,126 @@
+{| class="wikitable sortable"
+|-
+! scope="col" style="width: 40%;" | Title (and talk)
+! Rating
+! Notes
+|-
+| [[1944 All-Pro Team]] <small>([[Talk:1944 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[1934 All-Pro Team]] <small>([[Talk:1934 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[1933 All-Pro Team]] <small>([[Talk:1933 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[Joe F. Carr Trophy]] <small>([[Talk:Joe F. Carr Trophy]])</small>
+| Low
+| 
+|-
+| [[Associated Press NFL Comeback Player of the Year Award]] <small>([[Talk:Associated Press NFL Comeback Player of the Year Award]])</small>
+| Mid
+| 
+|-
+| [[1941 All-Pro Team]] <small>([[Talk:1941 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[1937 All-Pro Team]] <small>([[Talk:1937 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[1938 All-Pro Team]] <small>([[Talk:1938 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[1949 All-Pro Team]] <small>([[Talk:1949 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[1935 All-Pro Team]] <small>([[Talk:1935 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[1950 All-Pro Team]] <small>([[Talk:1950 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[1942 All-Pro Team]] <small>([[Talk:1942 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[1946 All-Pro Team]] <small>([[Talk:1946 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[Associated Press NFL Coach of the Year Award]] <small>([[Talk:Associated Press NFL Coach of the Year Award]])</small>
+| Mid
+| 
+|-
+| [[1936 All-Pro Team]] <small>([[Talk:1936 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[PFWA All-Rookie Team]] <small>([[Talk:PFWA All-Rookie Team]])</small>
+| Low
+| 
+|-
+| [[1931 All-Pro Team]] <small>([[Talk:1931 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[1947 All-Pro Team]] <small>([[Talk:1947 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[1940 All-Pro Team]] <small>([[Talk:1940 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[1943 All-Pro Team]] <small>([[Talk:1943 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[Michael Roberts (American football)]] <small>([[Talk:Michael Roberts (American football)]])</small>
+| Low
+| 
+|-
+| [[1952 All-Pro Team]] <small>([[Talk:1952 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[1953 All-Pro Team]] <small>([[Talk:1953 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[1932 All-Pro Team]] <small>([[Talk:1932 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[1939 All-Pro Team]] <small>([[Talk:1939 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[1948 All-Pro Team]] <small>([[Talk:1948 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[List of players selected to the Pro Bowl]] <small>([[Talk:List of players selected to the Pro Bowl]])</small>
+| Low
+| 
+|-
+| [[1945 All-Pro Team]] <small>([[Talk:1945 All-Pro Team]])</small>
+| Mid
+| 
+|-
+| [[Associated Press NFL Rookie of the Year Award]] <small>([[Talk:Associated Press NFL Rookie of the Year Award]])</small>
+| Mid
+| 
+|-
+| [[1951 All-Pro Team]] <small>([[Talk:1951 All-Pro Team]])</small>
+| Mid
+| 
+|}

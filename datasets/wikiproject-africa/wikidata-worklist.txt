@@ -1,0 +1,178 @@
+{| class="wikitable sortable"
+|-
+! scope="col" style="width: 40%;" | Title (and talk)
+! Rating
+! Notes
+|-
+| [[Rawa (Mossi)]] <small>([[Talk:Rawa (Mossi)]])</small>
+| Low
+| 
+|-
+| [[Deeper Life Bible Church]] <small>([[Talk:Deeper Life Bible Church]])</small>
+| Low
+| 
+|-
+| [[Miss Liberia]] <small>([[Talk:Miss Liberia]])</small>
+| Low
+| 
+|-
+| [[St. George Greek Orthodox Church, Asmara]] <small>([[Talk:St. George Greek Orthodox Church, Asmara]])</small>
+| Low
+| 
+|-
+| [[Liberian Ambassador to China]] <small>([[Talk:Liberian Ambassador to China]])</small>
+| Low
+| 
+|-
+| [[Atet]] <small>([[Talk:Atet]])</small>
+| Low
+| 
+|-
+| [[Batwa-Luba clashes]] <small>([[Talk:Batwa-Luba clashes]])</small>
+| Low
+| 
+|-
+| [[Chinese Ambassador to Liberia]] <small>([[Talk:Chinese Ambassador to Liberia]])</small>
+| Low
+| 
+|-
+| [[Malagasy Chess Championship]] <small>([[Talk:Malagasy Chess Championship]])</small>
+| Low
+| 
+|-
+| [[Niga]] <small>([[Talk:Niga]])</small>
+| Low
+| 
+|-
+| [[2016–17 Kenya Cup]] <small>([[Talk:2016–17 Kenya Cup]])</small>
+| Low
+| 
+|-
+| [[United Nations Detention Facility]] <small>([[Talk:United Nations Detention Facility]])</small>
+| Low
+| 
+|-
+| [[Domestic violence in Ghana]] <small>([[Talk:Domestic violence in Ghana]])</small>
+| Low
+| 
+|-
+| [[Liberian Ambassador to the United States]] <small>([[Talk:Liberian Ambassador to the United States]])</small>
+| Low
+| 
+|-
+| [[Matana]] <small>([[Talk:Matana]])</small>
+| Mid
+| 
+|-
+| [[Kenyan Chess Championship]] <small>([[Talk:Kenyan Chess Championship]])</small>
+| Low
+| 
+|-
+| [[Tiloa]] <small>([[Talk:Tiloa]])</small>
+| Low
+| 
+|-
+| [[Kibua]] <small>([[Talk:Kibua]])</small>
+| Low
+| 
+|-
+| [[Buari]] <small>([[Talk:Buari]])</small>
+| Low
+| 
+|-
+| [[Baga Sola]] <small>([[Talk:Baga Sola]])</small>
+| Low
+| 
+|-
+| [[Cacongo]] <small>([[Talk:Cacongo]])</small>
+| Low
+| 
+|-
+| [[Ouedraogo]] <small>([[Talk:Ouedraogo]])</small>
+| Low
+| 
+|-
+| [[The Devil That Danced on the Water: A Daughter's Quest]] <small>([[Talk:The Devil That Danced on the Water: A Daughter's Quest]])</small>
+| Low
+| 
+|-
+| [[Cifunzi]] <small>([[Talk:Cifunzi]])</small>
+| Low
+| 
+|-
+| [[New Drobo]] <small>([[Talk:New Drobo]])</small>
+| Low
+| 
+|-
+| [[International Monitoring Team]] <small>([[Talk:International Monitoring Team]])</small>
+| Mid
+| 
+|-
+| [[Liberia National Movie Awards (LNMA Awards)]] <small>([[Talk:Liberia National Movie Awards (LNMA Awards)]])</small>
+| Low
+| 
+|-
+| [[Christopher (1785 ship)]] <small>([[Talk:Christopher (1785 ship)]])</small>
+| Low
+| 
+|-
+| [[Galagoides kumbirensis]] <small>([[Talk:Galagoides kumbirensis]])</small>
+| Low
+| 
+|-
+| [[Mwanza Lomba]] <small>([[Talk:Mwanza Lomba]])</small>
+| Low
+| 
+|-
+| [[Owhelogbo]] <small>([[Talk:Owhelogbo]])</small>
+| Low
+| 
+|-
+| [[Winter time (Namibia)]] <small>([[Talk:Winter time (Namibia)]])</small>
+| Low
+| 
+|-
+| [[Luhanga]] <small>([[Talk:Luhanga]])</small>
+| Low
+| 
+|-
+| [[Misurata, Libya]] <small>([[Talk:Misurata, Libya]])</small>
+| Low
+| 
+|-
+| [[Faso soap]] <small>([[Talk:Faso soap]])</small>
+| Low
+| 
+|-
+| [[Buleusa]] <small>([[Talk:Buleusa]])</small>
+| Low
+| 
+|-
+| [[Ita (Africa)]] <small>([[Talk:Ita (Africa)]])</small>
+| Low
+| 
+|-
+| [[Kyaghala]] <small>([[Talk:Kyaghala]])</small>
+| Low
+| 
+|-
+| [[The Pool War]] <small>([[Talk:The Pool War]])</small>
+| Low
+| 
+|-
+| [[Sébikotane Arrondissement]] <small>([[Talk:Sébikotane Arrondissement]])</small>
+| Mid
+| 
+|-
+| [[Eurasian hoopoe]] <small>([[Talk:Eurasian hoopoe]])</small>
+| Low
+| 
+|-
+| [[African Jazz Mokili Mobimba]] <small>([[Talk:African Jazz Mokili Mobimba]])</small>
+| Low
+| 
+|-
+| [[Mpingwe]] <small>([[Talk:Mpingwe]])</small>
+| Low
+| 
+|}

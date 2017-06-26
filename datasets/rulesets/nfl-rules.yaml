@@ -1,0 +1,19 @@
+## WikiProject National Football League rules defining certain classes
+## of articles having certain importance ratings.
+
+## For definition of the rule format, see
+## https://meta.wikimedia.org/wiki/Research:Automated_classification_of_article_importance/Importance_API_draft#Side_chain
+
+## NOTE: This is just an example, it will not be applied in practice because
+## Wikidata does not separate between NFL seasons and individual team seasons.
+
+-
+ - "National Football League"
+ - "wdt:P31"
+ - "wd:Q26895936"
+ - "High"
+-
+ - "National Football League"
+ - "wdt:P31"
+ - "wd:Q1539532"
+ - "High"
