@@ -1,0 +1,26 @@
+How to create a WikiProject snapshot:
+
+1: Upload the following Python files to Tool Labs:
+
+   snapshot-wikiproject.py
+   check-disambiguation.py
+   get-page-data.py
+
+   Upload also the configuration file(s) for the WikiProject(s) you
+   want to process.
+
+2: Run `snapshot-wikiproject.py` to get the snapshot.
+
+3: Run `check-disambiguation.py` and `get-page-data.py` to get the other two
+   datasets for that project.
+
+4: Download the snapshot from Tool Labs.
+
+5: Run `process-clickstream.py` to build the clickstream dataset.
+
+6: Download the disambiguation dataset and the view/inlink count dataset
+   from Tool Labs.
+
+7: Run `graphbuilder.py` to build the Wikidata network for the WikiProject.
+
+   
