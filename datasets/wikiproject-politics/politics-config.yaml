@@ -34,6 +34,10 @@ wikidata network: wikiproject-politics-network-20170619.gexf
 ## Path to the wikitable with articles that might need rerating
 prediction table: wikiproject-politics-predictions-20170619.txt
 
+## Path to the dataset of articles that will be sidechained
+## WP Politics currently has no such articles, so this is an empty file.
+sidechain file: wikiproject-politics-sidechain-20170619.tsv
+
 ## Predictive columns
 predictors:
  - "rank_views_perc"

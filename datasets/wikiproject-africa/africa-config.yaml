@@ -34,6 +34,10 @@ wikidata network: wikiproject-africa-network-20170616.gexf
 ## Path to the wikitable with articles that might need rerating
 prediction table: wikiproject-africa-predictions-20170616.txt
 
+## Path to the dataset of articles that will be sidechained
+## (WP Africa has none such articles at the moment, so this is an empty file)
+sidechain file: wikiproject-africa-sidechain-20170616.tsv
+
 ## Predictive columns
 predictors:
  - "rank_views_perc"

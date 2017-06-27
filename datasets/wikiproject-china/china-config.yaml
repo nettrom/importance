@@ -34,6 +34,10 @@ wikidata network: wikiproject-china-network-20170616.gexf
 ## Path to the wikitable with articles that might need rerating
 prediction table: wikiproject-china-predictions-20170616.txt
 
+## Path to the dataset of articles that will be sidechained
+## (WikiProject currently has no such articles, so this is an empty file)
+sidechain file: wikiproject-china-sidechain-20170616.tsv
+
 ## Predictive columns
 predictors:
  - "rank_views_perc"

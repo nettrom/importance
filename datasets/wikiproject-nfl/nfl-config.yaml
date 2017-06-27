@@ -34,6 +34,10 @@ wikidata network: wikiproject-nfl-network-20170616.gexf
 ## Path to the wikitable with articles that might need rerating
 prediction table: wikiproject-nfl-predictions-20170616.txt
 
+## Path to the dataset of articles that will be sidechained
+## WikiProject NFL currently has no such articles, so this file is empty.
+sidechain file: wikiproject-nfl-sidechain-20170616.tsv
+
 ## Predictive columns
 predictors:
  - "rank_views_perc"

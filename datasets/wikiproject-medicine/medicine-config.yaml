@@ -1,5 +1,8 @@
-## Configuration file for creating a snapshot of WikiProject China
+## Configuration file for creating a snapshot of WikiProject Medicine
 name: "WikiProject Medicine"
+
+## Language code of the Wikipedia where this project resides
+lang: "en"
 
 ## Full category name (without namespace) for each of the four
 ## importance categories we are concerned with:
@@ -34,6 +37,13 @@ wikidata network: wikiproject-medicine-network-20170619.gexf
 ## Path to the wikitable with articles that might need rerating
 prediction table: wikiproject-medicine-predictions-20170619.txt
 
+## Path to the ruleset that defines certain classes of articles having
+## specific importance ratings
+ruleset file: wikiproject-medicine-ruleset.yaml
+
+## Path to the dataset of articles that will be sidechained
+sidechain file: wikiproject-medicine-sidechain-20170619.tsv
+
 ## Predictive columns
 predictors:
  - "rank_views_perc"
@@ -54,7 +64,7 @@ training set size: 50
 ## times larger the SMOTEd training set should be:
 SMOTE evaluation: 1
 SMOTE class: "Top"
-SMOTE factor: 9
+SMOTE factor: 8
 
 ## Number of articles to use for training the final model, and whether
 ## to use SMOTE for oversampling there as well (with same settings as above):
@@ -63,12 +73,13 @@ SMOTE final: 1
 
 ## Model parameters, ref http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
 model parameters: {
-    'n_estimators' : 500,
+    'n_estimators' : 700,
     'learning_rate': 0.05,
     'max_depth': 7,
     'min_samples_leaf': 32,
+    'min_samples_split': 64,
     'random_state': 42
 }
 
 ## Where to write out the trained model
-model file: wikiproject-nfl.gbm.model
+model file: wikiproject-medicine.gbm.model
