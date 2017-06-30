@@ -45,7 +45,6 @@ from sklearn.ensemble import GradientBoostingClassifier as gbm
 
 from imblearn.over_sampling import SMOTE
 
-
 class Dataset:
     def __init__(self, training_data, training_labels,
                  test_data, test_labels):
@@ -77,7 +76,9 @@ class ModelTrainer:
         clickstream = pd.read_table(self.config['clickstream file'])
         # read in disambiguations
         disambiguations = pd.read_table(self.config['disambiguation file'])
-
+        # read in the list of side-chained articles
+        sidechained = pd.read_table(self.config['sidechain file'])
+        
         # Log-transform number of inlinks, views, and calculate prop_proj_inlinks
         dataset['log_inlinks'] = np.log10(1 + dataset['num_inlinks'])
         dataset['log_views'] = np.log10(1 + dataset['num_views'])
@@ -106,6 +107,10 @@ class ModelTrainer:
         # filter out disambiguations
         res = res[res.art_page_id.isin(disambiguations.page_id) == False]
 
+        # filter out all side-chained articles
+        if not sidechained.empty:
+            res = res[res.art_page_id.isin(sidechained.page_id) == False]
+        
         # calculate proportion of active inlinks
         res['prop_act_inlinks'] = np.minimum(
             1.0, res['n_act_links']/(1 + res['num_inlinks']))
@@ -115,7 +120,7 @@ class ModelTrainer:
         res['rank_links_perc'] = res.num_inlinks.rank(method='min', pct=True)
         res['rank_views'] = res.num_views.rank(method='min')
         res['rank_views_perc'] = res.num_views.rank(method='min', pct=True)
-        
+
         # make sure importance ratings are an ordered categorical variable
         res['importance_rating'] = res.importance_rating.astype(
             'category', categories=['Low', 'Mid', 'High', 'Top'], ordered=True)
@@ -142,6 +147,14 @@ class ModelTrainer:
         :type dataset: Dataset
         '''
 
+        logging.info('training set size: {}'.format(
+            len(dataset.training_labels)))
+        logging.info('training set size per label: Top={}, High={}, Mid={}, Low={}'.format(
+            len(dataset.training_labels[dataset.training_labels == 3]),
+            len(dataset.training_labels[dataset.training_labels == 0]),
+            len(dataset.training_labels[dataset.training_labels == 1]),
+            len(dataset.training_labels[dataset.training_labels == 2])))
+        
         self.model = gbm(**self.config['model parameters'])
         self.model.fit(dataset.training_data, dataset.training_labels)
 
@@ -403,6 +416,9 @@ class ModelTrainer:
         with open(self.config['model file'], 'wb') as outfile:
             pickle.dump(self.model, outfile)
 
+        with open(self.config['label encoder file'], 'wb') as outfile:
+            pickle.dump(self.le, outfile)
+            
         return()
             
 def main():
@@ -427,7 +443,7 @@ def main():
 
     trainer = ModelTrainer(args.config_file)
     trainer.read_dataset()
-    
+
     ## Make a training/test set and evaluate model performance
     split_dataset = trainer.split_train_test()
     trainer.train_model(split_dataset)

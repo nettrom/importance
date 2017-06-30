@@ -134,11 +134,7 @@ class ProjectGrabber():
                                                   art_is_redirect))
 
         # write out the snapshot to the file defined in the configuration
-        with open(proj_conf['snapshot file'], 'w', encoding='utf-8') as outfile:
-            outfile.write('talk_page_id\ttalk_revision_id\ttalk_page_title\ttalk_is_archive\tart_page_id\tart_revision_id\tart_is_redirect\timportance_rating\n') # write header
-
-            for page in all_pages:
-                outfile.write('{0.talk_page_id}\t{0.talk_revision_id}\t{0.talk_page_title}\t{0.talk_is_archive}\t{0.page_id}\t{0.revision_id}\t{0.is_redirect}\t{0.importance_rating}\n'.format(page))
+        wp.write_snapshot(all_pages, proj_conf['snapshot_file'])
 
         # ok, done
         return()

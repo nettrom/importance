@@ -61,19 +61,16 @@ class DisambiguationChecker():
         ## to grab that information later anyway, and can then check if we found
         ## additional disambiguation pages.
         
-        disambig_query = '''SELECT page_id, page_title
-                            FROM page
-                            JOIN categorylinks
-                            ON page_id=cl_from
-                            WHERE page_id IN ({idlist})
-                            AND cl_to=%(disambig_cat)s'''
+        disambig_query = '''SELECT cl_from
+                            FROM categorylinks
+                            WHERE cl_to=%(disambig_cat)s'''
         
         # read in the configuration file
         with open(config_file, 'r') as infile:
             proj_conf = load(infile)
             
-        ## page IDs of all pages in the dataset
-        all_pages = list()
+        ## mapping page ID to page title for all pages in the dataset
+        all_pages = dict()
 
         ## Read in the snapshot dataset
         with open(proj_conf['snapshot file'], 'r', encoding='utf-8') as infile:
@@ -88,43 +85,37 @@ class DisambiguationChecker():
                     continue
 
                 ## cols[4] is the page_id of the article in question
-                all_pages.append(cols[4])
+                page_id = int(cols[4])
+                page_title = cols[2]
+                all_pages[page_id] = page_title
 
         db_conn = db.connect(self.db_server, self.db_name, self.db_conf)
         if db_conn is None:
             logging.error("Unable to connect to database")
             return()
                 
-        ## Pages we've identified are disambiguation pages, stored as
-        ## dictionaries with keys for "page_id" and "page_title"
-        disambigs = list()
+        ## page ID of all disambiguation pages
+        disambigs = set()
 
-        i = 0
-        while i < len(all_pages):
-            subset = all_pages[i:i+self.slice_size]
-
-            with db.cursor(db_conn, 'dict') as db_cursor:
-                ## Use .format() to add the page IDs, but send the
-                ## category name as a standard parameter through a dict.
-                db_cursor.execute(
-                    disambig_query.format(idlist=",".join(subset)),
-                    {'disambig_cat': self.disambig_cat})
+        with db.cursor(db_conn, 'dict') as db_cursor:
+            ## Use .format() to add the page IDs, but send the
+            ## category name as a standard parameter through a dict.
+            db_cursor.execute(disambig_query,
+                {'disambig_cat': self.disambig_cat})
         
-                for row in db_cursor.fetchall():
-                    disambigs.append(
-                        {'page_id': row['page_id'],
-                         'page_title': row['page_title'].decode('utf-8')})
+            for row in db_cursor.fetchall():
+                disambigs.add(row['cl_from'])
 
-            ## done with this slice, add and iterate
-            i += self.slice_size
+        ## Find the intersection
+        disambigs = disambigs & set(all_pages.keys())
 
         ## ok, done, write out
         with open(proj_conf['disambiguation file'],
                   'w', encoding='utf-8') as outfile:
             outfile.write('page_id\tpage_title\n') # write header
-            for page_dict in disambigs:
-                outfile.write('{}\t{}\n'.format(page_dict['page_id'],
-                                                page_dict['page_title']))
+            for page_id in disambigs:
+                outfile.write('{}\t{}\n'.format(page_id,
+                                                all_pages[page_id]))
 
         ## ok, done
         return()

@@ -173,6 +173,121 @@ def load(rule_file):
 
     return((project_name, ruleset))
 
+def sidechain_entities(entity_data, ruleset):
+    '''
+    Process a set of entity data from Wikidata's API and identify any entities
+    that should be side-chained based on the given set of rules.
+
+    :param entity_data: claims about entities, as returned from Wikidata's API
+    :type entity_data: dict
+
+    :param ruleset: the side-chaining ruleset
+    :type ruleset: `Ruleset`
+    '''
+
+    ## By default, all entities are not side-chained, and we move entities
+    ## over if we find a rule match
+    non_sidechained_entities = set(entity_data.keys())
+    sidechained_entities = {}
+
+    for entity in entity_data.values():
+        if "redirects" in entity:
+            ## This is a Wikidata redirect, cannot be side-chained.
+            ## If we don't ignore them, the entity ID selected below will
+            ## point to the redirect.
+            continue
+        
+        try:
+            qid = entity['id']
+        except KeyError:
+            logging.warning('unable to get QID for {}'.format(entity))
+            continue
+
+        if not 'claims' in entity:
+            ## No claims about this entity, it should not be side-chained
+            continue
+
+        ## Importance ratings of matched rules for this entity
+        ratings = []
+        
+        for (claim, claimdata) in entity['claims'].items():
+            ## If this claim does not occur in the ruleset, this claim
+            ## cannot lead to the article being side-chained
+            if not claim in ruleset.rules:
+                continue
+            
+            if isinstance(claimdata, dict):
+                try:
+                    object_q = claimdata['mainsnak']['datavalue']['value']['id']
+                    if object_q in ruleset.rules[claim]:
+                        ratings.append(ruleset.rules[claim][object_q])
+                except KeyError:
+                    ## Claim does not point to a Wikidata entity
+                    logging.warning('not a wikidata entity:')
+                    logging.warning(claimdata)
+                    continue
+                except TypeError:
+                    ## Something along the line might not be a dict,
+                    ## which means there is not a side-chain possibility
+                    logging.warning('TypeError:')
+                    logging.warning(claimdata)
+                    continue
+            elif isinstance(claimdata, list):
+                for c in claimdata:
+                    try:
+                        object_q = c['mainsnak']['datavalue']['value']['id']
+                        if object_q in ruleset.rules[claim]:
+                            ratings.append(ruleset.rules[claim][object_q])
+                    except KeyError:
+                        ## Claim does not point to a Wikidata entity
+                        logging.warning('not a Wikidata entity?')
+                        logging.warning(c)
+                        continue
+                    except TypeError:
+                        ## Something along the line might not be a dict,
+                        ## which means there is not a side-chain possibility
+                        logging.warning('TypeError:')
+                        logging.warning(c)
+                        continue
+
+        if ratings:
+            non_sidechained_entities.remove(qid)
+            sidechained_entities[qid] = ratings
+                
+    ## Return the sidechain
+    return({'sidechain': sidechained_entities,
+            'non_sidechain': list(non_sidechained_entities)})
+
+def sidechain_q(lang, wikidata_items, ruleset):
+    '''
+    Determine which of the given wikidata items should be side-chained
+    in the given context of a WikiProject, as defined through the ruleset.
+
+    :param lang: language code of the Wikipedia edition we are working with
+    :type lang: str
+
+    :param wikidata_items: list of Wikidata entity identifiers (Q-something
+                           as strings) that are to be tested for side-chaining
+    :type wikidata_items: list
+
+    :param ruleset: the set of rules to be used for side-chaining
+    :type ruleset: `Ruleset`
+    '''
+
+    if len(wikidata_items) > MAX_ITEMS:
+        raise(TooManyItemsError)
+
+    wikidata_query_params = {'action': 'wbgetentities',
+                             'sites': '{}wiki'.format(lang),
+                             'languages': lang,
+                             'maxlag': 5,
+                             'format': 'json',
+                             'ids': "|".join(wikidata_items)}
+
+    # get the Wikidata entities for all the associated articles
+    wikidata = wd_api_request(wikidata_query_params)
+    return(sidechain_entities(wikidata['entities'], ruleset))
+    
 def sidechain(lang, articles, ruleset):
     ''''
     Determine which of the articles should be side-chained in the given
@@ -184,7 +299,7 @@ def sidechain(lang, articles, ruleset):
     :param articles: article titles to determine side-chaining for
     :type articles: list
 
-    :param ruleset: the set of rules to be checked for side-chaining
+    :param ruleset: the set of rules to be used for side-chaining
     :type ruleset: `Ruleset`
     '''
 
@@ -237,66 +352,16 @@ def sidechain(lang, articles, ruleset):
             q_title_map[wikibase_item] = page_title
         except KeyError:
             continue # article does not have a Wikidata item associated with it
-            
-    # get the Wikidata entities for all the associated articles
-    wikidata_query_params['ids'] = "|".join(q_title_map.keys())
-    wikidata = wd_api_request(wikidata_query_params)
-    for entity in wikidata['entities'].values():
-        try:
-            qid = entity['id']
-        except KeyError:
-            logging.warning('unable to get QID for {}'.format(entity))
-            continue
 
-        if not 'claims' in entity:
-            ## No claims about this entity, it should not be side-chained
-            continue
+    sidechain_result = sidechain_q(lang, q_title_map.keys(), ruleset)
 
-        if not qid in q_title_map:
-            logging.warning('found QID {}, but does not map to any known title'.format(qid))
-            continue
-
-        ## Importance ratings of matched rules for this entity
-        ratings = []
-        
-        for (claim, claimdata) in entity['claims'].items():
-            ## If this claim does not occur in the ruleset, this claim
-            ## cannot lead to the article being side-chained
-            if not claim in ruleset.rules:
-                continue
-
-            if isinstance(claimdata, dict):
-                try:
-                    object_q = claimdata['mainsnak']['datavalue']['value']['id']
-                    if object_q in ruleset.rules[claim]:
-                        ratings.append(ruleset.rules[claim][object_q])
-                except KeyError:
-                    ## Claim does not point to a Wikidata entity
-                    continue
-                except TypeError:
-                    ## Something along the line might not be a dict,
-                    ## which means there is not a side-chain possibility
-                    continue
-            elif isinstance(claimdata, list):
-                for c in claimdata:
-                    try:
-                        object_q = c['mainsnak']['datavalue']['value']['id']
-                        if object_q in ruleset.rules[claim]:
-                            ratings.append(ruleset.rules[claim][object_q])
-                    except KeyError:
-                        ## Claim does not point to a Wikidata entity
-                        continue
-                    except TypeError:
-                        ## Something along the line might not be a dict,
-                        ## which means there is not a side-chain possibility
-                        continue
-
-        if ratings:
-            ## This entity needs to be side-chained
+    # Translate Wikidata QIDs to article titles if anything got side-chained
+    if sidechain_result['sidechain']:
+        for (qid, ratings) in sidechain_result['sidechain'].items():
             page_title = q_title_map[qid]
             non_sidechain.remove(page_title)
             sidechain[page_title] = ratings
-                    
+    
     ## Return the sidechain and the non-sidechain
     return({'sidechain': sidechain,
             'non_sidechain': list(non_sidechain)})
@@ -304,7 +369,7 @@ def sidechain(lang, articles, ruleset):
 def wd_api_request(params):
     '''
     Make an HTTP request to the Wikidata API with the given parameters and
-    return the JSON dict fro mit.
+    return the JSON dict from it.
     
     :param params: URL parameters
     :type params: dict
