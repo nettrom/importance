@@ -91,6 +91,9 @@ class ModelTrainer:
         # read in disambiguations
         disambiguations = pd.read_table(
             os.path.join(config_path, config['disambiguation file']))
+        # read in the list of side-chained articles
+        sidechained = pd.read_table(
+            os.path.join(config_path, config['sidechain file']))
 
         # Log-transform number of inlinks, views, and calculate prop_proj_inlinks
         dataset['log_inlinks'] = np.log10(1 + dataset['num_inlinks'])
@@ -120,6 +123,10 @@ class ModelTrainer:
         # filter out disambiguations
         res = res[res.art_page_id.isin(disambiguations.page_id) == False]
 
+        # filter out all side-chained articles if the project has them
+        if not sidechained.empty:
+            res = res[res.art_page_id.isin(sidechained.page_id) == False]
+        
         # calculate proportion of active inlinks
         res['prop_act_inlinks'] = np.minimum(
             1.0, res['n_act_links']/(1 + res['num_inlinks']))

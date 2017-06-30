@@ -1,6 +1,9 @@
 ## Configuration file for creating a snapshot of WikiProject China
 name: "WikiProject Africa"
 
+## Language code of the Wikipedia where this project resides
+lang: "en"
+
 ## Full category name (without namespace) for each of the four
 ## importance categories we are concerned with:
 importance categories: {
@@ -37,6 +40,21 @@ prediction table: wikiproject-africa-predictions-20170616.txt
 ## Path to the dataset of articles that will be sidechained
 ## (WP Africa has none such articles at the moment, so this is an empty file)
 sidechain file: wikiproject-africa-sidechain-20170616.tsv
+
+## Columns to write out in the prediction dataset
+prediction dataset columns:
+ - "art_page_id"
+ - "pred_rating_name"
+ - "proba_Top"
+ - "proba_High"
+ - "proba_Mid"
+ - "proba_Low"
+
+## Path to the dataset of article importance predictions
+prediction dataset: wikiproject-africa-predictions-20170616.tsv
+
+## Path to the dataset of article quality predictions
+wp10 prediction dataset: wikiproject-africa-wp10-predictions-20170616.tsv
 
 ## Predictive columns
 predictors:
@@ -79,3 +97,6 @@ model parameters: {
 
 ## Where to write out the trained model
 model file: wikiproject-africa.gbm.model
+
+## Where to write out the label encoder used for importance ratings
+label encoder file: wikiproject-africa.labenc.pickle

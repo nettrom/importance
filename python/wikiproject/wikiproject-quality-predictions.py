@@ -134,6 +134,7 @@ class WikiProjectQualityPredictor:
                     pass
                     
             i += step
+            sleep(0.1) # give ORES a bit of breathing room
 
         return(results)
     

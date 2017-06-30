@@ -1,6 +1,9 @@
 ## Configuration file for creating a snapshot of WikiProject China
 name: "WikiProject Judaism"
 
+## Language code of the Wikipedia where this project resides
+lang: "en"
+
 ## Full category name (without namespace) for each of the four
 ## importance categories we are concerned with:
 importance categories: {
@@ -37,6 +40,21 @@ prediction table: wikiproject-judaism-predictions-20170616.txt
 ## Path to the dataset of articles that will be sidechained
 ## WikiProject Judaism currently has no such articles, so this is an empty file
 sidechain file: wikiproject-judaism-sidechain-20170616.tsv
+
+## Columns to write out in the prediction dataset
+prediction dataset columns:
+ - "art_page_id"
+ - "pred_rating_name"
+ - "proba_Top"
+ - "proba_High"
+ - "proba_Mid"
+ - "proba_Low"
+
+## Path to the dataset of article predictions
+prediction dataset: wikiproject-judaism-predictions-20170616.tsv
+
+## Path to the dataset of article quality predictions
+wp10 prediction dataset: wikiproject-judaism-wp10-predictions-20170616.tsv
 
 ## Predictive columns
 predictors:
@@ -80,3 +98,5 @@ model parameters: {
 ## Where to write out the trained model
 model file: wikiproject-judaism.gbm.model
 
+## Where to write out the label encoder used for importance ratings
+label encoder file: wikiproject-judaism.labenc.pickle

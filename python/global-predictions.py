@@ -150,10 +150,11 @@ class GlobalPredictor:
         ## Set all with negative views to NaN, create the index,
         ## update, then set all rows with NaN to 0 views.
         ## Consider: df.num_views[df.num_views < 0] = np.nan
-        res.loc[('num_views' < 0), 'num_views'] = np.nan
+        res.loc[(res.num_views < 0), 'num_views'] = np.nan
         res.set_index('art_page_id', inplace=True)
         res.update(newpage_views, overwrite=True)
-        res.loc[(pd.isnull(res.num_views) | ('num_views' < 0)), 'num_views'] = 0
+        res.loc[(pd.isnull(res.num_views) | \
+                 (res.num_views < 0)), 'num_views'] = 0
 
         # calculate log views
         res['log_views'] = np.log10(1 + res['num_views'])

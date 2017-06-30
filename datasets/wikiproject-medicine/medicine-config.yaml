@@ -44,6 +44,21 @@ ruleset file: wikiproject-medicine-ruleset.yaml
 ## Path to the dataset of articles that will be sidechained
 sidechain file: wikiproject-medicine-sidechain-20170619.tsv
 
+## Columns to write out in the prediction dataset
+prediction dataset columns:
+ - "art_page_id"
+ - "pred_rating_name"
+ - "proba_Top"
+ - "proba_High"
+ - "proba_Mid"
+ - "proba_Low"
+
+## Path to the dataset of article predictions
+prediction dataset: wikiproject-medicine-predictions-20170619.tsv
+
+## Path to the dataset of article quality predictions
+wp10 prediction dataset: wikiproject-medicine-wp10-predictions-20170619.tsv
+
 ## Predictive columns
 predictors:
  - "rank_views_perc"
@@ -83,3 +98,6 @@ model parameters: {
 
 ## Where to write out the trained model
 model file: wikiproject-medicine.gbm.model
+
+## Where to write out the label encoder used for importance ratings
+label encoder file: wikiproject-medicine.labenc.pickle
