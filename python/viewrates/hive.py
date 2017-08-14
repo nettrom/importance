@@ -1,8 +1,8 @@
 #!/usr/env/python
 # -*- coding: utf-8 -*-
 '''
-Script to import the result of a SQL query into Hadoop using the
-`sqoop` command line utility.
+Library with various functionality for executing Hadoop queries
+using Hive, and importing/exporting tables between MySQL and Hadoop.
 
 Copyright (c) 2017 Morten Wang
 
